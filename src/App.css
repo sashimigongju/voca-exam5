@@ -1,0 +1,899 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Arial, "Malgun Gothic", "맑은 고딕", sans-serif;
+  color: #111827;
+  background: #f3f4f6;
+}
+
+body {
+  margin: 0;
+  background: #f3f4f6;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 22px 18px;
+}
+
+.intro h1 {
+  margin: 0 0 8px;
+  font-size: 24px;
+}
+
+.intro p {
+  margin: 6px 0;
+  color: #4b5563;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 10px;
+  margin-top: 16px;
+  padding: 14px;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 170px;
+  color: #111827;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.control select,
+.control input {
+  height: 38px;
+  min-width: 170px;
+  padding: 6px 9px;
+  border: 1px solid #9ca3af;
+  border-radius: 6px;
+  background: #ffffff;
+}
+
+.btn {
+  height: 38px;
+  padding: 0 15px;
+  border: 0;
+  border-radius: 6px;
+  background: #1d4ed8;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn.secondary {
+  background: #374151;
+}
+
+.btn.light {
+  background: #6b7280;
+}
+
+.btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.status {
+  min-height: 24px;
+  margin: 10px 0;
+  color: #166534;
+  font-weight: 700;
+}
+
+.hint {
+  font-size: 13px;
+  color: #4b5563;
+}
+
+.print-area {
+  display: block;
+}
+
+.print-empty {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.empty {
+  padding: 20mm;
+  border: 1px dashed #9ca3af;
+  color: #6b7280;
+  text-align: center;
+}
+
+/* A4 한 장 */
+.print-page {
+  position: relative;
+  width: 210mm;
+  min-height: 297mm;
+  margin: 12mm auto;
+  padding: 8mm 9mm;
+  background: #ffffff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  break-after: page;
+  page-break-after: always;
+}
+
+.print-page:last-child {
+  break-after: auto;
+  page-break-after: auto;
+}
+
+.sheet-header {
+  position: relative;
+  min-height: 18mm;
+  margin-bottom: 4mm;
+  padding-bottom: 4mm;
+  border-bottom: 1px solid #777777;
+}
+
+.sheet-title {
+  font-size: 15pt;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+
+.sheet-subtitle {
+  margin-top: 1.2mm;
+  color: #444444;
+  font-size: 9pt;
+}
+
+.student-info {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  gap: 4mm;
+  font-size: 9pt;
+  white-space: nowrap;
+}
+
+.student-info label {
+  display: flex;
+  align-items: center;
+  gap: 1.2mm;
+}
+
+.student-info input {
+  width: 28mm;
+  height: 7mm;
+  padding: 1mm 1.5mm;
+  border: 1px solid #777777;
+  border-radius: 1mm;
+  background: #ffffff;
+}
+
+/* 문제를 좌우 2열로 배치 */
+.question-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 7mm;
+  align-items: start;
+}
+
+/* 두 열 사이의 세로선 */
+.question-grid::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px solid #777777;
+  content: "";
+  pointer-events: none;
+  transform: translateX(-3.5mm);
+}
+
+.q-column {
+  min-width: 0;
+}
+
+.q-row {
+  display: grid;
+  grid-template-columns: 8mm minmax(0, 1fr) 28mm;
+  min-height: 11.5mm;
+  border: 1px solid #777777;
+  border-bottom: 0;
+  background: #ffffff;
+}
+
+.q-column .q-row:last-child {
+  border-bottom: 1px solid #777777;
+}
+
+.q-no {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5mm 1mm;
+  border-right: 1px solid #777777;
+  font-size: 10pt;
+  font-weight: 700;
+}
+
+.q-prompt {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  padding: 2mm 2.2mm;
+  font-size: 9.6pt;
+  line-height: 1.32;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.q-answer-space {
+  border-left: 1px solid #777777;
+  background: #ffffff;
+}
+
+/* 정답지는 번호와 정답 두 칸만 사용 */
+.answer-page .q-row {
+  grid-template-columns: 8mm minmax(0, 1fr);
+  min-height: 10.5mm;
+}
+
+.answer-page .q-prompt {
+  font-size: 10pt;
+  font-weight: 700;
+}
+
+.page-note {
+  margin-top: 3mm;
+  color: #555555;
+  font-size: 8pt;
+  text-align: right;
+}
+
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+/* 인쇄할 때 조작 화면 숨기기 */
+@media print {
+  html,
+  body {
+    background: #ffffff;
+  }
+  
+
+  .app {
+    max-width: none;
+    padding: 0;
+  }
+
+  .screen {
+    display: none !important;
+  }
+
+  .print-area {
+    padding: 0;
+  }
+
+  .print-page {
+    margin: 0;
+    box-shadow: none;
+  }
+
+  .student-info input {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}
+
+/* 작은 화면에서 A4 미리보기 축소 */
+@media screen and (max-width: 900px) {
+  .print-page {
+    margin-bottom: -48mm;
+    transform: scale(0.82);
+    transform-origin: top center;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .controls {
+    display: block;
+  }
+
+  .control {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .control select,
+  .control input {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+    margin-top: 8px;
+  }
+
+  .print-page {
+    margin-bottom: -150mm;
+    transform: scale(0.48);
+  }
+
+  .student-info {
+    position: static;
+    justify-content: flex-start;
+    margin-top: 4mm;
+  }
+}
+.question-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+}
+/* =========================================
+   50문항을 시험지 1쪽에 넣기 위한 압축 설정
+   ========================================= */
+
+.print-page {
+  height: 297mm;
+  min-height: 297mm;
+  padding: 5mm 7mm;
+}
+
+/* 제목 영역을 조금 줄임 */
+.sheet-header {
+  min-height: 14mm;
+  margin-bottom: 2mm;
+  padding-bottom: 2mm;
+}
+
+.sheet-title {
+  font-size: 12.5pt;
+}
+
+.sheet-subtitle {
+  margin-top: 0.5mm;
+  font-size: 8pt;
+}
+
+/* 이름·날짜 영역도 압축 */
+.student-info {
+  gap: 2.5mm;
+  font-size: 8pt;
+}
+
+.student-info input {
+  width: 24mm;
+  height: 6mm;
+  padding: 0.5mm 1mm;
+}
+
+/* 두 열 사이 간격 축소 */
+.question-grid {
+  column-gap: 5mm;
+}
+
+/* 시험지 행 높이와 글자 크기 축소 */
+.q-row {
+  grid-template-columns: 7mm minmax(0, 1fr) 22mm;
+  min-height: 9.2mm;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.q-no {
+  padding: 0.5mm;
+  font-size: 8.3pt;
+}
+
+.q-prompt {
+  padding: 0.7mm 1.2mm;
+  font-size: 8.3pt;
+  line-height: 1.12;
+}
+
+/* 정답지는 답안 칸이 없으므로 더 압축 */
+.answer-page .q-row {
+  grid-template-columns: 7mm minmax(0, 1fr);
+  min-height: 8.2mm;
+}
+
+.answer-page .q-prompt {
+  padding: 0.6mm 1.2mm;
+  font-size: 8.5pt;
+  line-height: 1.1;
+}
+
+/* 하단 안내 문구도 축소 */
+.page-note {
+  margin-top: 1.5mm;
+  font-size: 7pt;
+}
+
+/* 시험지와 정답지를 각각 한 페이지로 강제 */
+.exam-page {
+  break-after: page;
+  page-break-after: always;
+}
+
+.answer-page {
+  break-after: auto;
+  page-break-after: auto;
+}
+
+/* 인쇄 전용 설정 */
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+@media print {
+  .screen {
+    display: none !important;
+  }
+
+  .app {
+    max-width: none;
+    padding: 0;
+  }
+
+  .print-area {
+    display: block;
+  }
+
+  .print-page {
+    width: 210mm;
+    height: 297mm;
+    min-height: 297mm;
+    margin: 0;
+    padding: 5mm 7mm;
+    box-shadow: none;
+  }
+}
+/* Day별 학습 영역 */
+.study-section {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 16px;
+  margin-top: 24px;
+  padding: 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+/* 왼쪽 Day 메뉴 */
+.day-menu {
+  min-width: 0;
+}
+
+.day-menu h2 {
+  margin: 0 0 12px;
+  font-size: 16px;
+}
+
+.day-list {
+  max-height: 430px;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  list-style: none;
+}
+
+.day-list li + li {
+  margin-top: 4px;
+}
+
+.day-button {
+  width: 100%;
+  padding: 9px 10px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  color: #374151;
+  text-align: left;
+  cursor: pointer;
+}
+
+.day-button:hover {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.day-button.active {
+  background: #1d4ed8;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* 오른쪽 단어 목록 */
+.word-panel {
+  min-width: 0;
+  padding-left: 16px;
+  border-left: 1px solid #e5e7eb;
+}
+
+.word-panel-header {
+  margin-bottom: 16px;
+}
+
+.word-panel-label {
+  margin: 0 0 4px;
+  color: #6b7280;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.word-panel-header h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.word-count {
+  margin: 6px 0 0;
+  color: #6b7280;
+  font-size: 13px;
+}
+
+.word-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.word-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  background: #ffffff;
+}
+
+.word-number {
+  display: inline-flex;
+  flex: 0 0 28px;
+  align-items: center;
+  justify-content: center;
+  height: 28px;
+  border-radius: 50%;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.word-text {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  color: #111827;
+  font-weight: 700;
+}
+
+.study-empty {
+  padding: 40px 20px;
+  border: 1px dashed #9ca3af;
+  color: #6b7280;
+  text-align: center;
+}
+
+/* 작은 화면 */
+@media screen and (max-width: 700px) {
+  .study-section {
+    grid-template-columns: 1fr;
+  }
+
+  .day-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+    max-height: none;
+  }
+
+  .day-list li + li {
+    margin-top: 0;
+  }
+
+  .day-button {
+    text-align: center;
+  }
+
+  .word-panel {
+    padding-top: 16px;
+    padding-left: 0;
+    border-top: 1px solid #e5e7eb;
+    border-left: 0;
+  }
+
+  .word-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 시험지 목록 홈 */
+.catalog-page {
+  max-width: 1000px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 52px 20px;
+}
+
+.catalog-header {
+  margin-bottom: 28px;
+}
+
+.catalog-label {
+  margin: 0 0 8px;
+  color: #2563eb;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.catalog-header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.catalog-header > p:last-child {
+  margin: 10px 0 0;
+  color: #6b7280;
+}
+
+.exam-catalog {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.exam-card {
+  display: flex;
+  min-height: 190px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 22px;
+  border: 1px solid #d1d5db;
+  border-radius: 12px;
+  background: #ffffff;
+}
+
+.exam-card-content {
+  min-width: 0;
+}
+
+.exam-card-label {
+  margin: 0 0 8px;
+  color: #6b7280;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.exam-card h2 {
+  margin: 0;
+  color: #111827;
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+.exam-card-content > p:last-child {
+  margin: 10px 0 0;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.exam-card-button {
+  align-self: flex-start;
+  min-height: 38px;
+  margin-top: 22px;
+  padding: 0 15px;
+  border: 0;
+  border-radius: 6px;
+  background: #1d4ed8;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.exam-card-button:disabled {
+  background: #d1d5db;
+  color: #6b7280;
+  cursor: not-allowed;
+}
+
+.back-button {
+  min-height: 34px;
+  margin-bottom: 14px;
+  padding: 0 12px;
+  border: 1px solid #9ca3af;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #374151;
+  cursor: pointer;
+}
+
+.back-button:hover {
+  background: #f3f4f6;
+}
+
+@media screen and (max-width: 700px) {
+  .catalog-page {
+    padding: 32px 16px;
+  }
+
+  .catalog-header h1 {
+    font-size: 26px;
+  }
+
+  .exam-catalog {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-card {
+    min-height: 160px;
+  }
+}
+
+/* 중3 시험지 생성 화면 */
+.middle3-app .description {
+  max-width: 900px;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.counts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.count-card {
+  padding: 8px 11px;
+  border: 1px solid #d1d5db;
+  border-radius: 7px;
+  background: #ffffff;
+  font-size: 13px;
+}
+
+.count-card strong {
+  color: #1d4ed8;
+}
+
+.type-tag {
+  display: inline-block;
+  flex: none;
+  padding: 0.2mm 0.7mm;
+  border: 1px solid #9ca3af;
+  border-radius: 2px;
+  color: #374151;
+  font-size: 6.3pt;
+  line-height: 1.1;
+}
+
+.middle3-print-page {
+  break-after: page;
+  page-break-after: always;
+}
+
+.middle3-print-page:last-child {
+  break-after: auto;
+  page-break-after: auto;
+}
+
+@media print {
+  .screen {
+    display: none !important;
+  }
+
+  .middle3-print-page {
+    margin: 0;
+    box-shadow: none;
+  }
+}
+
+/* =========================
+   민트코어 테마
+   ========================= */
+
+:root {
+  --mint-main: #78dcc8;
+  --mint-main-hover: #5ecab4;
+  --mint-deep: #12675d;
+  --mint-soft: #eafbf7;
+  --mint-line: #a7e8dd;
+  --mint-background: #f4fbf9;
+}
+
+/* 전체 배경 */
+body {
+  background: var(--mint-background);
+}
+
+/* 기본 주요 버튼 */
+.btn:not(.secondary):not(.light),
+.exam-card-button:not(:disabled) {
+  background: var(--mint-main);
+  color: var(--mint-deep);
+}
+
+/* 주요 버튼에 마우스를 올렸을 때 */
+.btn:not(:disabled):not(.secondary):not(.light):hover,
+.exam-card-button:not(:disabled):hover {
+  background: var(--mint-main-hover);
+  color: var(--mint-deep);
+}
+
+/* 인쇄 버튼 */
+.btn.secondary {
+  background: var(--mint-deep);
+  color: #ffffff;
+}
+
+/* 초기화 버튼 */
+.btn.light {
+  border: 1px solid var(--mint-line);
+  background: var(--mint-soft);
+  color: var(--mint-deep);
+}
+
+/* 성공 상태 문구 */
+.status {
+  color: var(--mint-deep);
+}
+
+/* 시험지 목록의 작은 제목 */
+.catalog-label {
+  color: var(--mint-deep);
+}
+
+/* 문항 수의 강조 숫자 */
+.count-card strong {
+  color: var(--mint-deep);
+}
+
+/* 입력창에 포커스가 갔을 때 */
+.control select:focus,
+.control input:focus,
+.student-info input:focus {
+  border-color: var(--mint-deep);
+  outline: 2px solid var(--mint-line);
+  outline-offset: 1px;
+}
+
+/* Day 메뉴를 사용하는 화면이 있을 경우 */
+.day-button:hover {
+  background: var(--mint-soft);
+  color: var(--mint-deep);
+}
+
+.day-button.active {
+  background: var(--mint-main);
+  color: var(--mint-deep);
+}
+
+/* 단어 번호 원형 표시 */
+.word-number {
+  background: var(--mint-soft);
+  color: var(--mint-deep);
+}

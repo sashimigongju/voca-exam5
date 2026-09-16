@@ -1,0 +1,10 @@
+html {
+  font-family: Arial, "Malgun Gothic", "맑은 고딕", sans-serif;
+  background: #f3f4f6;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  color: #111827;
+}
