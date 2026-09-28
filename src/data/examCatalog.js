@@ -12,16 +12,16 @@ export const examCatalog = [
     available: true,
   },
   {
-  id: 'middle3-5-6',
-  title: '동아(윤정미) 개정 중3 5·6과 시험지',
-  description: '중3 영어 5과·6과 통합 단어시험지',
-  available: true,
+    id: 'middle3-5-6',
+    title: '동아(윤정미) 개정 중3 5·6과 시험지',
+    description: '중3 영어 5과·6과 통합 단어시험지',
+    available: true,
   },
-  
+
   {
-    id: 'day-9',
-    title: 'Day 9 단어시험지',
-    description: 'VOCA Day 9 시험지',
-    available: false,
+    id: 'day-voca',
+    title: '고난도 VOCA Day별 단어시험지',
+    description: 'Day를 선택해 전체 단어 시험지와 정답지를 만듭니다.',
+    available: true,
   },
-]
+];

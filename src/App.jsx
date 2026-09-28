@@ -1,9 +1,11 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import './App.css'
-import ExamControls from './components/ExamControls'
-import QuestionColumn from './components/QuestionColumn'
+import DayExamGenerator from './pages/exams/DayExamGenerator'
 import ExamCatalog from './components/ExamCatalog'
+import ExamControls from './components/ExamControls'
 import Middle3ExamGenerator from './components/Middle3ExamGenerator'
+import QuestionColumn from './components/QuestionColumn'
+
 import { examCatalog } from './data/examCatalog'
 import {
   vocabItems,
@@ -13,6 +15,7 @@ import {
   vocab6Items,
   definition6Items,
 } from './data/vocabulary6'
+
 const examSources = {
   'middle2-unit5': {
     vocab: vocabItems,
@@ -47,13 +50,20 @@ function getPoolItems(
 function shuffle(items) {
   const copiedItems = [...items]
 
-  for (let index = copiedItems.length - 1; index > 0; index -= 1) {
+  for (
+    let index = copiedItems.length - 1;
+    index > 0;
+    index -= 1
+  ) {
     const randomIndex = Math.floor(
       Math.random() * (index + 1),
     )
 
     const temporaryItem = copiedItems[index]
-    copiedItems[index] = copiedItems[randomIndex]
+
+    copiedItems[index] =
+      copiedItems[randomIndex]
+
     copiedItems[randomIndex] = temporaryItem
   }
 
@@ -63,8 +73,12 @@ function shuffle(items) {
 function getTodayText() {
   const today = new Date()
   const year = today.getFullYear()
-  const month = String(today.getMonth() + 1).padStart(2, '0')
-  const day = String(today.getDate()).padStart(2, '0')
+  const month = String(
+    today.getMonth() + 1,
+  ).padStart(2, '0')
+  const day = String(
+    today.getDate(),
+  ).padStart(2, '0')
 
   return `${year}. ${month}. ${day}.`
 }
@@ -78,32 +92,50 @@ function splitColumns(items) {
   ]
 }
 
-
 function App() {
-  const [selectedExamId, setSelectedExamId] =
-    useState(null)
+  /*
+    selectedExamId
+    null              → 시험지 목록
+    middle1-5-6       → 중1 전용 화면
+    middle3-5-6       → 중3 전용 화면
+    middle2-unit5/6   → 기존 중2 화면
+  */
+  const [
+    selectedExamId,
+    setSelectedExamId,
+  ] = useState(null)
 
+  /*
+    현재 선택된 시험지가 중2가 아니더라도
+    App의 상태 훅은 항상 같은 순서로 실행되어야 합니다.
+    그래서 자료가 없을 때는 기본적으로 중2 5과 자료를 사용합니다.
+  */
   const currentSource =
     examSources[selectedExamId] ??
     examSources['middle2-unit5']
 
-  const currentVocabItems = currentSource.vocab
-  const currentDefinitionItems = currentSource.defs
+  const currentVocabItems =
+    currentSource.vocab
+
+  const currentDefinitionItems =
+    currentSource.defs
 
   const totalItemCount =
     currentVocabItems.length +
     currentDefinitionItems.length
 
   const [pool, setPool] = useState('all')
-  const [mode, setMode] = useState('sequential')
+  const [mode, setMode] =
+    useState('sequential')
   const [count, setCount] = useState(
     Math.min(50, totalItemCount),
   )
-  const [examItems, setExamItems] = useState([])
-  const [studentName, setStudentName] = useState('')
-  const [examDate, setExamDate] = useState(
-    getTodayText(),
-  )
+  const [examItems, setExamItems] =
+    useState([])
+  const [studentName, setStudentName] =
+    useState('')
+  const [examDate, setExamDate] =
+    useState(getTodayText())
   const [status, setStatus] = useState(
     `현재 출제 가능 문항: ${totalItemCount}개`,
   )
@@ -113,29 +145,77 @@ function App() {
     currentVocabItems,
     currentDefinitionItems,
   )
- const poolLabel = {
-  all: `1+3 전체 (${totalItemCount}개)`,
-  vocab: `1. 교과서 어휘 목록 (${currentVocabItems.length}개)`,
-  defs: `3. 필수 단어 영영풀이 (${currentDefinitionItems.length}개)`,
-}[pool]
 
-  const [leftItems, rightItems] = splitColumns(examItems)
+  const poolLabel = {
+    all: `1+3 전체 (${totalItemCount}개)`,
+    vocab: `1. 교과서 어휘 목록 (${currentVocabItems.length}개)`,
+    defs: `3. 필수 단어 영영풀이 (${currentDefinitionItems.length}개)`,
+  }[pool]
+
+  const [leftItems, rightItems] =
+    splitColumns(examItems)
+
+  /*
+    중2 시험지를 선택할 때마다
+    현재 과의 문항 수와 상태를 다시 설정합니다.
+  */
+  useEffect(() => {
+    const nextSource =
+      examSources[selectedExamId]
+
+    if (!nextSource) {
+      return
+    }
+
+    const nextTotalItemCount =
+      nextSource.vocab.length +
+      nextSource.defs.length
+
+    setPool('all')
+    setMode('sequential')
+    setCount(
+      Math.min(50, nextTotalItemCount),
+    )
+    setExamItems([])
+    setStudentName('')
+    setExamDate(getTodayText())
+    setStatus(
+      `현재 출제 가능 문항: ${nextTotalItemCount}개`,
+    )
+  }, [selectedExamId])
+
+  const handleSelectExam = (examId) => {
+    const exists = examCatalog.some(
+      (exam) => exam.id === examId,
+    )
+
+    if (!exists) {
+      return
+    }
+
+    setSelectedExamId(examId)
+  }
 
   const handlePoolChange = (event) => {
     const nextPool = event.target.value
-   const nextItems = getPoolItems(
-  nextPool,
-  currentVocabItems,
-  currentDefinitionItems,
-)
+
+    const nextItems = getPoolItems(
+      nextPool,
+      currentVocabItems,
+      currentDefinitionItems,
+    )
 
     setPool(nextPool)
 
     setCount((currentCount) => {
-      const numberCount = Number(currentCount) || 1
+      const numberCount =
+        Number(currentCount) || 1
 
       return Math.min(
-        Math.max(Math.floor(numberCount), 1),
+        Math.max(
+          Math.floor(numberCount),
+          1,
+        ),
         nextItems.length,
       )
     })
@@ -169,7 +249,9 @@ function App() {
       !Number.isFinite(requestedCount) ||
       requestedCount < 1
     ) {
-      setStatus('문항 수는 1개 이상 입력해야 합니다.')
+      setStatus(
+        '문항 수는 1개 이상 입력해야 합니다.',
+      )
       return
     }
 
@@ -200,7 +282,9 @@ function App() {
 
   const handlePrint = () => {
     if (examItems.length === 0) {
-      setStatus('먼저 시험지를 만들어 주세요.')
+      setStatus(
+        '먼저 시험지를 만들어 주세요.',
+      )
       return
     }
 
@@ -218,111 +302,112 @@ function App() {
       `현재 출제 가능 문항: ${totalItemCount}개`,
     )
   }
-  const handleSelectExam = (examId) => {
-    if (examId === 'middle3-5-6') {
-      setSelectedExamId(examId)
-      return
-    }
 
-    const nextSource = examSources[examId]
-
-    if (!nextSource) {
-      return
-    }
-
-    const nextTotalItemCount = nextSource.vocab.length +
-      nextSource.defs.length
-
-    setSelectedExamId(examId)
-    setPool('all')
-    setMode('sequential')
-    setCount(Math.min(50, nextTotalItemCount))
+  const handleBackToCatalog = () => {
+    setSelectedExamId(null)
     setExamItems([])
-    setStudentName('')
-    setExamDate(getTodayText())
+  }
 
-    setStatus(
-      `현재 출제 가능 문항: ${nextTotalItemCount}개`
+  /*
+    선택된 시험지 찾기
+  */
+  const selectedExam =
+    examCatalog.find(
+      (exam) => exam.id === selectedExamId,
+    ) ?? null
+
+  /*
+    1. 시험지 선택 전에는 목록 화면
+  */
+  if (!selectedExam) {
+    return (
+      <ExamCatalog
+        exams={examCatalog}
+        onSelectExam={handleSelectExam}
+      />
+    )
+  }
+  if (selectedExamId === 'day-voca') {
+  return (
+    <DayExamGenerator
+      onBack={handleBackToCatalog}
+    />
+  )
+}
+
+  
+  /*
+    3. 중3은 중3 전용 생성 화면
+  */
+  if (selectedExamId === 'middle3-5-6') {
+    return (
+      <Middle3ExamGenerator
+        onBack={handleBackToCatalog}
+      />
     )
   }
 
-const selectedExam =
-  examCatalog.find(
-    (exam) => exam.id === selectedExamId,
-  ) ?? null
-
-if (!selectedExam) {
-  return (
-    <ExamCatalog
-      exams={examCatalog}
-onSelectExam={handleSelectExam}
-    />
-  )
-}
-
-if (selectedExamId === 'middle3-5-6') {
-  return (
-    <Middle3ExamGenerator
-      onBack={() => {
-        setSelectedExamId(null)
-      }}
-    />
-  )
-}
-
+  /*
+    4. 여기부터는 기존 중2 생성 화면
+  */
   return (
     <main className="app">
-      {/* 화면용 설정 영역 */}
       <section className="screen">
         <button
-  className="back-button"
-  type="button"
-  onClick={() => {
-    setSelectedExamId(null)
-    setExamItems([])
-  }}
->
-  ← 시험지 목록으로
-</button>
+          className="back-button"
+          type="button"
+          onClick={handleBackToCatalog}
+        >
+          ← 시험지 목록으로
+        </button>
+
         <header className="intro">
           <h1>{selectedExam.title}</h1>
 
           <p>
-            출제 범위와 문항 수를 선택해 영어 단어시험지를
-            만들어 보세요.
+            출제 범위와 문항 수를 선택해
+            영어 단어시험지를 만들어 보세요.
           </p>
         </header>
 
-          <ExamControls
-  pool={pool}
-  mode={mode}
-  count={count}
-  totalItemCount={totalItemCount}
- vocabCount={currentVocabItems.length}
-definitionCount={currentDefinitionItems.length}
-  availableItemCount={availableItems.length}
-  hasExam={examItems.length > 0}
-  onPoolChange={handlePoolChange}
-  onModeChange={handleModeChange}
-  onCountChange={handleCountChange}
-  onGenerateExam={handleGenerateExam}
-  onPrint={handlePrint}
-  onReset={handleReset}
-/>
+        <ExamControls
+          pool={pool}
+          mode={mode}
+          count={count}
+          totalItemCount={totalItemCount}
+          vocabCount={currentVocabItems.length}
+          definitionCount={
+            currentDefinitionItems.length
+          }
+          availableItemCount={
+            availableItems.length
+          }
+          hasExam={examItems.length > 0}
+          onPoolChange={handlePoolChange}
+          onModeChange={handleModeChange}
+          onCountChange={handleCountChange}
+          onGenerateExam={
+            handleGenerateExam
+          }
+          onPrint={handlePrint}
+          onReset={handleReset}
+        />
 
-
-        <div className="status" aria-live="polite">
+        <div
+          className="status"
+          aria-live="polite"
+        >
           {status}
         </div>
 
         <p className="hint">
-          시험지 생성 후 이름과 날짜를 입력할 수 있습니다.
-          인쇄 창에서 A4, 배율 100%, 머리글 및 바닥글 해제를
-          권장합니다.
+          시험지 생성 후 이름과 날짜를
+          입력할 수 있습니다. 인쇄 창에서
+          A4, 배율 100%, 머리글 및 바닥글
+          해제를 권장합니다.
         </p>
       </section>
 
-      {/* 시험지와 정답지 영역 */}
       <section
         className="print-area"
         aria-label="시험지 미리보기"
@@ -333,7 +418,6 @@ definitionCount={currentDefinitionItems.length}
           </div>
         ) : (
           <>
-            {/* 시험지 */}
             <article className="print-page exam-page">
               <header className="sheet-header">
                 <div className="sheet-title">
@@ -351,7 +435,9 @@ definitionCount={currentDefinitionItems.length}
                       type="text"
                       value={studentName}
                       onChange={(event) =>
-                        setStudentName(event.target.value)
+                        setStudentName(
+                          event.target.value,
+                        )
                       }
                       aria-label="이름"
                     />
@@ -363,7 +449,9 @@ definitionCount={currentDefinitionItems.length}
                       type="text"
                       value={examDate}
                       onChange={(event) =>
-                        setExamDate(event.target.value)
+                        setExamDate(
+                          event.target.value,
+                        )
                       }
                       aria-label="날짜"
                     />
@@ -386,11 +474,10 @@ definitionCount={currentDefinitionItems.length}
               </div>
 
               <div className="page-note">
-                동아(윤정미) 중2 5과
+                {selectedExam.title}
               </div>
             </article>
 
-            {/* 정답지 */}
             <article className="print-page answer-page">
               <header className="sheet-header">
                 <div className="sheet-title">
@@ -417,7 +504,7 @@ definitionCount={currentDefinitionItems.length}
               </div>
 
               <div className="page-note">
-                동아(윤정미) 중2 5과 · 정답지
+                {selectedExam.title} · 정답지
               </div>
             </article>
           </>
@@ -428,4 +515,3 @@ definitionCount={currentDefinitionItems.length}
 }
 
 export default App
-

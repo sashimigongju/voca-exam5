@@ -1,0 +1,274 @@
+@page {
+  size: A4 portrait;
+  margin: 0;
+}
+
+.day-exam-page {
+  min-height: 100vh;
+  padding: 20px;
+  background: #f3f4f6;
+  color: #222;
+}
+
+.day-exam-controls {
+  max-width: 1100px;
+  margin: 0 auto 24px;
+  padding: 20px;
+  border: 1px solid #d8dbe0;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.day-back-button {
+  margin-bottom: 16px;
+}
+
+.day-screen-header {
+  margin-bottom: 20px;
+}
+
+.day-screen-header h1 {
+  margin: 0 0 8px;
+}
+
+.day-selector {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.day-selector-button {
+  display: flex;
+  min-height: 54px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  border: 1px solid #cbd0d8;
+  border-radius: 7px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.day-selector-button.selected {
+  border-color: #2457c5;
+  background: #edf3ff;
+  color: #1648b3;
+  font-weight: 700;
+}
+
+.day-selector-button small {
+  font-size: 11px;
+}
+
+.day-settings {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.day-settings label {
+  display: grid;
+  gap: 6px;
+}
+
+.day-settings select,
+.day-settings input {
+  min-height: 38px;
+  padding: 6px 8px;
+  border: 1px solid #cbd0d8;
+  border-radius: 5px;
+}
+
+.day-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.day-actions button {
+  min-height: 38px;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.day-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.day-primary-button {
+  border: 1px solid #2457c5;
+  border-radius: 5px;
+  background: #2457c5;
+  color: #fff;
+}
+
+.day-status {
+  min-height: 1.3em;
+  margin-bottom: 0;
+}
+
+.day-print-area {
+  display: grid;
+  justify-content: center;
+  gap: 18px;
+  overflow-x: auto;
+}
+
+.day-print-placeholder {
+  padding: 30px;
+  border: 1px dashed #aeb5c0;
+  background: #fff;
+  text-align: center;
+}
+
+.day-print-page {
+  position: relative;
+  box-sizing: border-box;
+  width: 210mm;
+  height: 297mm;
+  margin: 0 auto;
+  padding: 7mm 8mm;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.day-print-header {
+  display: flex;
+  height: 18mm;
+  justify-content: space-between;
+  gap: 5mm;
+  margin-bottom: 2mm;
+  border-bottom: 1px solid #555;
+}
+
+.day-print-header h2 {
+  margin: 0 0 2mm;
+  font-size: 13pt;
+}
+
+.day-print-header p {
+  margin: 0;
+  font-size: 8pt;
+}
+
+.day-print-student {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2mm;
+  padding-top: 1mm;
+  font-size: 8pt;
+  white-space: nowrap;
+}
+
+.day-print-columns {
+  position: relative;
+  display: grid;
+  height: 258mm;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 8mm;
+}
+
+.day-print-columns::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  border-left: 1px solid #888;
+  content: "";
+}
+
+.day-question-column {
+  display: grid;
+  min-height: 0;
+  height: 100%;
+}
+
+.day-question-row {
+  display: grid;
+  min-height: 0;
+  grid-template-columns: 7mm minmax(0, 1fr) 38mm;
+  gap: 1mm;
+  align-items: center;
+  overflow: hidden;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+.day-question-no {
+  font-size: 7pt;
+}
+
+.day-question-prompt,
+.day-question-answer {
+  min-width: 0;
+  overflow: hidden;
+  font-size: 7.2pt;
+  line-height: 1.05;
+  overflow-wrap: anywhere;
+  white-space: pre-line;
+}
+
+.day-question-answer {
+  align-self: stretch;
+  border-bottom: 1px solid #666;
+}
+
+.day-question-answer.is-filled {
+  display: flex;
+  align-items: center;
+  border-bottom: 0;
+  font-weight: 700;
+}
+
+.day-print-footer {
+  position: absolute;
+  right: 8mm;
+  bottom: 3mm;
+  font-size: 7pt;
+}
+
+@media print {
+  .day-exam-page {
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+  }
+
+  .day-exam-controls,
+  .day-print-placeholder {
+    display: none !important;
+  }
+
+  .day-print-area {
+    display: block;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+  }
+
+  .day-print-page {
+    width: 210mm;
+    height: 297mm;
+    min-height: 297mm;
+    max-height: 297mm;
+    margin: 0;
+    padding: 7mm 8mm;
+    box-shadow: none;
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .day-print-page:last-child {
+    break-after: auto;
+    page-break-after: auto;
+  }
+}
+
