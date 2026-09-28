@@ -3,6 +3,7 @@ import dayWordsData from '../../data/dayWords.json'
 import './DayExamGenerator.css'
 
 const WORDS_PER_PAGE = 50
+const EXAM_TITLE = '고난도 단어 모음'
 
 const dayList = Array.isArray(dayWordsData.days)
   ? dayWordsData.days
@@ -24,11 +25,10 @@ function shuffle(items) {
     const randomIndex = Math.floor(
       Math.random() * (i + 1),
     )
+    const temporaryItem = result[i]
 
-    ;[result[i], result[randomIndex]] = [
-      result[randomIndex],
-      result[i],
-    ]
+    result[i] = result[randomIndex]
+    result[randomIndex] = temporaryItem
   }
 
   return result
@@ -38,11 +38,11 @@ function splitPages(items) {
   const pages = []
 
   for (
-    let i = 0;
-    i < items.length;
-    i += WORDS_PER_PAGE
+    let index = 0;
+    index < items.length;
+    index += WORDS_PER_PAGE
   ) {
-    pages.push(items.slice(i, i + WORDS_PER_PAGE))
+    pages.push(items.slice(index, index + WORDS_PER_PAGE))
   }
 
   return pages
@@ -76,8 +76,7 @@ function QuestionColumn({
     <div
       className="day-question-column"
       style={{
-        gridTemplateRows:
-          `repeat(${rowCount}, minmax(0, 1fr))`,
+        gridTemplateRows: `repeat(${rowCount}, minmax(0, 1fr))`,
       }}
     >
       {items.map((item) => {
@@ -94,7 +93,7 @@ function QuestionColumn({
         return (
           <div
             className="day-question-row"
-            key={`${item.no}-${item.questionNumber}`}
+            key={`${item.sourceDay}-${item.no}-${item.questionNumber}`}
           >
             <span className="day-question-no">
               {item.questionNumber}.
@@ -121,7 +120,7 @@ function QuestionColumn({
 }
 
 function DayPrintPage({
-  dayNumber,
+  dayLabel,
   items,
   direction,
   order,
@@ -148,12 +147,9 @@ function DayPrintPage({
     <article className="day-print-page">
       <header className="day-print-header">
         <div>
-          <h2>
-            고난도 VOCA Day {dayNumber}{' '}
-            {answerMode ? '정답지' : '단어시험지'}
-          </h2>
-
+          <h2>{EXAM_TITLE}</h2>
           <p>
+            {dayLabel} · {answerMode ? '정답지' : '시험지'} ·{' '}
             {directionLabel} · {orderLabel} · 총 {totalCount}문항 ·{' '}
             {pageNumber}/{pageCount}쪽
           </p>
@@ -184,52 +180,152 @@ function DayPrintPage({
       </div>
 
       <footer className="day-print-footer">
-        Day {dayNumber} · {answerMode ? '정답지' : '시험지'}
+        {EXAM_TITLE} · {dayLabel} ·{' '}
+        {answerMode ? '정답지' : '시험지'}
       </footer>
     </article>
   )
 }
 
 function DayExamGenerator({ onBack }) {
-  const [selectedDayNumber, setSelectedDayNumber] =
-    useState(dayList[0]?.day ?? null)
+  const [selectedDayNumbers, setSelectedDayNumbers] =
+    useState([])
 
   const [direction, setDirection] = useState('en-ko')
   const [order, setOrder] = useState('sequential')
+  const [questionCount, setQuestionCount] = useState(50)
   const [examItems, setExamItems] = useState([])
   const [studentName, setStudentName] = useState('')
   const [examDate, setExamDate] = useState(getTodayText())
   const [status, setStatus] = useState('')
 
-  const selectedDay = dayList.find(
-    (day) => Number(day.day) === Number(selectedDayNumber),
+  const selectedDays = dayList.filter((day) =>
+    selectedDayNumbers.includes(Number(day.day)),
   )
 
-  const handleGenerate = () => {
-    if (!selectedDay || selectedDay.words.length === 0) {
-      setStatus('선택한 Day에 단어 자료가 없습니다.')
-      return
-    }
+  const selectedDayLabel = selectedDays
+    .map((day) => `Day ${day.day}`)
+    .join(' + ')
 
-    const words = [...selectedDay.words].sort(
-      (a, b) => Number(a.no) - Number(b.no),
+  const selectedWordCount = selectedDays.reduce(
+    (total, day) => total + day.words.length,
+    0,
+  )
+
+  const handleDaySelect = (day) => {
+    const dayNumber = Number(day.day)
+
+    const nextDayNumbers = selectedDayNumbers.includes(dayNumber)
+      ? selectedDayNumbers.filter(
+          (selectedNumber) => selectedNumber !== dayNumber,
+        )
+      : [...selectedDayNumbers, dayNumber].sort(
+          (a, b) => a - b,
+        )
+
+    const nextDays = dayList.filter((item) =>
+      nextDayNumbers.includes(Number(item.day)),
     )
 
-    const orderedWords =
-      order === 'random' ? shuffle(words) : words
+    const nextLabel = nextDays
+      .map((item) => `Day ${item.day}`)
+      .join(' + ')
 
-    const numberedWords = orderedWords.map(
-      (word, index) => ({
-        ...word,
-        questionNumber: index + 1,
-      }),
+    const nextWordCount = nextDays.reduce(
+      (total, item) => total + item.words.length,
+      0,
     )
 
-    setExamItems(numberedWords)
+    setSelectedDayNumbers(nextDayNumbers)
+    setExamItems([])
+
     setStatus(
-      `Day ${selectedDay.day} 전체 ${numberedWords.length}문항을 생성했습니다.`,
+      nextDays.length > 0
+        ? `${nextLabel} 선택됨 · ${nextWordCount}개 단어`
+        : 'Day를 하나 이상 선택하세요.',
     )
   }
+const handleQuestionCountChange = (event) => {
+  const value = event.target.value
+
+  setExamItems([])
+
+  if (value === '') {
+    setQuestionCount('')
+    return
+  }
+
+  const number = Number(value)
+
+  if (!Number.isFinite(number)) {
+    return
+  }
+
+  setQuestionCount(
+    Math.max(1, Math.min(120, Math.floor(number))),
+  )
+}
+  
+const handleGenerate = () => {
+  if (selectedDays.length === 0) {
+    setStatus('시험지에 넣을 Day를 하나 이상 선택하세요.')
+    return
+  }
+
+  const inputCount = Number(questionCount)
+
+  if (!Number.isInteger(inputCount) || inputCount < 1) {
+    setStatus('문항 수를 1~120 사이의 정수로 입력하세요.')
+    return
+  }
+
+  const combinedWords = selectedDays
+    .flatMap((day) =>
+      day.words.map((word) => ({
+        ...word,
+        sourceDay: Number(day.day),
+      })),
+    )
+    .sort(
+      (a, b) =>
+        a.sourceDay - b.sourceDay ||
+        Number(a.no) - Number(b.no),
+    )
+
+  if (combinedWords.length === 0) {
+    setStatus('선택한 Day에 단어 자료가 없습니다.')
+    return
+  }
+
+  const requestedCount = Math.min(inputCount, 120)
+  const actualCount = Math.min(
+    requestedCount,
+    combinedWords.length,
+  )
+
+  const orderedWords =
+    order === 'random'
+      ? shuffle(combinedWords)
+      : combinedWords
+
+  const numberedWords = orderedWords
+    .slice(0, actualCount)
+    .map((word, index) => ({
+      ...word,
+      questionNumber: index + 1,
+    }))
+
+  setExamItems(numberedWords)
+
+  const shortageMessage =
+    combinedWords.length < requestedCount
+      ? ` 선택한 Day의 단어가 ${combinedWords.length}개라 가능한 문항만 출제했습니다.`
+      : ''
+
+  setStatus(
+    `${selectedDayLabel}에서 ${numberedWords.length}문항을 생성했습니다.${shortageMessage}`,
+  )
+}
 
   const handlePrint = () => {
     if (examItems.length === 0) {
@@ -240,10 +336,10 @@ function DayExamGenerator({ onBack }) {
     window.print()
   }
 
-  const handleDaySelect = (day) => {
-    setSelectedDayNumber(day.day)
+  const handleClearDays = () => {
+    setSelectedDayNumbers([])
     setExamItems([])
-    setStatus(`Day ${day.day}: ${day.words.length}개 단어`)
+    setStatus('선택한 Day를 모두 해제했습니다.')
   }
 
   const pages = splitPages(examItems)
@@ -260,38 +356,49 @@ function DayExamGenerator({ onBack }) {
         </button>
 
         <header className="day-screen-header">
-          <h1>고난도 VOCA Day별 단어시험지</h1>
+          <h1>{EXAM_TITLE}</h1>
           <p>
-            Day를 선택하면 해당 Day의 전체 단어로
-            시험지와 정답지를 만듭니다.
+            Day를 여러 개 선택할 수 있습니다.
+            선택한 Day를 다시 누르면 선택이 해제됩니다.
           </p>
         </header>
 
-        <div
-          className="day-selector"
-          aria-label="Day 선택"
-        >
-          {dayList.map((day) => (
-            <button
-              key={day.day}
-              type="button"
-              className={
-                Number(selectedDayNumber) === Number(day.day)
-                  ? 'day-selector-button selected'
-                  : 'day-selector-button'
-              }
-              aria-pressed={
-                Number(selectedDayNumber) === Number(day.day)
-              }
-              onClick={() => handleDaySelect(day)}
-            >
-              <span>Day {day.day}</span>
-              <small>{day.words.length}개</small>
-            </button>
-          ))}
+        <div className="day-selector" aria-label="Day 선택">
+          {dayList.map((day) => {
+            const isSelected =
+              selectedDayNumbers.includes(Number(day.day))
+
+            return (
+              <button
+                key={day.day}
+                type="button"
+                className={
+                  isSelected
+                    ? 'day-selector-button selected'
+                    : 'day-selector-button'
+                }
+                aria-pressed={isSelected}
+                onClick={() => handleDaySelect(day)}
+              >
+                <span>Day {day.day}</span>
+                <small>{day.words.length}개</small>
+              </button>
+            )
+          })}
         </div>
 
         <div className="day-settings">
+          <label>
+  출제 문항 수 (최대 120)
+  <input
+    type="number"
+    min="1"
+    max="120"
+    step="1"
+    value={questionCount}
+    onChange={handleQuestionCountChange}
+  />
+</label>
           <label>
             출제 방향
             <select
@@ -344,9 +451,17 @@ function DayExamGenerator({ onBack }) {
 
         <div className="day-actions">
           <button
+            type="button"
+            onClick={handleClearDays}
+            disabled={selectedDayNumbers.length === 0}
+          >
+            선택 해제
+          </button>
+
+          <button
             className="day-primary-button"
             type="button"
-            disabled={!selectedDay}
+            disabled={selectedDayNumbers.length === 0}
             onClick={handleGenerate}
           >
             시험지 만들기
@@ -363,23 +478,23 @@ function DayExamGenerator({ onBack }) {
 
         <p className="day-status" aria-live="polite">
           {status ||
-            (selectedDay
-              ? `선택한 Day의 전체 단어: ${selectedDay.words.length}개`
-              : 'Day 자료가 없습니다.')}
+            (selectedDays.length > 0
+              ? `${selectedDayLabel} 선택됨 · ${selectedWordCount}개 단어`
+              : 'Day를 하나 이상 선택하세요.')}
         </p>
       </section>
 
       <section className="day-print-area">
         {examItems.length === 0 ? (
           <div className="day-print-placeholder">
-            Day를 선택하고 ‘시험지 만들기’를 눌러 주세요.
+            Day를 하나 이상 선택하고 ‘시험지 만들기’를 눌러 주세요.
           </div>
         ) : (
           <>
             {pages.map((items, index) => (
               <DayPrintPage
                 key={`test-${index}`}
-                dayNumber={selectedDayNumber}
+                dayLabel={selectedDayLabel}
                 items={items}
                 direction={direction}
                 order={order}
@@ -395,7 +510,7 @@ function DayExamGenerator({ onBack }) {
             {pages.map((items, index) => (
               <DayPrintPage
                 key={`answer-${index}`}
-                dayNumber={selectedDayNumber}
+                dayLabel={selectedDayLabel}
                 items={items}
                 direction={direction}
                 order={order}
@@ -415,4 +530,3 @@ function DayExamGenerator({ onBack }) {
 }
 
 export default DayExamGenerator
-
