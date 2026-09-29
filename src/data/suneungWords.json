@@ -1,0 +1,9122 @@
+[
+  {
+    "day": 1,
+    "no": 1,
+    "english": "restoration",
+    "korean": "복구, 복원/ (질서 등의)회복"
+  },
+  {
+    "day": 1,
+    "no": 2,
+    "english": "worship",
+    "korean": "예배하다, 숭배하다/ 예배,숭배"
+  },
+  {
+    "day": 1,
+    "no": 3,
+    "english": "associate",
+    "korean": "연상하다, 연관 짓다/ 교제하다/ 동료"
+  },
+  {
+    "day": 1,
+    "no": 4,
+    "english": "prospect",
+    "korean": "가망, 가능성/ 전망, 예상"
+  },
+  {
+    "day": 1,
+    "no": 5,
+    "english": "aspect",
+    "korean": "측면, 양상"
+  },
+  {
+    "day": 1,
+    "no": 6,
+    "english": "endeavor",
+    "korean": "노력, 시도 / 노력하다, 시도하다"
+  },
+  {
+    "day": 1,
+    "no": 7,
+    "english": "insist",
+    "korean": "주장하다, 고집하다, 우기다"
+  },
+  {
+    "day": 1,
+    "no": 8,
+    "english": "sacred",
+    "korean": "신성한, 성스러운"
+  },
+  {
+    "day": 1,
+    "no": 9,
+    "english": "instruct",
+    "korean": "지시하다, 가르치다"
+  },
+  {
+    "day": 1,
+    "no": 10,
+    "english": "compulsory",
+    "korean": "강제적인, 의무적인/ 필수의"
+  },
+  {
+    "day": 1,
+    "no": 11,
+    "english": "illustrate",
+    "korean": "(예를 들어)설명하다,삽화를 넣다"
+  },
+  {
+    "day": 1,
+    "no": 12,
+    "english": "amplify",
+    "korean": "증폭시키다, 확대하다 / 자세히 진술하다"
+  },
+  {
+    "day": 1,
+    "no": 13,
+    "english": "desirable",
+    "korean": "바람직한, 가치 있는"
+  },
+  {
+    "day": 1,
+    "no": 14,
+    "english": "parallel",
+    "korean": "평행의, 유사한/유사한 [상응하는]것/(~와)유사하다"
+  },
+  {
+    "day": 1,
+    "no": 15,
+    "english": "rigid",
+    "korean": "엄격한, 융통성 없는, (사물이)뻣뻣한"
+  },
+  {
+    "day": 1,
+    "no": 16,
+    "english": "expertise",
+    "korean": "전문 지식[기술]"
+  },
+  {
+    "day": 1,
+    "no": 17,
+    "english": "uncover",
+    "korean": "(비밀 등을)알아내다, 폭로하다 / 덮개를 열다"
+  },
+  {
+    "day": 1,
+    "no": 18,
+    "english": "urge",
+    "korean": "강력히 권하다, 재촉하다 / 욕구, 충동"
+  },
+  {
+    "day": 1,
+    "no": 19,
+    "english": "static",
+    "korean": "고정된, 정적인, 잡음, 정전기"
+  },
+  {
+    "day": 1,
+    "no": 20,
+    "english": "cling",
+    "korean": "달라붙다, 매달리다, 집착하다"
+  },
+  {
+    "day": 1,
+    "no": 21,
+    "english": "anonymous",
+    "korean": "익명의"
+  },
+  {
+    "day": 1,
+    "no": 22,
+    "english": "interdependent",
+    "korean": "상호 의존적인"
+  },
+  {
+    "day": 1,
+    "no": 23,
+    "english": "assign",
+    "korean": "할당하다, 배정하다"
+  },
+  {
+    "day": 1,
+    "no": 24,
+    "english": "framework",
+    "korean": "(건물 등의)뼈대, 틀, 구조, 체제, 체계"
+  },
+  {
+    "day": 1,
+    "no": 25,
+    "english": "activate",
+    "korean": "작동시키다, 활성화 하 다"
+  },
+  {
+    "day": 1,
+    "no": 26,
+    "english": "confidential",
+    "korean": "비밀의, 기밀의, 신뢰받는"
+  },
+  {
+    "day": 1,
+    "no": 27,
+    "english": "scatter",
+    "korean": "뿌리다, 흩어지다 [흩어지게 하다]"
+  },
+  {
+    "day": 1,
+    "no": 28,
+    "english": "obscure",
+    "korean": "모호한/잘 알려지지 않 은/ 모호하게 하다"
+  },
+  {
+    "day": 1,
+    "no": 29,
+    "english": "recover",
+    "korean": "회복하다, 되찾다, 만회하다"
+  },
+  {
+    "day": 1,
+    "no": 30,
+    "english": "compensate",
+    "korean": "보상[배상]하다, 보완[상쇄]하다"
+  },
+  {
+    "day": 1,
+    "no": 31,
+    "english": "fallacy",
+    "korean": "그릇된 생각[믿음], (인식상의)오류"
+  },
+  {
+    "day": 1,
+    "no": 32,
+    "english": "considerable",
+    "korean": "상당한, 적지 않은"
+  },
+  {
+    "day": 1,
+    "no": 33,
+    "english": "considerate",
+    "korean": "사려 깊은, 배려하는"
+  },
+  {
+    "day": 1,
+    "no": 34,
+    "english": "orphan",
+    "korean": "고아"
+  },
+  {
+    "day": 1,
+    "no": 35,
+    "english": "entry",
+    "korean": "입장, 등장/ 출품작 / 참가, 출전"
+  },
+  {
+    "day": 1,
+    "no": 36,
+    "english": "primary",
+    "korean": "주요한, 최초의, 초기의"
+  },
+  {
+    "day": 1,
+    "no": 37,
+    "english": "approve",
+    "korean": "찬성하다, 승인하다"
+  },
+  {
+    "day": 1,
+    "no": 38,
+    "english": "plain",
+    "korean": "명백한, 소박한, 솔직한 / 평지, 평원"
+  },
+  {
+    "day": 1,
+    "no": 39,
+    "english": "nominate",
+    "korean": "지명[추천]하다 / 임명 하다"
+  },
+  {
+    "day": 1,
+    "no": 40,
+    "english": "shift",
+    "korean": "이동하다/바꾸다/ 변화,전환/교대(근무)"
+  },
+  {
+    "day": 2,
+    "no": 1,
+    "english": "tenant",
+    "korean": "세입자, 임차인"
+  },
+  {
+    "day": 2,
+    "no": 2,
+    "english": "misconception",
+    "korean": "오해"
+  },
+  {
+    "day": 2,
+    "no": 3,
+    "english": "approximate",
+    "korean": "대략의, 근사치의 / (~에)가깝다"
+  },
+  {
+    "day": 2,
+    "no": 4,
+    "english": "vice",
+    "korean": "악(덕),부도덕/범죄 행위,비행"
+  },
+  {
+    "day": 2,
+    "no": 5,
+    "english": "massive",
+    "korean": "거대한, 대규모의 엄청난, 심각한"
+  },
+  {
+    "day": 2,
+    "no": 6,
+    "english": "investigate",
+    "korean": "조사하다, 연구하다/ 수사하다"
+  },
+  {
+    "day": 2,
+    "no": 7,
+    "english": "exploit",
+    "korean": "(부당하게)이용하다, 착취하다/활용하다/위업"
+  },
+  {
+    "day": 2,
+    "no": 8,
+    "english": "invaluable",
+    "korean": "매우 유용한, 귀중한"
+  },
+  {
+    "day": 2,
+    "no": 9,
+    "english": "disprove",
+    "korean": "오류를 입증하다, 반증하다"
+  },
+  {
+    "day": 2,
+    "no": 10,
+    "english": "accomplish",
+    "korean": "성취하다, 완수하다"
+  },
+  {
+    "day": 2,
+    "no": 11,
+    "english": "discard",
+    "korean": "버리다, 폐기하다"
+  },
+  {
+    "day": 2,
+    "no": 12,
+    "english": "disguise",
+    "korean": "변장[위장]하다 / 숨기다 / 변장,위장"
+  },
+  {
+    "day": 2,
+    "no": 13,
+    "english": "worthwhile",
+    "korean": "(~할) 가치가 있는"
+  },
+  {
+    "day": 2,
+    "no": 14,
+    "english": "sacrifice",
+    "korean": "희생하다, 제물로 바치다 / 희생"
+  },
+  {
+    "day": 2,
+    "no": 15,
+    "english": "engage",
+    "korean": "참여하다, 관여하다/고용하다/ (관심을)끌다 / 약혼시키다"
+  },
+  {
+    "day": 2,
+    "no": 16,
+    "english": "utilize",
+    "korean": "이용하다, 활용하다"
+  },
+  {
+    "day": 2,
+    "no": 17,
+    "english": "commence",
+    "korean": "시작되다[하다]"
+  },
+  {
+    "day": 2,
+    "no": 18,
+    "english": "apparent",
+    "korean": "명백한, 분명한 / 겉보기의"
+  },
+  {
+    "day": 2,
+    "no": 19,
+    "english": "gaze",
+    "korean": "응시하다 / 응시"
+  },
+  {
+    "day": 2,
+    "no": 20,
+    "english": "perspective",
+    "korean": "견해,관점 / 원근법"
+  },
+  {
+    "day": 2,
+    "no": 21,
+    "english": "trigger",
+    "korean": "촉발시키다,작동시키다 / 방아쇠 / 계기"
+  },
+  {
+    "day": 2,
+    "no": 22,
+    "english": "acquire",
+    "korean": "얻다, 습득하다"
+  },
+  {
+    "day": 2,
+    "no": 23,
+    "english": "humanity",
+    "korean": "인류, 인간 / 인간성"
+  },
+  {
+    "day": 2,
+    "no": 24,
+    "english": "virtue",
+    "korean": "덕, 미덕, 선 / 장점"
+  },
+  {
+    "day": 2,
+    "no": 25,
+    "english": "stir",
+    "korean": "젓다, 뒤섞다, 마음을 흔들다"
+  },
+  {
+    "day": 2,
+    "no": 26,
+    "english": "swell",
+    "korean": "붓다, 부풀다, 증가하다, 증가, 팽창"
+  },
+  {
+    "day": 2,
+    "no": 27,
+    "english": "readily",
+    "korean": "기꺼이, 선뜻 / 손쉽게"
+  },
+  {
+    "day": 2,
+    "no": 28,
+    "english": "duration",
+    "korean": "(지속되는)기간, 지속"
+  },
+  {
+    "day": 2,
+    "no": 29,
+    "english": "disperse",
+    "korean": "흩어지다,해산하다, 확산하다[시키다]"
+  },
+  {
+    "day": 2,
+    "no": 30,
+    "english": "outperform",
+    "korean": "능가하다, (~보다)더 우수하다"
+  },
+  {
+    "day": 2,
+    "no": 31,
+    "english": "comprehensible",
+    "korean": "이해할 수 있는"
+  },
+  {
+    "day": 2,
+    "no": 32,
+    "english": "comprehensive",
+    "korean": "포괄적인, 종합적인"
+  },
+  {
+    "day": 2,
+    "no": 33,
+    "english": "soar",
+    "korean": "급등하다, 날아오르다"
+  },
+  {
+    "day": 2,
+    "no": 34,
+    "english": "correlation",
+    "korean": "연관성, 상관관계"
+  },
+  {
+    "day": 2,
+    "no": 35,
+    "english": "impair",
+    "korean": "손상[악화]시키다"
+  },
+  {
+    "day": 2,
+    "no": 36,
+    "english": "undermine",
+    "korean": "약화시키다"
+  },
+  {
+    "day": 2,
+    "no": 37,
+    "english": "revise",
+    "korean": "변경[수정]하다 / 개정하다"
+  },
+  {
+    "day": 2,
+    "no": 38,
+    "english": "verbal",
+    "korean": "말의, 언어의"
+  },
+  {
+    "day": 2,
+    "no": 39,
+    "english": "remind",
+    "korean": "상기시키다, 일깨우다"
+  },
+  {
+    "day": 2,
+    "no": 40,
+    "english": "manage",
+    "korean": "운영[관리]하다/ 간신히~하다"
+  },
+  {
+    "day": 3,
+    "no": 1,
+    "english": "compel",
+    "korean": "강요하다, 억지로 ~하게하다"
+  },
+  {
+    "day": 3,
+    "no": 2,
+    "english": "disclose",
+    "korean": "드러내다, 폭로하다"
+  },
+  {
+    "day": 3,
+    "no": 3,
+    "english": "negotiate",
+    "korean": "협상하다, 교섭하다"
+  },
+  {
+    "day": 3,
+    "no": 4,
+    "english": "constraint",
+    "korean": "제약 / 제한, 통제"
+  },
+  {
+    "day": 3,
+    "no": 5,
+    "english": "fellow",
+    "korean": "동료의, 친구의/ 동료,친구 / (대학의)특별 연구원"
+  },
+  {
+    "day": 3,
+    "no": 6,
+    "english": "embed",
+    "korean": "(단단히)박다[끼워넣다]"
+  },
+  {
+    "day": 3,
+    "no": 7,
+    "english": "coherent",
+    "korean": "일관성 있는, 논리적인"
+  },
+  {
+    "day": 3,
+    "no": 8,
+    "english": "simultaneous",
+    "korean": "동시에 일어나는, 동시의"
+  },
+  {
+    "day": 3,
+    "no": 9,
+    "english": "embody",
+    "korean": "구체화[구현]하다, 상징하다 / 포함하다"
+  },
+  {
+    "day": 3,
+    "no": 10,
+    "english": "advent",
+    "korean": "출현, 도래"
+  },
+  {
+    "day": 3,
+    "no": 11,
+    "english": "allocate",
+    "korean": "할당하다, 배분하다"
+  },
+  {
+    "day": 3,
+    "no": 12,
+    "english": "sentence",
+    "korean": "문장, 형벌, 선고/ 선고하다"
+  },
+  {
+    "day": 3,
+    "no": 13,
+    "english": "provide",
+    "korean": "제공[공급]하다 / 규정하다"
+  },
+  {
+    "day": 3,
+    "no": 14,
+    "english": "rush",
+    "korean": "서두르다,돌진하다 / 돌진,분주함"
+  },
+  {
+    "day": 3,
+    "no": 15,
+    "english": "versus",
+    "korean": "~대/~에 비해"
+  },
+  {
+    "day": 3,
+    "no": 16,
+    "english": "renew",
+    "korean": "갱신[연장]하다 / 재개하다"
+  },
+  {
+    "day": 3,
+    "no": 17,
+    "english": "emerge",
+    "korean": "나오다, 나타나다"
+  },
+  {
+    "day": 3,
+    "no": 18,
+    "english": "merge",
+    "korean": "합병[병합]하다, 합치다"
+  },
+  {
+    "day": 3,
+    "no": 19,
+    "english": "designate",
+    "korean": "지정[지명]하다"
+  },
+  {
+    "day": 3,
+    "no": 20,
+    "english": "flourish",
+    "korean": "번창[번성]하다/ 잘 자라다"
+  },
+  {
+    "day": 3,
+    "no": 21,
+    "english": "administer",
+    "korean": "관리[운영]하다/ 집행하 다/(약을)투여하다"
+  },
+  {
+    "day": 3,
+    "no": 22,
+    "english": "diminish",
+    "korean": "줄어들다, 줄이다"
+  },
+  {
+    "day": 3,
+    "no": 23,
+    "english": "moderate",
+    "korean": "보통의, 적당한/ 온건한 / 누그러뜨리다"
+  },
+  {
+    "day": 3,
+    "no": 24,
+    "english": "fulfill",
+    "korean": "실현[성취]하다/ (의무 등을) 이행하다"
+  },
+  {
+    "day": 3,
+    "no": 25,
+    "english": "altitude",
+    "korean": "높이, (해발)고도"
+  },
+  {
+    "day": 3,
+    "no": 26,
+    "english": "elect",
+    "korean": "선출하다, 선임하다"
+  },
+  {
+    "day": 3,
+    "no": 27,
+    "english": "neglect",
+    "korean": "방치하다, 소홀히 하다 / 방치, 소홀"
+  },
+  {
+    "day": 3,
+    "no": 28,
+    "english": "flawless",
+    "korean": "흠이 없는, 완벽한"
+  },
+  {
+    "day": 3,
+    "no": 29,
+    "english": "companion",
+    "korean": "동반자, 동료, 친구"
+  },
+  {
+    "day": 3,
+    "no": 30,
+    "english": "obligation",
+    "korean": "의무, 책임"
+  },
+  {
+    "day": 3,
+    "no": 31,
+    "english": "phase",
+    "korean": "국면, 단계 / 단계적으로 실행하다"
+  },
+  {
+    "day": 3,
+    "no": 32,
+    "english": "magnify",
+    "korean": "확대하다, 과장하다"
+  },
+  {
+    "day": 3,
+    "no": 33,
+    "english": "diagnose",
+    "korean": "(질병, 문제의 원인을) 진단하다"
+  },
+  {
+    "day": 3,
+    "no": 34,
+    "english": "temper",
+    "korean": "성미, 성질/ 화 / 완화시 키다"
+  },
+  {
+    "day": 3,
+    "no": 35,
+    "english": "dominant",
+    "korean": "지배적인, 우세한"
+  },
+  {
+    "day": 3,
+    "no": 36,
+    "english": "roam",
+    "korean": "돌아다니다, 배회하다"
+  },
+  {
+    "day": 3,
+    "no": 37,
+    "english": "elevate",
+    "korean": "(정도를)높이다 / (들어)올리다"
+  },
+  {
+    "day": 3,
+    "no": 38,
+    "english": "substantial",
+    "korean": "상당한, 본질[실질]적인"
+  },
+  {
+    "day": 3,
+    "no": 39,
+    "english": "venue",
+    "korean": "장소, 개척지"
+  },
+  {
+    "day": 3,
+    "no": 40,
+    "english": "realm",
+    "korean": "(지식,활동 등의) 영역,분야/왕국"
+  },
+  {
+    "day": 4,
+    "no": 1,
+    "english": "draft",
+    "korean": "초고, 초안 / 초안을 작성하다"
+  },
+  {
+    "day": 4,
+    "no": 2,
+    "english": "enrich",
+    "korean": "풍요롭게 하다 / (내용,질,가치 등을)높이다"
+  },
+  {
+    "day": 4,
+    "no": 3,
+    "english": "sector",
+    "korean": "부문, 분야, 영역"
+  },
+  {
+    "day": 4,
+    "no": 4,
+    "english": "immense",
+    "korean": "엄청난, 막대한"
+  },
+  {
+    "day": 4,
+    "no": 5,
+    "english": "gradual",
+    "korean": "점진적인, 차츰~하는"
+  },
+  {
+    "day": 4,
+    "no": 6,
+    "english": "identical",
+    "korean": "동일한, 일치하는"
+  },
+  {
+    "day": 4,
+    "no": 7,
+    "english": "boast",
+    "korean": "자랑하다, 뽐내다 / 자랑"
+  },
+  {
+    "day": 4,
+    "no": 8,
+    "english": "revenue",
+    "korean": "세입, 수입"
+  },
+  {
+    "day": 4,
+    "no": 9,
+    "english": "secondary",
+    "korean": "부차적인, 부수적인 / 중등 교육의"
+  },
+  {
+    "day": 4,
+    "no": 10,
+    "english": "convince",
+    "korean": "확신[납득]시키다/설득하다"
+  },
+  {
+    "day": 4,
+    "no": 11,
+    "english": "criterion",
+    "korean": "표준, 기준"
+  },
+  {
+    "day": 4,
+    "no": 12,
+    "english": "invest",
+    "korean": "투자하다, (시간, 노력 등을) 쏟다"
+  },
+  {
+    "day": 4,
+    "no": 13,
+    "english": "operate",
+    "korean": "작동하다, 조작하다 / 운영하다/ 수술하다"
+  },
+  {
+    "day": 4,
+    "no": 14,
+    "english": "current",
+    "korean": "현재의 / (물,공기의)흐름 / 경향 / 전류"
+  },
+  {
+    "day": 4,
+    "no": 15,
+    "english": "barely",
+    "korean": "간신히, 거의 ~ 않다"
+  },
+  {
+    "day": 4,
+    "no": 16,
+    "english": "organization",
+    "korean": "조직, 기구, 단체"
+  },
+  {
+    "day": 4,
+    "no": 17,
+    "english": "essential",
+    "korean": "매우 중요한, 필수의 / 본질적인 / 필수적인 것"
+  },
+  {
+    "day": 4,
+    "no": 18,
+    "english": "breed",
+    "korean": "새끼를 낳다, 번식하다 / 사육하다 / 품종"
+  },
+  {
+    "day": 4,
+    "no": 19,
+    "english": "promote",
+    "korean": "증진[촉진]하다 / 홍보하다 / 승진시키다"
+  },
+  {
+    "day": 4,
+    "no": 20,
+    "english": "standard",
+    "korean": "기준, 표준 / 일반적인, 표준의"
+  },
+  {
+    "day": 4,
+    "no": 21,
+    "english": "automatically",
+    "korean": "자동적으로, 무의식적으로"
+  },
+  {
+    "day": 4,
+    "no": 22,
+    "english": "defeat",
+    "korean": "패배시키다 / 패배 / 타파"
+  },
+  {
+    "day": 4,
+    "no": 23,
+    "english": "injured",
+    "korean": "다친 / (감정이)상처를 받은"
+  },
+  {
+    "day": 4,
+    "no": 24,
+    "english": "vulnerable",
+    "korean": "취약한, 연약한"
+  },
+  {
+    "day": 4,
+    "no": 25,
+    "english": "found",
+    "korean": "설립하다/ (~에)기초를 두다"
+  },
+  {
+    "day": 4,
+    "no": 26,
+    "english": "amend",
+    "korean": "(법 등을)수정하다, 개정하다"
+  },
+  {
+    "day": 4,
+    "no": 27,
+    "english": "sum",
+    "korean": "액수, 합계, 총합"
+  },
+  {
+    "day": 4,
+    "no": 28,
+    "english": "affirm",
+    "korean": "단언하다, 확언하다"
+  },
+  {
+    "day": 4,
+    "no": 29,
+    "english": "adversity",
+    "korean": "역경"
+  },
+  {
+    "day": 4,
+    "no": 30,
+    "english": "extent",
+    "korean": "범위, 정도 / 넓이, 크기"
+  },
+  {
+    "day": 4,
+    "no": 31,
+    "english": "confess",
+    "korean": "자백하다, 고백하다 / 인정하다"
+  },
+  {
+    "day": 4,
+    "no": 32,
+    "english": "affair",
+    "korean": "일,활동 / 사건, 스캔들"
+  },
+  {
+    "day": 4,
+    "no": 33,
+    "english": "potential",
+    "korean": "잠재적인, 가능성이 있는 / 가능성, 잠재력"
+  },
+  {
+    "day": 4,
+    "no": 34,
+    "english": "solid",
+    "korean": "고체의, 견고한, 속이 꽉 찬 / 고체"
+  },
+  {
+    "day": 4,
+    "no": 35,
+    "english": "alert",
+    "korean": "경계 / 방심하지 않는, 조심하는/경고하다"
+  },
+  {
+    "day": 4,
+    "no": 36,
+    "english": "be subject to",
+    "korean": "~될 수 있다"
+  },
+  {
+    "day": 4,
+    "no": 37,
+    "english": "in charge of",
+    "korean": "~을 맡고 있는, 담당하는"
+  },
+  {
+    "day": 4,
+    "no": 38,
+    "english": "interfere in",
+    "korean": "~에 간섭하다, 참견하다"
+  },
+  {
+    "day": 4,
+    "no": 39,
+    "english": "consist in",
+    "korean": "~에 있다, 존재하다"
+  },
+  {
+    "day": 4,
+    "no": 40,
+    "english": "be familiar with",
+    "korean": "~에 정통하다, 잘 알고 있다"
+  },
+  {
+    "day": 5,
+    "no": 1,
+    "english": "genuine",
+    "korean": "진짜의, 진품의 / 진실된"
+  },
+  {
+    "day": 5,
+    "no": 2,
+    "english": "precise",
+    "korean": "정확한, 정밀한"
+  },
+  {
+    "day": 5,
+    "no": 3,
+    "english": "finance",
+    "korean": "재정, 재무 / 자금을 대다"
+  },
+  {
+    "day": 5,
+    "no": 4,
+    "english": "optimal",
+    "korean": "최선의, 최적의"
+  },
+  {
+    "day": 5,
+    "no": 5,
+    "english": "mislead",
+    "korean": "잘못 인도하다, 속이다"
+  },
+  {
+    "day": 5,
+    "no": 6,
+    "english": "overall",
+    "korean": "전체의, 전반적인 / 전반적으로"
+  },
+  {
+    "day": 5,
+    "no": 7,
+    "english": "transit",
+    "korean": "운반, 운송 / 통과, 통행"
+  },
+  {
+    "day": 5,
+    "no": 8,
+    "english": "appreciate",
+    "korean": "감상하다, 진가를 알다/ 인식하다/ 감사하다"
+  },
+  {
+    "day": 5,
+    "no": 9,
+    "english": "income",
+    "korean": "소득, 수입"
+  },
+  {
+    "day": 5,
+    "no": 10,
+    "english": "extend",
+    "korean": "연장하다, 확장하다, 뻗다"
+  },
+  {
+    "day": 5,
+    "no": 11,
+    "english": "authority",
+    "korean": "권위,권한 / 당국 / 권위자, 대가"
+  },
+  {
+    "day": 5,
+    "no": 12,
+    "english": "indicate",
+    "korean": "나타내다, 보여주다 / 가리키다"
+  },
+  {
+    "day": 5,
+    "no": 13,
+    "english": "evident",
+    "korean": "명백한, 분명한"
+  },
+  {
+    "day": 5,
+    "no": 14,
+    "english": "induce",
+    "korean": "유도하다, 설득하여~시키다 / 일으키다,유발하다"
+  },
+  {
+    "day": 5,
+    "no": 15,
+    "english": "violate",
+    "korean": "위반하다, 어기다 / 침해하다"
+  },
+  {
+    "day": 5,
+    "no": 16,
+    "english": "dedicate",
+    "korean": "바치다, 헌신[전념]하다"
+  },
+  {
+    "day": 5,
+    "no": 17,
+    "english": "scarce",
+    "korean": "부족한, 드문"
+  },
+  {
+    "day": 5,
+    "no": 18,
+    "english": "disrupt",
+    "korean": "방해하다, 지장을 주다"
+  },
+  {
+    "day": 5,
+    "no": 19,
+    "english": "adequate",
+    "korean": "적절한, 충분한"
+  },
+  {
+    "day": 5,
+    "no": 20,
+    "english": "restrain",
+    "korean": "제지하다, (감정,행동 등을) 억누르다, 억제하다"
+  },
+  {
+    "day": 5,
+    "no": 21,
+    "english": "remarkable",
+    "korean": "주목할만한, 뛰어난"
+  },
+  {
+    "day": 5,
+    "no": 22,
+    "english": "symptom",
+    "korean": "증상, 징후"
+  },
+  {
+    "day": 5,
+    "no": 23,
+    "english": "arrange",
+    "korean": "정리하다, 정하다, 준비하다 / 편곡하다"
+  },
+  {
+    "day": 5,
+    "no": 24,
+    "english": "indeed",
+    "korean": "사실은 / 정말, 참으로"
+  },
+  {
+    "day": 5,
+    "no": 25,
+    "english": "hinder",
+    "korean": "방해하다, 막다"
+  },
+  {
+    "day": 5,
+    "no": 26,
+    "english": "enhance",
+    "korean": "높이다, 강화하다, 향상시키다"
+  },
+  {
+    "day": 5,
+    "no": 27,
+    "english": "reveal",
+    "korean": "드러내다, 누설하다"
+  },
+  {
+    "day": 5,
+    "no": 28,
+    "english": "conceal",
+    "korean": "숨기다, 감추다"
+  },
+  {
+    "day": 5,
+    "no": 29,
+    "english": "devote",
+    "korean": "(노력, 시간 등을) 바치다, 기울이다"
+  },
+  {
+    "day": 5,
+    "no": 30,
+    "english": "regard",
+    "korean": "여기다,간주하다 / 관심, 고려/ 존경, 안부인사"
+  },
+  {
+    "day": 5,
+    "no": 31,
+    "english": "confirm",
+    "korean": "(~이 사실임을)보여주 다 / 확인하다, 확정하다"
+  },
+  {
+    "day": 5,
+    "no": 32,
+    "english": "grant",
+    "korean": "수여하다, 주다/ 승인하다 / 수여, 보조금"
+  },
+  {
+    "day": 5,
+    "no": 33,
+    "english": "acknowledge",
+    "korean": "인정[승인]하다 / 감사 를 표하다"
+  },
+  {
+    "day": 5,
+    "no": 34,
+    "english": "delicate",
+    "korean": "연약한, 깨지기 쉬운/ 섬세한,우아한 / 미묘한"
+  },
+  {
+    "day": 5,
+    "no": 35,
+    "english": "differ",
+    "korean": "다르다, 의견을 달리하 다"
+  },
+  {
+    "day": 5,
+    "no": 36,
+    "english": "dense",
+    "korean": "밀집한, 빽빽한 / 짙은, 자욱한"
+  },
+  {
+    "day": 5,
+    "no": 37,
+    "english": "offense",
+    "korean": "위반, 범죄/ 모욕,불쾌한 것/공격"
+  },
+  {
+    "day": 5,
+    "no": 38,
+    "english": "defense",
+    "korean": "방어(물) / 변호"
+  },
+  {
+    "day": 5,
+    "no": 39,
+    "english": "compose",
+    "korean": "구성하다 / 작곡하다, 작문하다"
+  },
+  {
+    "day": 5,
+    "no": 40,
+    "english": "esteem",
+    "korean": "존경[존중]하다, 좋게 평가하다"
+  },
+  {
+    "day": 6,
+    "no": 1,
+    "english": "frequent",
+    "korean": "잦은, 빈번한 / 자주 다니다"
+  },
+  {
+    "day": 6,
+    "no": 2,
+    "english": "overlap",
+    "korean": "겹치다, 포개지다 / 중복되다 / 중복"
+  },
+  {
+    "day": 6,
+    "no": 3,
+    "english": "resist",
+    "korean": "저항[반대]하다 / 견디다"
+  },
+  {
+    "day": 6,
+    "no": 4,
+    "english": "corporate",
+    "korean": "기업의/ 법인의/ 공동의"
+  },
+  {
+    "day": 6,
+    "no": 5,
+    "english": "misunderstanding",
+    "korean": "오해/ 언쟁"
+  },
+  {
+    "day": 6,
+    "no": 6,
+    "english": "witness",
+    "korean": "목격자, 증인 / 목격하다, 증인하다"
+  },
+  {
+    "day": 6,
+    "no": 7,
+    "english": "contain",
+    "korean": "들어 있다, 포함하다 / 억누르다"
+  },
+  {
+    "day": 6,
+    "no": 8,
+    "english": "rent",
+    "korean": "임대료, 집세/ 자선(행위) / 관용"
+  },
+  {
+    "day": 6,
+    "no": 9,
+    "english": "crucial",
+    "korean": "결정적인, 중대한"
+  },
+  {
+    "day": 6,
+    "no": 10,
+    "english": "organ",
+    "korean": "[생물] 기관, 장기"
+  },
+  {
+    "day": 6,
+    "no": 11,
+    "english": "prescribe",
+    "korean": "처방하다 / 규정[지시]하다"
+  },
+  {
+    "day": 6,
+    "no": 12,
+    "english": "assert",
+    "korean": "주장하다, 단언하다"
+  },
+  {
+    "day": 6,
+    "no": 13,
+    "english": "perceive",
+    "korean": "인지하다, 알아차리다 / 여기다"
+  },
+  {
+    "day": 6,
+    "no": 14,
+    "english": "proceed",
+    "korean": "계속하다[되다], 진행하다 / 나아 가다"
+  },
+  {
+    "day": 6,
+    "no": 15,
+    "english": "inclined",
+    "korean": "~하는 경향이 있는/ ~할 마음이 있는"
+  },
+  {
+    "day": 6,
+    "no": 16,
+    "english": "relevant",
+    "korean": "관련 있는 , 적절한"
+  },
+  {
+    "day": 6,
+    "no": 17,
+    "english": "factual",
+    "korean": "사실에 입각한"
+  },
+  {
+    "day": 6,
+    "no": 18,
+    "english": "classify",
+    "korean": "분류하다, 구분하다"
+  },
+  {
+    "day": 6,
+    "no": 19,
+    "english": "involve",
+    "korean": "포함하다, 수반하다 / 관련시키다 / 참여시키다"
+  },
+  {
+    "day": 6,
+    "no": 20,
+    "english": "domestic",
+    "korean": "국내의 / 가정의 / 길들여진"
+  },
+  {
+    "day": 6,
+    "no": 21,
+    "english": "vast",
+    "korean": "거대한, 막대한"
+  },
+  {
+    "day": 6,
+    "no": 22,
+    "english": "intention",
+    "korean": "의도, 목적"
+  },
+  {
+    "day": 6,
+    "no": 23,
+    "english": "patent",
+    "korean": "특권, 특허를 받은, 특허 권을 얻다"
+  },
+  {
+    "day": 6,
+    "no": 24,
+    "english": "clarify",
+    "korean": "명백하게 하다, 분명히 말하다"
+  },
+  {
+    "day": 6,
+    "no": 25,
+    "english": "respondent",
+    "korean": "응답자"
+  },
+  {
+    "day": 6,
+    "no": 26,
+    "english": "concern",
+    "korean": "걱정시키다, 관심을 갖다, 관계가 있다, 걱정, 관심사, 관계"
+  },
+  {
+    "day": 6,
+    "no": 27,
+    "english": "circumstance",
+    "korean": "상황, 환경/ 형편, 처지"
+  },
+  {
+    "day": 6,
+    "no": 28,
+    "english": "obvious",
+    "korean": "명백한, 분명한"
+  },
+  {
+    "day": 6,
+    "no": 29,
+    "english": "distribute",
+    "korean": "나누어 주다, 분배하다 / 유통시키다"
+  },
+  {
+    "day": 6,
+    "no": 30,
+    "english": "crisis",
+    "korean": "위기, 결정적인 시기"
+  },
+  {
+    "day": 6,
+    "no": 31,
+    "english": "accuse",
+    "korean": "고발[기소]하다, 비난하 다"
+  },
+  {
+    "day": 6,
+    "no": 32,
+    "english": "variable",
+    "korean": "변하기 쉬운, 변덕스러운"
+  },
+  {
+    "day": 6,
+    "no": 33,
+    "english": "norm",
+    "korean": "표준, 일반적인 것"
+  },
+  {
+    "day": 6,
+    "no": 34,
+    "english": "anticipate",
+    "korean": "예상하다, 예측하다 / 기대하다"
+  },
+  {
+    "day": 6,
+    "no": 35,
+    "english": "derive",
+    "korean": "얻다, 끌어내다 / 유래하 다, 비롯되다"
+  },
+  {
+    "day": 6,
+    "no": 36,
+    "english": "merely",
+    "korean": "단지, 그저"
+  },
+  {
+    "day": 6,
+    "no": 37,
+    "english": "alternative",
+    "korean": "대안 / 대체 가능한, 대안 이 되는"
+  },
+  {
+    "day": 6,
+    "no": 38,
+    "english": "register",
+    "korean": "등록하다/ 기록하다, 나타내다"
+  },
+  {
+    "day": 6,
+    "no": 39,
+    "english": "appoint",
+    "korean": "임명[지명]하다 / (시간, 장소 등을)정하다"
+  },
+  {
+    "day": 6,
+    "no": 40,
+    "english": "severe",
+    "korean": "심한"
+  },
+  {
+    "day": 7,
+    "no": 1,
+    "english": "adjust",
+    "korean": "조정하다, 맞추다 / 적응하다"
+  },
+  {
+    "day": 7,
+    "no": 2,
+    "english": "install",
+    "korean": "설치하다, 설비하다"
+  },
+  {
+    "day": 7,
+    "no": 3,
+    "english": "nevertheless",
+    "korean": "그럼에도 불구하고"
+  },
+  {
+    "day": 7,
+    "no": 4,
+    "english": "originate",
+    "korean": "비롯되다, 시작하다"
+  },
+  {
+    "day": 7,
+    "no": 5,
+    "english": "particular",
+    "korean": "특정한 / 특별한 / 까다로운"
+  },
+  {
+    "day": 7,
+    "no": 6,
+    "english": "be possessed of",
+    "korean": "(재능. 자질을) 지니다"
+  },
+  {
+    "day": 7,
+    "no": 7,
+    "english": "be concerned with",
+    "korean": "~와 관련이 있다/ ~에 관심이 있다"
+  },
+  {
+    "day": 7,
+    "no": 8,
+    "english": "deal in",
+    "korean": "(상품 등을) 취급하다, 거래하다"
+  },
+  {
+    "day": 7,
+    "no": 9,
+    "english": "succeed to",
+    "korean": "~을 물려받다, 계승하다"
+  },
+  {
+    "day": 7,
+    "no": 10,
+    "english": "may well",
+    "korean": "(~하는 것도) 당연하다 / 아마 ~일 것이다"
+  },
+  {
+    "day": 7,
+    "no": 11,
+    "english": "dedicate",
+    "korean": "바치다, 헌신[전념]하다"
+  },
+  {
+    "day": 7,
+    "no": 12,
+    "english": "scarce",
+    "korean": "부족한, 드문"
+  },
+  {
+    "day": 7,
+    "no": 13,
+    "english": "disrupt",
+    "korean": "방해하다, 지장을 주다"
+  },
+  {
+    "day": 7,
+    "no": 14,
+    "english": "adequate",
+    "korean": "적절한, 충분한"
+  },
+  {
+    "day": 7,
+    "no": 15,
+    "english": "restrain",
+    "korean": "제지하다, (감정,행동 등을) 억누르 다, 억제하다"
+  },
+  {
+    "day": 7,
+    "no": 16,
+    "english": "go with",
+    "korean": "~와 어울리다 / ~을 선택하다, 따르다"
+  },
+  {
+    "day": 7,
+    "no": 17,
+    "english": "get away with",
+    "korean": "처벌을 모면하다, 그냥 넘어가다"
+  },
+  {
+    "day": 7,
+    "no": 18,
+    "english": "dispense with",
+    "korean": "~을 생략하다, 없애다"
+  },
+  {
+    "day": 7,
+    "no": 19,
+    "english": "rest with",
+    "korean": "(선택, 결정 등이) ~에게 달려 있다"
+  },
+  {
+    "day": 7,
+    "no": 20,
+    "english": "deprive A of B",
+    "korean": "A에게서 B를 빼앗다, 박탈하다"
+  },
+  {
+    "day": 7,
+    "no": 21,
+    "english": "take the place of",
+    "korean": "~을 대신하다"
+  },
+  {
+    "day": 7,
+    "no": 22,
+    "english": "come to",
+    "korean": "~에 이르다 / 의식을 회 복하다"
+  },
+  {
+    "day": 7,
+    "no": 23,
+    "english": "look to",
+    "korean": "~에게 (도움 등을) 기대 하다, 기대다"
+  },
+  {
+    "day": 7,
+    "no": 24,
+    "english": "occur to",
+    "korean": "~에게 떠오르다, 생각나 다"
+  },
+  {
+    "day": 7,
+    "no": 25,
+    "english": "turn to",
+    "korean": "~에게 의지하다, 도움을 청하다"
+  },
+  {
+    "day": 7,
+    "no": 26,
+    "english": "adhere to",
+    "korean": "~을 고수[고집]하다 / (물건에) 들러붙다"
+  },
+  {
+    "day": 7,
+    "no": 27,
+    "english": "keep to",
+    "korean": "~을 지키다,따르다 / ~에서 벗어나지 않다"
+  },
+  {
+    "day": 7,
+    "no": 28,
+    "english": "amount to",
+    "korean": "(합계가) ~에 달하다/ ~와 같다, ~에 해당하다"
+  },
+  {
+    "day": 7,
+    "no": 29,
+    "english": "see to",
+    "korean": "~을 처리하다, 맡다"
+  },
+  {
+    "day": 7,
+    "no": 30,
+    "english": "cut across",
+    "korean": "~을 가로질러 가다 / ~에 걸쳐 영향을 미치다"
+  },
+  {
+    "day": 7,
+    "no": 31,
+    "english": "charge A with B",
+    "korean": "A를 B의 혐의로 고소 [기소]하다 / A에게B의 책임 을 지우다"
+  },
+  {
+    "day": 7,
+    "no": 32,
+    "english": "do without",
+    "korean": "~없이 지내다, 견디다"
+  },
+  {
+    "day": 7,
+    "no": 33,
+    "english": "carry away",
+    "korean": "~을 흥분시키다 / 넋을 잃게 하다"
+  },
+  {
+    "day": 7,
+    "no": 34,
+    "english": "come away",
+    "korean": "떨어지다, 분리되다 / (~한 인상을 갖고)떠나다"
+  },
+  {
+    "day": 7,
+    "no": 35,
+    "english": "put away",
+    "korean": "~을 치우다, 제자리에 놓 다 / ~을 저축하다"
+  },
+  {
+    "day": 7,
+    "no": 36,
+    "english": "stay away",
+    "korean": "~을 멀리하다, 가까이 가 지 않다"
+  },
+  {
+    "day": 7,
+    "no": 37,
+    "english": "wear away",
+    "korean": "차츰 닳다, ~을 닳게 하 다"
+  },
+  {
+    "day": 7,
+    "no": 38,
+    "english": "give away",
+    "korean": "~을 나누어 주다, 증정하 다 / (비밀을)누설하다"
+  },
+  {
+    "day": 7,
+    "no": 39,
+    "english": "die away",
+    "korean": "(소리,빛 등이) 점차 사라 지다"
+  },
+  {
+    "day": 7,
+    "no": 40,
+    "english": "come about",
+    "korean": "(특히 우연히)일어나다, 발생하다"
+  },
+  {
+    "day": 8,
+    "no": 1,
+    "english": "accuse A of B",
+    "korean": "A를 B의 혐의로 고발[기소]하다, 비난하다"
+  },
+  {
+    "day": 8,
+    "no": 2,
+    "english": "rob A of B",
+    "korean": "A에게서 B를 빼앗다"
+  },
+  {
+    "day": 8,
+    "no": 3,
+    "english": "warfare",
+    "korean": "전쟁, 전투, 싸움"
+  },
+  {
+    "day": 8,
+    "no": 4,
+    "english": "welfare",
+    "korean": "안녕,행복, 복지"
+  },
+  {
+    "day": 8,
+    "no": 5,
+    "english": "confer",
+    "korean": "협의(의논)하다, (상,학위 등을) 수여하다"
+  },
+  {
+    "day": 8,
+    "no": 6,
+    "english": "pull over",
+    "korean": "차를 길가에 대다"
+  },
+  {
+    "day": 8,
+    "no": 7,
+    "english": "take over",
+    "korean": "~을 넘겨받다, 인수하다 / ~을 장악 하다"
+  },
+  {
+    "day": 8,
+    "no": 8,
+    "english": "pass over",
+    "korean": "~을 무시[간과]하다 / (승진 등에 서)제외하다"
+  },
+  {
+    "day": 8,
+    "no": 9,
+    "english": "run over",
+    "korean": "(차가) ~을 치다, (액체 등이) 흘러 넘치다"
+  },
+  {
+    "day": 8,
+    "no": 10,
+    "english": "come over",
+    "korean": "들르다, 방문하다 / (느낌 등이) 엄습하다"
+  },
+  {
+    "day": 8,
+    "no": 11,
+    "english": "do over",
+    "korean": "~을 (처음부터) 다시하다"
+  },
+  {
+    "day": 8,
+    "no": 12,
+    "english": "go over",
+    "korean": "~을 검토[점검]하다, 복습하다"
+  },
+  {
+    "day": 8,
+    "no": 13,
+    "english": "think over",
+    "korean": "~을 숙고하다"
+  },
+  {
+    "day": 8,
+    "no": 14,
+    "english": "chew over",
+    "korean": "~을 심사숙고하다"
+  },
+  {
+    "day": 8,
+    "no": 15,
+    "english": "talk over",
+    "korean": "~에 관해 상의하다"
+  },
+  {
+    "day": 8,
+    "no": 16,
+    "english": "argue over",
+    "korean": "~에 관해 논쟁하다"
+  },
+  {
+    "day": 8,
+    "no": 17,
+    "english": "turn over",
+    "korean": "~을 뒤집다, 뒤집히다 / ~을 넘기다"
+  },
+  {
+    "day": 8,
+    "no": 18,
+    "english": "read over",
+    "korean": "~을 꼼꼼히 읽다, 정독하다"
+  },
+  {
+    "day": 8,
+    "no": 19,
+    "english": "get over",
+    "korean": "~을 극복하다 / (병에서)낫다, 회복 하다"
+  },
+  {
+    "day": 8,
+    "no": 20,
+    "english": "hand over",
+    "korean": "~을 건네주다 / (권력 등을) 넘겨주 다"
+  },
+  {
+    "day": 8,
+    "no": 21,
+    "english": "go about",
+    "korean": "돌아다니다 , ~을 시작 하다"
+  },
+  {
+    "day": 8,
+    "no": 22,
+    "english": "set about",
+    "korean": "~을 시작하다, 착수하다"
+  },
+  {
+    "day": 8,
+    "no": 23,
+    "english": "refine",
+    "korean": "정제하다, 개선하다, 다듬다"
+  },
+  {
+    "day": 8,
+    "no": 24,
+    "english": "fertile",
+    "korean": "기름진, 비옥한"
+  },
+  {
+    "day": 8,
+    "no": 25,
+    "english": "infer",
+    "korean": "추론하다, 추측하다"
+  },
+  {
+    "day": 8,
+    "no": 26,
+    "english": "pull out",
+    "korean": "~을 뽑다"
+  },
+  {
+    "day": 8,
+    "no": 27,
+    "english": "sort out",
+    "korean": "~을 정리하다, 분류하다/ (문제 등을)해결하다"
+  },
+  {
+    "day": 8,
+    "no": 28,
+    "english": "speak out",
+    "korean": "공개적으로 말하다 [밝히다]"
+  },
+  {
+    "day": 8,
+    "no": 29,
+    "english": "stick out",
+    "korean": "~을 내밀다, 튀어나오다/ 두드러지다"
+  },
+  {
+    "day": 8,
+    "no": 30,
+    "english": "wear out",
+    "korean": "~을 닳게 하다, 닳다 / ~을 지치게 하다"
+  },
+  {
+    "day": 8,
+    "no": 31,
+    "english": "allow for",
+    "korean": "~을 고려하다, 감안하다"
+  },
+  {
+    "day": 8,
+    "no": 32,
+    "english": "go for",
+    "korean": "~을 선택하다, ~에 적용 되다"
+  },
+  {
+    "day": 8,
+    "no": 33,
+    "english": "be for",
+    "korean": "~을 찬성하다, ~을 지지 하다"
+  },
+  {
+    "day": 8,
+    "no": 34,
+    "english": "call for",
+    "korean": "~을 요구하다, 필요로 하다"
+  },
+  {
+    "day": 8,
+    "no": 35,
+    "english": "long for",
+    "korean": "~을 간절히 바라다, 갈망하다"
+  },
+  {
+    "day": 8,
+    "no": 36,
+    "english": "head for",
+    "korean": "~로 향하다"
+  },
+  {
+    "day": 8,
+    "no": 37,
+    "english": "make for",
+    "korean": "~로 향하다"
+  },
+  {
+    "day": 8,
+    "no": 38,
+    "english": "run for",
+    "korean": "~을 출마하다"
+  },
+  {
+    "day": 8,
+    "no": 39,
+    "english": "take for",
+    "korean": "~로 (잘못)여기다, 오해하다"
+  },
+  {
+    "day": 8,
+    "no": 40,
+    "english": "act for",
+    "korean": "~의 대리[대행]를 하다"
+  },
+  {
+    "day": 9,
+    "no": 1,
+    "english": "stand out",
+    "korean": "눈에 띄다,두드러지다"
+  },
+  {
+    "day": 9,
+    "no": 2,
+    "english": "pass out",
+    "korean": "의식을 잃다, 기절하다 / 나누어주 다"
+  },
+  {
+    "day": 9,
+    "no": 3,
+    "english": "try out",
+    "korean": "~을 시험 삼아 해 보다"
+  },
+  {
+    "day": 9,
+    "no": 4,
+    "english": "apply for",
+    "korean": "~에 지원하다, 신청하다"
+  },
+  {
+    "day": 9,
+    "no": 5,
+    "english": "sign up for",
+    "korean": "~에 등록하다, 신청하다"
+  },
+  {
+    "day": 9,
+    "no": 6,
+    "english": "care for",
+    "korean": "~을 돌보다, ~을 좋아하다"
+  },
+  {
+    "day": 9,
+    "no": 7,
+    "english": "reach for",
+    "korean": "~을 향해 손을 뻗다"
+  },
+  {
+    "day": 9,
+    "no": 8,
+    "english": "stand for",
+    "korean": "~을 상징하다,의미하다 / ~을 옹호하다"
+  },
+  {
+    "day": 9,
+    "no": 9,
+    "english": "substitute for",
+    "korean": "~을 대신[대체]하다"
+  },
+  {
+    "day": 9,
+    "no": 10,
+    "english": "spell out",
+    "korean": "철자를 하나하나 말하다[쓰다] / ~을 분명히 설명하다"
+  },
+  {
+    "day": 9,
+    "no": 11,
+    "english": "pay for",
+    "korean": "~의 값을 지불하다 / ~의 대가를 치르다"
+  },
+  {
+    "day": 9,
+    "no": 12,
+    "english": "turn out",
+    "korean": "~로 드러내다, 모습을 드러내다 / (조명 등을) 끄다"
+  },
+  {
+    "day": 9,
+    "no": 13,
+    "english": "count on",
+    "korean": "~을 믿다, 의지하다, 기대하다"
+  },
+  {
+    "day": 9,
+    "no": 14,
+    "english": "cut out",
+    "korean": "~을 잘라내다, (음식, 습관 등을) 끊다, 그만두다"
+  },
+  {
+    "day": 9,
+    "no": 15,
+    "english": "fade out",
+    "korean": "(소리, 빛 등이) 점차 사라지다, 희미해지다"
+  },
+  {
+    "day": 9,
+    "no": 16,
+    "english": "break out",
+    "korean": "(전쟁,화재 등이) 발생하 다"
+  },
+  {
+    "day": 9,
+    "no": 17,
+    "english": "carry out",
+    "korean": "~을 수행하다, 이행하다"
+  },
+  {
+    "day": 9,
+    "no": 18,
+    "english": "check out",
+    "korean": "퇴실하다 / ~을 확인하다, 살펴보다 / (책을) 대출하다"
+  },
+  {
+    "day": 9,
+    "no": 19,
+    "english": "figure out",
+    "korean": "~을 이해하다, 알아내 다 / ~을 계산하다"
+  },
+  {
+    "day": 9,
+    "no": 20,
+    "english": "make out",
+    "korean": "~을 알아보다, 이해하다, (서류 등을)작성하다"
+  },
+  {
+    "day": 9,
+    "no": 21,
+    "english": "give out",
+    "korean": "~을 배포하다 / (빛,열 등 을) 내다,발신하다"
+  },
+  {
+    "day": 9,
+    "no": 22,
+    "english": "hand out",
+    "korean": "~을 나누어주다, 배포하 다"
+  },
+  {
+    "day": 9,
+    "no": 23,
+    "english": "keep out of",
+    "korean": "~에 들어가지 않다, ~에 끼어들지 않다"
+  },
+  {
+    "day": 9,
+    "no": 24,
+    "english": "lay out",
+    "korean": "~을 펼치다,배열하다/ ~을 제시[설명]하다"
+  },
+  {
+    "day": 9,
+    "no": 25,
+    "english": "leak out",
+    "korean": "(비밀,정보 등이) 새어나오다,누설되다"
+  },
+  {
+    "day": 9,
+    "no": 26,
+    "english": "point out",
+    "korean": "~을 가리키다, 지적하다"
+  },
+  {
+    "day": 9,
+    "no": 27,
+    "english": "set out",
+    "korean": "출발하다, 길을 떠나다/ (일, 과제 등에) 착수하다"
+  },
+  {
+    "day": 9,
+    "no": 28,
+    "english": "cry out for",
+    "korean": "~을 강력히 요구하다, 절실히 필요로 하다"
+  },
+  {
+    "day": 9,
+    "no": 29,
+    "english": "burn out",
+    "korean": "다 타버리다, 기진맥진하 다, 기진맥진하게 하다"
+  },
+  {
+    "day": 9,
+    "no": 30,
+    "english": "fill out",
+    "korean": "(서식 등을)작성하다"
+  },
+  {
+    "day": 10,
+    "no": 1,
+    "english": "map out",
+    "korean": "~을 상세히 계획하다, 구성하다"
+  },
+  {
+    "day": 10,
+    "no": 2,
+    "english": "wipe out",
+    "korean": "~을 완전히 제거하다, 파괴하다"
+  },
+  {
+    "day": 10,
+    "no": 3,
+    "english": "run out of",
+    "korean": "~을 다 써버리다"
+  },
+  {
+    "day": 10,
+    "no": 4,
+    "english": "drop out",
+    "korean": "중도에 그만두다, 중퇴하다"
+  },
+  {
+    "day": 10,
+    "no": 5,
+    "english": "leave out",
+    "korean": "~을 빼다, 제외하다, 생략하다"
+  },
+  {
+    "day": 10,
+    "no": 6,
+    "english": "put out",
+    "korean": "(불,조명 등을)끄다, ~에게 폐를 끼 치다"
+  },
+  {
+    "day": 10,
+    "no": 7,
+    "english": "rule out",
+    "korean": "~을 제외하다, 배제하다"
+  },
+  {
+    "day": 10,
+    "no": 8,
+    "english": "cut in",
+    "korean": "(대화에) 끼어들다"
+  },
+  {
+    "day": 10,
+    "no": 9,
+    "english": "kick in",
+    "korean": "효과가 나타나기 시작하다"
+  },
+  {
+    "day": 10,
+    "no": 10,
+    "english": "fit in",
+    "korean": "어울리다, (일정 등에)끼워넣다, 시간을 내다"
+  },
+  {
+    "day": 10,
+    "no": 11,
+    "english": "get in",
+    "korean": "(장소에)들어가다, (차에)타다"
+  },
+  {
+    "day": 10,
+    "no": 12,
+    "english": "look in on",
+    "korean": "잠시 들르다, 안부를 살피다"
+  },
+  {
+    "day": 10,
+    "no": 13,
+    "english": "fill in",
+    "korean": "~을 작성하다, (일을)대신하다, ~에게 정보를 알려주다"
+  },
+  {
+    "day": 10,
+    "no": 14,
+    "english": "give in",
+    "korean": "굴복[항복]하다, (마지못해)받아들 이다"
+  },
+  {
+    "day": 10,
+    "no": 15,
+    "english": "step in",
+    "korean": "(문제 해결을 위해)개입하다"
+  },
+  {
+    "day": 10,
+    "no": 16,
+    "english": "take in",
+    "korean": "~을 이해[수용]하다, ~을 섭취하다, 흡수하다"
+  },
+  {
+    "day": 10,
+    "no": 17,
+    "english": "put in for",
+    "korean": "~을 신청하다"
+  },
+  {
+    "day": 10,
+    "no": 18,
+    "english": "turn in",
+    "korean": "~을 건네다, 제출하다, ~을 반납하다"
+  },
+  {
+    "day": 10,
+    "no": 19,
+    "english": "come in",
+    "korean": "들어오다, 도착하다, (돈,정보 등이)들어오다"
+  },
+  {
+    "day": 10,
+    "no": 20,
+    "english": "go into",
+    "korean": "~을 상세히 다루다, 연구[조사]하다, (특정 분야에)진출하다"
+  },
+  {
+    "day": 10,
+    "no": 21,
+    "english": "bump into",
+    "korean": "~을 우연히 만나다, ~에 부딪히다"
+  },
+  {
+    "day": 10,
+    "no": 22,
+    "english": "burst into",
+    "korean": "갑자기 ~하기 시작하다"
+  },
+  {
+    "day": 10,
+    "no": 23,
+    "english": "be into",
+    "korean": "~에 푹 빠져 있다"
+  },
+  {
+    "day": 10,
+    "no": 24,
+    "english": "break into",
+    "korean": "~에 침입하다, 갑자기~하기 시작하다"
+  },
+  {
+    "day": 10,
+    "no": 25,
+    "english": "run into",
+    "korean": "~을 우연히 만나다, (문제,어려움 등에)부딪 히다"
+  },
+  {
+    "day": 10,
+    "no": 26,
+    "english": "talk A into B",
+    "korean": "A를 설득하여 B를 하게 하다"
+  },
+  {
+    "day": 10,
+    "no": 27,
+    "english": "come by",
+    "korean": "~을 얻다,구하다/~에 들 르다"
+  },
+  {
+    "day": 10,
+    "no": 28,
+    "english": "get by",
+    "korean": "그럭저럭 살아가다"
+  },
+  {
+    "day": 10,
+    "no": 29,
+    "english": "stop by",
+    "korean": "(잠시)들르다"
+  },
+  {
+    "day": 10,
+    "no": 30,
+    "english": "stand by",
+    "korean": "대기[준비]하다, 가만히 지켜보다, ~을 지지하다"
+  },
+  {
+    "day": 11,
+    "no": 1,
+    "english": "look into",
+    "korean": "~을 조사하다"
+  },
+  {
+    "day": 11,
+    "no": 2,
+    "english": "believe in",
+    "korean": "~의 존재를 믿다"
+  },
+  {
+    "day": 11,
+    "no": 3,
+    "english": "take on",
+    "korean": "~을 떠맡다, ~을 고용하다 / (모습,특징을)따다"
+  },
+  {
+    "day": 11,
+    "no": 4,
+    "english": "carry on",
+    "korean": "~을 계속하다"
+  },
+  {
+    "day": 11,
+    "no": 5,
+    "english": "hang on",
+    "korean": "꽉 붙잡다, 잠깐 기다리다 / (역경에도)계속 버티다"
+  },
+  {
+    "day": 11,
+    "no": 6,
+    "english": "act on",
+    "korean": "~에 작용하다,영향을 주다 / (주의,명령 등에)따라 행동하다"
+  },
+  {
+    "day": 11,
+    "no": 7,
+    "english": "build on",
+    "korean": "~을 기반으로 하다 / (~에)증축하 다"
+  },
+  {
+    "day": 11,
+    "no": 8,
+    "english": "count on",
+    "korean": "~을 믿다, 의지하다 / ~을 기대하다"
+  },
+  {
+    "day": 11,
+    "no": 9,
+    "english": "dwell on",
+    "korean": "~을 곱씹다, 계속 생각하다"
+  },
+  {
+    "day": 11,
+    "no": 10,
+    "english": "let on",
+    "korean": "(비밀 등을)털어놓다, 발설하다"
+  },
+  {
+    "day": 11,
+    "no": 11,
+    "english": "work on",
+    "korean": "~을 작업하다, (개선, 설득 등을) 위해 애쓰다"
+  },
+  {
+    "day": 11,
+    "no": 12,
+    "english": "pick on",
+    "korean": "~을 괴롭히다"
+  },
+  {
+    "day": 11,
+    "no": 13,
+    "english": "break off",
+    "korean": "관계를 끊다, (말 등을) 중단하다"
+  },
+  {
+    "day": 11,
+    "no": 14,
+    "english": "cut off",
+    "korean": "(공급,연결 등을) 끊다,차단하다 / (말을)가로막다"
+  },
+  {
+    "day": 11,
+    "no": 15,
+    "english": "drop off",
+    "korean": "~을 (차에서)내려주다, (수,양이) 감소하다"
+  },
+  {
+    "day": 11,
+    "no": 16,
+    "english": "call off",
+    "korean": "~을 취소하다, 철회하다"
+  },
+  {
+    "day": 11,
+    "no": 17,
+    "english": "keep off",
+    "korean": "~에 가까이 가지 않다, 가까이 못 오게 하다"
+  },
+  {
+    "day": 11,
+    "no": 18,
+    "english": "lay off",
+    "korean": "~을 해고하다"
+  },
+  {
+    "day": 11,
+    "no": 19,
+    "english": "put off",
+    "korean": "~을 연기하다, 늦추다"
+  },
+  {
+    "day": 11,
+    "no": 20,
+    "english": "see off",
+    "korean": "(공항,역 등에서)배웅하 다"
+  },
+  {
+    "day": 11,
+    "no": 21,
+    "english": "set off",
+    "korean": "출발하다 / (폭탄 등을) 터뜨리다, 작동시키다"
+  },
+  {
+    "day": 11,
+    "no": 22,
+    "english": "take off",
+    "korean": "~을 벗다, 이룩하다, 급성장하다, 유행하다"
+  },
+  {
+    "day": 11,
+    "no": 23,
+    "english": "carry off",
+    "korean": "(어려운 일을)잘 해내다, 완수하다"
+  },
+  {
+    "day": 11,
+    "no": 24,
+    "english": "show off",
+    "korean": "~을 과시하다, 자랑하다"
+  },
+  {
+    "day": 11,
+    "no": 25,
+    "english": "ease off",
+    "korean": "완화되다, 완화하다"
+  },
+  {
+    "day": 11,
+    "no": 26,
+    "english": "bring down",
+    "korean": "(가격 등을)낮추다, ~을 무너뜨리다, 전복시키다"
+  },
+  {
+    "day": 11,
+    "no": 27,
+    "english": "come down to",
+    "korean": "결국 ~로 귀결되다, (길이가)~까지 내려오다"
+  },
+  {
+    "day": 11,
+    "no": 28,
+    "english": "cut down",
+    "korean": "~을 줄이다, 삭감하다, ~을 벌목하다"
+  },
+  {
+    "day": 11,
+    "no": 29,
+    "english": "get down",
+    "korean": "내려오다"
+  },
+  {
+    "day": 11,
+    "no": 30,
+    "english": "hand down",
+    "korean": "(후세에)물려주다, 전하 다 / (판결 등을)내리다"
+  },
+  {
+    "day": 12,
+    "no": 1,
+    "english": "knock down",
+    "korean": "~을 쓰러뜨리다,허물다 / (사람을) 때려눕히다"
+  },
+  {
+    "day": 12,
+    "no": 2,
+    "english": "take down",
+    "korean": "~을 내리다, 치우다, ~을 받아 적다"
+  },
+  {
+    "day": 12,
+    "no": 3,
+    "english": "boil down",
+    "korean": "~을 요약하다, (액체를)줄이다"
+  },
+  {
+    "day": 12,
+    "no": 4,
+    "english": "break down",
+    "korean": "고장 나다, 실패하다, ~을 분해하다,나누다"
+  },
+  {
+    "day": 12,
+    "no": 5,
+    "english": "come down with",
+    "korean": "(병에)걸리다, 감염되다"
+  },
+  {
+    "day": 12,
+    "no": 6,
+    "english": "mark down",
+    "korean": "가격을 인하하다, 할인하다"
+  },
+  {
+    "day": 12,
+    "no": 7,
+    "english": "hold down",
+    "korean": "~을 억제하다, (일자리 등을) 계속 유지하다"
+  },
+  {
+    "day": 12,
+    "no": 8,
+    "english": "look down on",
+    "korean": "~을 얕보다, 경멸하다"
+  },
+  {
+    "day": 12,
+    "no": 9,
+    "english": "put down",
+    "korean": "~을 적어 두다, ~을 진압하다"
+  },
+  {
+    "day": 12,
+    "no": 10,
+    "english": "tear down",
+    "korean": "~을 허물다, 철거하다"
+  },
+  {
+    "day": 12,
+    "no": 11,
+    "english": "turn down",
+    "korean": "~을 거절하다/ (소리,온도 등을) 낮추다"
+  },
+  {
+    "day": 12,
+    "no": 12,
+    "english": "come through",
+    "korean": "살아남다, 견디다, 성공하다, 해내다, (정보 등이) 들어오다"
+  },
+  {
+    "day": 12,
+    "no": 13,
+    "english": "go through",
+    "korean": "~을 겪다, 경험하다, ~을 검토하다"
+  },
+  {
+    "day": 12,
+    "no": 14,
+    "english": "put through",
+    "korean": "(전화로)연결해 주다, (힘든 일, 과정을)겪게 하다"
+  },
+  {
+    "day": 12,
+    "no": 15,
+    "english": "be through",
+    "korean": "~을 끝내다, 마치다, (관계가) 끝나다"
+  },
+  {
+    "day": 12,
+    "no": 16,
+    "english": "carry through",
+    "korean": "~을 완수하다,해내다 / (어려운 상황을)견디게 하다"
+  },
+  {
+    "day": 12,
+    "no": 17,
+    "english": "go through with",
+    "korean": "~을 끝까지 실행하다, 관철하다"
+  },
+  {
+    "day": 12,
+    "no": 18,
+    "english": "settle down",
+    "korean": "정착하다, 자리 잡다 / 진정하다[되다]"
+  },
+  {
+    "day": 12,
+    "no": 19,
+    "english": "back up",
+    "korean": "~을 지원하다, 뒷받침하 다"
+  },
+  {
+    "day": 12,
+    "no": 20,
+    "english": "stand up for",
+    "korean": "~을 옹호하다, 지지하다"
+  },
+  {
+    "day": 12,
+    "no": 21,
+    "english": "pile up",
+    "korean": "쌓이다, 쌓아 올리다"
+  },
+  {
+    "day": 12,
+    "no": 22,
+    "english": "stay up",
+    "korean": "자지 않고 깨어 있다"
+  },
+  {
+    "day": 12,
+    "no": 23,
+    "english": "set up",
+    "korean": "~을 설립하다, ~을 설치 하다, ~을 준비하다"
+  },
+  {
+    "day": 12,
+    "no": 24,
+    "english": "bring up",
+    "korean": "~을 기르다, 양육하다, ~을 제기하다"
+  },
+  {
+    "day": 12,
+    "no": 25,
+    "english": "be up to",
+    "korean": "~에게 달려 있다, ~의 책 임이다"
+  },
+  {
+    "day": 12,
+    "no": 26,
+    "english": "catch up with",
+    "korean": "~을 따라잡다, 보충하다"
+  },
+  {
+    "day": 12,
+    "no": 27,
+    "english": "come up with",
+    "korean": "~을 생각해내다, 제안하 다"
+  },
+  {
+    "day": 12,
+    "no": 28,
+    "english": "come up to",
+    "korean": "~에게 다가가다, (기대 등에)부합하다, 미치다"
+  },
+  {
+    "day": 12,
+    "no": 29,
+    "english": "end up",
+    "korean": "결국 ~하게 되다"
+  },
+  {
+    "day": 12,
+    "no": 30,
+    "english": "keep up with",
+    "korean": "(뒤처지지 않게)따라가 다"
+  },
+  {
+    "day": 13,
+    "no": 1,
+    "english": "live up to",
+    "korean": "(기대,명성 등에) 부응하다, 어울리는 생활을 하다"
+  },
+  {
+    "day": 13,
+    "no": 2,
+    "english": "pull up",
+    "korean": "(차가)멈추다, 정차하다"
+  },
+  {
+    "day": 13,
+    "no": 3,
+    "english": "cover up",
+    "korean": "(옷 등으로)몸을 덮다, ~을 숨기다 [은폐하다]"
+  },
+  {
+    "day": 13,
+    "no": 4,
+    "english": "take up",
+    "korean": "~을 차지하다, (취미, 일 등을)시작 하다"
+  },
+  {
+    "day": 13,
+    "no": 5,
+    "english": "throw up",
+    "korean": "토하다"
+  },
+  {
+    "day": 13,
+    "no": 6,
+    "english": "sum up",
+    "korean": "~을 요약하다"
+  },
+  {
+    "day": 13,
+    "no": 7,
+    "english": "use up",
+    "korean": "~을 다 써버리다, 소모하다"
+  },
+  {
+    "day": 13,
+    "no": 8,
+    "english": "make up for",
+    "korean": "~을 만회하다, 보상하다"
+  },
+  {
+    "day": 13,
+    "no": 9,
+    "english": "look up",
+    "korean": "(사전 등에서)찾아보다, (상황이) 나아지다"
+  },
+  {
+    "day": 13,
+    "no": 10,
+    "english": "turn up",
+    "korean": "나타나다, 발견되다, (소리,온도 등을)높이다"
+  },
+  {
+    "day": 13,
+    "no": 11,
+    "english": "put up with",
+    "korean": "~을 참다, 견디다"
+  },
+  {
+    "day": 13,
+    "no": 12,
+    "english": "instructor",
+    "korean": "강사, 교사"
+  },
+  {
+    "day": 13,
+    "no": 13,
+    "english": "diploma",
+    "korean": "졸업장, 수료증"
+  },
+  {
+    "day": 13,
+    "no": 14,
+    "english": "sociolinguistics",
+    "korean": "사회언어학"
+  },
+  {
+    "day": 13,
+    "no": 15,
+    "english": "anatomy",
+    "korean": "해부학, (해부학적)구조"
+  },
+  {
+    "day": 13,
+    "no": 16,
+    "english": "ambassador",
+    "korean": "대사 / 사절, 대표"
+  },
+  {
+    "day": 13,
+    "no": 17,
+    "english": "architect",
+    "korean": "건축가, 설계자"
+  },
+  {
+    "day": 13,
+    "no": 18,
+    "english": "counselor",
+    "korean": "상담가, 조언자"
+  },
+  {
+    "day": 13,
+    "no": 19,
+    "english": "pharmacist",
+    "korean": "약사"
+  },
+  {
+    "day": 13,
+    "no": 20,
+    "english": "consultant",
+    "korean": "컨설턴트, 상담가"
+  },
+  {
+    "day": 13,
+    "no": 21,
+    "english": "alchemist",
+    "korean": "연금술사"
+  },
+  {
+    "day": 13,
+    "no": 22,
+    "english": "supervisor",
+    "korean": "감독자, 관리자"
+  },
+  {
+    "day": 13,
+    "no": 23,
+    "english": "technician",
+    "korean": "기술자, 기사"
+  },
+  {
+    "day": 13,
+    "no": 24,
+    "english": "repairman",
+    "korean": "수리공"
+  },
+  {
+    "day": 13,
+    "no": 25,
+    "english": "receptionist",
+    "korean": "(호텔, 회사 등의)접수 담 당자"
+  },
+  {
+    "day": 13,
+    "no": 26,
+    "english": "accountant",
+    "korean": "회계사"
+  },
+  {
+    "day": 13,
+    "no": 27,
+    "english": "philosopher",
+    "korean": "철학자"
+  },
+  {
+    "day": 13,
+    "no": 28,
+    "english": "astronomer",
+    "korean": "천문학자"
+  },
+  {
+    "day": 13,
+    "no": 29,
+    "english": "botanist",
+    "korean": "식물학자"
+  },
+  {
+    "day": 13,
+    "no": 30,
+    "english": "scholar",
+    "korean": "학자, 장학생"
+  },
+  {
+    "day": 14,
+    "no": 1,
+    "english": "biotechnology",
+    "korean": "생명 공학"
+  },
+  {
+    "day": 14,
+    "no": 2,
+    "english": "hygiene",
+    "korean": "위생학, 위생"
+  },
+  {
+    "day": 14,
+    "no": 3,
+    "english": "anthropology",
+    "korean": "인류학"
+  },
+  {
+    "day": 14,
+    "no": 4,
+    "english": "archaeology",
+    "korean": "고고학"
+  },
+  {
+    "day": 14,
+    "no": 5,
+    "english": "arithmetic",
+    "korean": "산수, 연산"
+  },
+  {
+    "day": 14,
+    "no": 6,
+    "english": "linguistics",
+    "korean": "언어학"
+  },
+  {
+    "day": 14,
+    "no": 7,
+    "english": "mythology",
+    "korean": "신화, 신화학"
+  },
+  {
+    "day": 14,
+    "no": 8,
+    "english": "genetics",
+    "korean": "유전학"
+  },
+  {
+    "day": 14,
+    "no": 9,
+    "english": "physiology",
+    "korean": "생리학, 생리(기능)"
+  },
+  {
+    "day": 14,
+    "no": 10,
+    "english": "battlefield",
+    "korean": "전쟁터, 싸움터"
+  },
+  {
+    "day": 14,
+    "no": 11,
+    "english": "bombard",
+    "korean": "포격(폭격하다)"
+  },
+  {
+    "day": 14,
+    "no": 12,
+    "english": "devastate",
+    "korean": "철저히 파괴하다"
+  },
+  {
+    "day": 14,
+    "no": 13,
+    "english": "foe",
+    "korean": "적, 원수"
+  },
+  {
+    "day": 14,
+    "no": 14,
+    "english": "assault",
+    "korean": "공격, 습격"
+  },
+  {
+    "day": 14,
+    "no": 15,
+    "english": "troop",
+    "korean": "군대, 병력"
+  },
+  {
+    "day": 14,
+    "no": 16,
+    "english": "criminal",
+    "korean": "범인, 범죄자"
+  },
+  {
+    "day": 14,
+    "no": 17,
+    "english": "triumph",
+    "korean": "승리"
+  },
+  {
+    "day": 14,
+    "no": 18,
+    "english": "subdue",
+    "korean": "정복하다"
+  },
+  {
+    "day": 14,
+    "no": 19,
+    "english": "tactics",
+    "korean": "전술, 병법, 술책, 책략"
+  },
+  {
+    "day": 14,
+    "no": 20,
+    "english": "spear",
+    "korean": "창, 찌르다"
+  },
+  {
+    "day": 14,
+    "no": 21,
+    "english": "legalize",
+    "korean": "합법화하다"
+  },
+  {
+    "day": 14,
+    "no": 22,
+    "english": "legislate",
+    "korean": "법률을 제정하다"
+  },
+  {
+    "day": 14,
+    "no": 23,
+    "english": "code",
+    "korean": "법전, 규범, 암호,부호"
+  },
+  {
+    "day": 14,
+    "no": 24,
+    "english": "jury",
+    "korean": "배심원단"
+  },
+  {
+    "day": 14,
+    "no": 25,
+    "english": "sue",
+    "korean": "고소하다, 소송을 제기하 다"
+  },
+  {
+    "day": 14,
+    "no": 26,
+    "english": "imprison",
+    "korean": "투옥하다, 감금하다"
+  },
+  {
+    "day": 14,
+    "no": 27,
+    "english": "innocent",
+    "korean": "무죄인, 결백한"
+  },
+  {
+    "day": 14,
+    "no": 28,
+    "english": "recess",
+    "korean": "휴회,휴정, 쉬는시간"
+  },
+  {
+    "day": 14,
+    "no": 29,
+    "english": "copyright",
+    "korean": "저작권"
+  },
+  {
+    "day": 14,
+    "no": 30,
+    "english": "comply",
+    "korean": "따르다, 준수하다"
+  },
+  {
+    "day": 15,
+    "no": 1,
+    "english": "verify",
+    "korean": "입증하다, 확인하다"
+  },
+  {
+    "day": 15,
+    "no": 2,
+    "english": "summon",
+    "korean": "소환하다, 호출하다"
+  },
+  {
+    "day": 15,
+    "no": 3,
+    "english": "sin",
+    "korean": "죄, 죄악"
+  },
+  {
+    "day": 15,
+    "no": 4,
+    "english": "guilty",
+    "korean": "죄책감이 드는, 유죄의"
+  },
+  {
+    "day": 15,
+    "no": 5,
+    "english": "infringe",
+    "korean": "위반하다"
+  },
+  {
+    "day": 15,
+    "no": 6,
+    "english": "theft",
+    "korean": "도둑질"
+  },
+  {
+    "day": 15,
+    "no": 7,
+    "english": "enact",
+    "korean": "제정하다"
+  },
+  {
+    "day": 15,
+    "no": 8,
+    "english": "cosmos",
+    "korean": "(질서와 조화를 이룬 체계로서의) 우주"
+  },
+  {
+    "day": 15,
+    "no": 9,
+    "english": "tide",
+    "korean": "조수, 조류 ((the)) 경향,흐름"
+  },
+  {
+    "day": 15,
+    "no": 10,
+    "english": "erode",
+    "korean": "침식하다[되다], 약화하다[되다]"
+  },
+  {
+    "day": 15,
+    "no": 11,
+    "english": "glacier",
+    "korean": "빙하"
+  },
+  {
+    "day": 15,
+    "no": 12,
+    "english": "landscape",
+    "korean": "풍경,경치, 풍경화"
+  },
+  {
+    "day": 15,
+    "no": 13,
+    "english": "aquatic",
+    "korean": "물속에 사는, 수생의, 수상의, 수중 의"
+  },
+  {
+    "day": 15,
+    "no": 14,
+    "english": "fossil",
+    "korean": "화석"
+  },
+  {
+    "day": 15,
+    "no": 15,
+    "english": "equator",
+    "korean": "((the~)) 적도"
+  },
+  {
+    "day": 15,
+    "no": 16,
+    "english": "erupt",
+    "korean": "(화산 등이) 폭발하다, 분출하다"
+  },
+  {
+    "day": 15,
+    "no": 17,
+    "english": "atmosphere",
+    "korean": "(지구의) 대기, 공기, 분위기"
+  },
+  {
+    "day": 15,
+    "no": 18,
+    "english": "orbit",
+    "korean": "궤도, 궤도를 돌다"
+  },
+  {
+    "day": 15,
+    "no": 19,
+    "english": "satellite",
+    "korean": "위성, 인공위성"
+  },
+  {
+    "day": 15,
+    "no": 20,
+    "english": "solar",
+    "korean": "태양의, 태양열을 이용한"
+  },
+  {
+    "day": 15,
+    "no": 21,
+    "english": "spacecraft",
+    "korean": "우주선"
+  },
+  {
+    "day": 15,
+    "no": 22,
+    "english": "evaporate",
+    "korean": "증발하다[시키다], (희망 등이) 사라지다"
+  },
+  {
+    "day": 15,
+    "no": 23,
+    "english": "vapor",
+    "korean": "증기, 수증기"
+  },
+  {
+    "day": 15,
+    "no": 24,
+    "english": "chemical",
+    "korean": "화학의, 화학적인, 화학 물질[제품]"
+  },
+  {
+    "day": 15,
+    "no": 25,
+    "english": "melt",
+    "korean": "녹다, 녹이다, (감정이) 누그러지다, 누그러뜨리 다"
+  },
+  {
+    "day": 15,
+    "no": 26,
+    "english": "element",
+    "korean": "요소, 성분, 원소"
+  },
+  {
+    "day": 15,
+    "no": 27,
+    "english": "elastic",
+    "korean": "탄력 있는, 탄성의, 고무 밴드"
+  },
+  {
+    "day": 15,
+    "no": 28,
+    "english": "filter",
+    "korean": "필터, 여과 장치, 거르다, 여과하다"
+  },
+  {
+    "day": 15,
+    "no": 29,
+    "english": "fluid",
+    "korean": "유체, 유동체, 유동적인, 가변적인, 유체의"
+  },
+  {
+    "day": 15,
+    "no": 30,
+    "english": "friction",
+    "korean": "마찰, (의견) 충돌, 불화"
+  },
+  {
+    "day": 16,
+    "no": 1,
+    "english": "float",
+    "korean": "뜨다, 떠다니다"
+  },
+  {
+    "day": 16,
+    "no": 2,
+    "english": "molecule",
+    "korean": "분자"
+  },
+  {
+    "day": 16,
+    "no": 3,
+    "english": "atom",
+    "korean": "원자"
+  },
+  {
+    "day": 16,
+    "no": 4,
+    "english": "mutation",
+    "korean": "돌연변이, 변화, 변형"
+  },
+  {
+    "day": 16,
+    "no": 5,
+    "english": "diffuse",
+    "korean": "분산[확산]시키다, 퍼지다, 널리 퍼진, 분산된"
+  },
+  {
+    "day": 16,
+    "no": 6,
+    "english": "replicate",
+    "korean": "모사[복제]하다, 재현하다"
+  },
+  {
+    "day": 16,
+    "no": 7,
+    "english": "by-product",
+    "korean": "부산물, 부차적 결과, 부작용"
+  },
+  {
+    "day": 16,
+    "no": 8,
+    "english": "decompose",
+    "korean": "부패되다[시키다], 분해하다"
+  },
+  {
+    "day": 16,
+    "no": 9,
+    "english": "wage",
+    "korean": "임금, 급료"
+  },
+  {
+    "day": 16,
+    "no": 10,
+    "english": "incentive",
+    "korean": "장려(책), 유인(책)"
+  },
+  {
+    "day": 16,
+    "no": 11,
+    "english": "fund",
+    "korean": "자금, 기금, 자금[기금]을 대다"
+  },
+  {
+    "day": 16,
+    "no": 12,
+    "english": "auction",
+    "korean": "경매, 경매에 붙이다"
+  },
+  {
+    "day": 16,
+    "no": 13,
+    "english": "lease",
+    "korean": "임대차 계약, 임대[임차]하다"
+  },
+  {
+    "day": 16,
+    "no": 14,
+    "english": "loan",
+    "korean": "대출(금), 융자(금), 빌려주다"
+  },
+  {
+    "day": 16,
+    "no": 15,
+    "english": "monetary",
+    "korean": "화폐의, 통화의"
+  },
+  {
+    "day": 16,
+    "no": 16,
+    "english": "currency",
+    "korean": "통화, 화폐, 통용"
+  },
+  {
+    "day": 16,
+    "no": 17,
+    "english": "debt",
+    "korean": "빚, 부채, 은혜, 신세"
+  },
+  {
+    "day": 16,
+    "no": 18,
+    "english": "deficit",
+    "korean": "적자, 부족(액), 결손"
+  },
+  {
+    "day": 16,
+    "no": 19,
+    "english": "surplus",
+    "korean": "과잉, 잉여, 흑자, 과잉의, 잉여의"
+  },
+  {
+    "day": 16,
+    "no": 20,
+    "english": "exclusive",
+    "korean": "독점적인, 배타적인, 고급[고가]의, 독점기사"
+  },
+  {
+    "day": 16,
+    "no": 21,
+    "english": "enterprise",
+    "korean": "기업(체), 회사, (모험성) 사업, 진취성"
+  },
+  {
+    "day": 16,
+    "no": 22,
+    "english": "barter",
+    "korean": "물물 교환하다, 교역하 다, 물물교환, 교역"
+  },
+  {
+    "day": 16,
+    "no": 23,
+    "english": "incorporate",
+    "korean": "포함하다, 통합하다, 법인으로 만들다"
+  },
+  {
+    "day": 16,
+    "no": 24,
+    "english": "executive",
+    "korean": "경영진, 간부, 행정부, 경영의, 행정의"
+  },
+  {
+    "day": 16,
+    "no": 25,
+    "english": "alliance",
+    "korean": "동맹, 연합, 제휴"
+  },
+  {
+    "day": 16,
+    "no": 26,
+    "english": "renovate",
+    "korean": "개조[보수]하다"
+  },
+  {
+    "day": 16,
+    "no": 27,
+    "english": "malfunction",
+    "korean": "오작동, 기능 이상, 제대로 작동하지 않다"
+  },
+  {
+    "day": 16,
+    "no": 28,
+    "english": "harvest",
+    "korean": "수확, 추수, 수확하다"
+  },
+  {
+    "day": 16,
+    "no": 29,
+    "english": "reap",
+    "korean": "거두다, 수확하다"
+  },
+  {
+    "day": 16,
+    "no": 30,
+    "english": "peasant",
+    "korean": "소작농, 농민"
+  },
+  {
+    "day": 17,
+    "no": 1,
+    "english": "stack",
+    "korean": "(물건,건초 등의) 더미, 무더기, 쌓다, 쌓이다"
+  },
+  {
+    "day": 17,
+    "no": 2,
+    "english": "ripe",
+    "korean": "여문, 익은, 숙성한"
+  },
+  {
+    "day": 17,
+    "no": 3,
+    "english": "bunch",
+    "korean": "송이, 다발, 묶음"
+  },
+  {
+    "day": 17,
+    "no": 4,
+    "english": "weed",
+    "korean": "잡초, 잡초를 뽑다"
+  },
+  {
+    "day": 17,
+    "no": 5,
+    "english": "grain",
+    "korean": "곡물, 낟알, (모래,설탕 등의) 알갱이"
+  },
+  {
+    "day": 17,
+    "no": 6,
+    "english": "vessel",
+    "korean": "배, 선박, 용기, 그릇, 혈관"
+  },
+  {
+    "day": 17,
+    "no": 7,
+    "english": "freight",
+    "korean": "화물, 화물 운송, 화물을 운송하다"
+  },
+  {
+    "day": 17,
+    "no": 8,
+    "english": "aircraft",
+    "korean": "항공기, 비행기"
+  },
+  {
+    "day": 17,
+    "no": 9,
+    "english": "automobile",
+    "korean": "자동차"
+  },
+  {
+    "day": 17,
+    "no": 10,
+    "english": "collide",
+    "korean": "충돌하다, 부딪치다, 상충하다"
+  },
+  {
+    "day": 17,
+    "no": 11,
+    "english": "steer",
+    "korean": "조종하다, 몰다, 이끌다, 인도하다"
+  },
+  {
+    "day": 17,
+    "no": 12,
+    "english": "congestion",
+    "korean": "밀집, 혼잡, 정체"
+  },
+  {
+    "day": 17,
+    "no": 13,
+    "english": "intersection",
+    "korean": "교차로, 교차지점"
+  },
+  {
+    "day": 17,
+    "no": 14,
+    "english": "chill",
+    "korean": "냉기, 한기, 오한, 쌀쌀한, 춥게하다, 차게 식히다"
+  },
+  {
+    "day": 17,
+    "no": 15,
+    "english": "damp",
+    "korean": "축축한, 습기 찬"
+  },
+  {
+    "day": 17,
+    "no": 16,
+    "english": "humid",
+    "korean": "습한, 눅눅한"
+  },
+  {
+    "day": 17,
+    "no": 17,
+    "english": "moist",
+    "korean": "촉촉한"
+  },
+  {
+    "day": 17,
+    "no": 18,
+    "english": "drought",
+    "korean": "가뭄"
+  },
+  {
+    "day": 17,
+    "no": 19,
+    "english": "violent",
+    "korean": "격렬한, 맹렬한, 폭력적 인"
+  },
+  {
+    "day": 17,
+    "no": 20,
+    "english": "herd",
+    "korean": "떼, 무리, (사람,동물 무리를) 몰다"
+  },
+  {
+    "day": 17,
+    "no": 21,
+    "english": "mammal",
+    "korean": "포유류, 포유동물"
+  },
+  {
+    "day": 17,
+    "no": 22,
+    "english": "primate",
+    "korean": "영장류"
+  },
+  {
+    "day": 17,
+    "no": 23,
+    "english": "reptile",
+    "korean": "파충류"
+  },
+  {
+    "day": 17,
+    "no": 24,
+    "english": "beast",
+    "korean": "짐승, 야수"
+  },
+  {
+    "day": 17,
+    "no": 25,
+    "english": "hatch",
+    "korean": "부화하다, (배,비행기의) 출입구"
+  },
+  {
+    "day": 17,
+    "no": 26,
+    "english": "predator",
+    "korean": "포식자, 포식 동물, 약탈자"
+  },
+  {
+    "day": 17,
+    "no": 27,
+    "english": "",
+    "korean": ""
+  },
+  {
+    "day": 17,
+    "no": 28,
+    "english": "",
+    "korean": ""
+  },
+  {
+    "day": 17,
+    "no": 29,
+    "english": "",
+    "korean": ""
+  },
+  {
+    "day": 17,
+    "no": 30,
+    "english": "",
+    "korean": ""
+  },
+  {
+    "day": 18,
+    "no": 1,
+    "english": "hibernate",
+    "korean": "동면하다, 겨울잠 자다"
+  },
+  {
+    "day": 18,
+    "no": 2,
+    "english": "hive",
+    "korean": "벌집, 벌떼"
+  },
+  {
+    "day": 18,
+    "no": 3,
+    "english": "parasite",
+    "korean": "기생충, 기생 동물[식물]"
+  },
+  {
+    "day": 18,
+    "no": 4,
+    "english": "tame",
+    "korean": "길들여진, 길들이다"
+  },
+  {
+    "day": 18,
+    "no": 5,
+    "english": "wildlife",
+    "korean": "야생 동물"
+  },
+  {
+    "day": 18,
+    "no": 6,
+    "english": "summit",
+    "korean": "(산의) 정상, 꼭대기, 정상회담"
+  },
+  {
+    "day": 18,
+    "no": 7,
+    "english": "landfill",
+    "korean": "쓰레기 매립(지)"
+  },
+  {
+    "day": 18,
+    "no": 8,
+    "english": "pesticide",
+    "korean": "살충제, 농약"
+  },
+  {
+    "day": 18,
+    "no": 9,
+    "english": "contaminate",
+    "korean": "오염시키다"
+  },
+  {
+    "day": 18,
+    "no": 10,
+    "english": "ecosystem",
+    "korean": "생태계"
+  },
+  {
+    "day": 18,
+    "no": 11,
+    "english": "biodiversity",
+    "korean": "생물 다양성"
+  },
+  {
+    "day": 18,
+    "no": 12,
+    "english": "marine",
+    "korean": "해양의, 바다의, 해군의"
+  },
+  {
+    "day": 18,
+    "no": 13,
+    "english": "literature",
+    "korean": "문학, 문헌"
+  },
+  {
+    "day": 18,
+    "no": 14,
+    "english": "connotation",
+    "korean": "함축(된 의미)"
+  },
+  {
+    "day": 18,
+    "no": 15,
+    "english": "plot",
+    "korean": "줄거리, 구성, 음모, 음모[모의]하 다"
+  },
+  {
+    "day": 18,
+    "no": 16,
+    "english": "summary",
+    "korean": "요약, 개요"
+  },
+  {
+    "day": 18,
+    "no": 17,
+    "english": "metaphor",
+    "korean": "은유, 비유"
+  },
+  {
+    "day": 18,
+    "no": 18,
+    "english": "context",
+    "korean": "(사건 등의) 정황, 배경, (글의) 문맥, 맥락"
+  },
+  {
+    "day": 18,
+    "no": 19,
+    "english": "legendary",
+    "korean": "전설적인, 아주 유명한"
+  },
+  {
+    "day": 18,
+    "no": 20,
+    "english": "narrative",
+    "korean": "이야기, 서술, 이야기의"
+  },
+  {
+    "day": 18,
+    "no": 21,
+    "english": "aesthetic",
+    "korean": "미의, 미학적인, 미학"
+  },
+  {
+    "day": 18,
+    "no": 22,
+    "english": "sculpture",
+    "korean": "조각품, 조각, 조소"
+  },
+  {
+    "day": 18,
+    "no": 23,
+    "english": "textile",
+    "korean": "직물, 섬유"
+  },
+  {
+    "day": 18,
+    "no": 24,
+    "english": "fabric",
+    "korean": "직물, 천, (사회,건물 등의) 구조"
+  },
+  {
+    "day": 18,
+    "no": 25,
+    "english": "linear",
+    "korean": "직선의, 선으로 된, 선형적인"
+  },
+  {
+    "day": 18,
+    "no": 26,
+    "english": "acoustic",
+    "korean": "청각의, 음향의, (악기 등 이) 전자 장치를 쓰지 않 는"
+  },
+  {
+    "day": 18,
+    "no": 27,
+    "english": "heritage",
+    "korean": "(문화) 유산, 전통"
+  },
+  {
+    "day": 18,
+    "no": 28,
+    "english": "reign",
+    "korean": "통치(기간), 통치[지배] 하다"
+  },
+  {
+    "day": 18,
+    "no": 29,
+    "english": "dignity",
+    "korean": "위엄, 품위, 존엄성"
+  },
+  {
+    "day": 18,
+    "no": 30,
+    "english": "autonomy",
+    "korean": "자치(권), 자율성, 자주성"
+  },
+  {
+    "day": 19,
+    "no": 1,
+    "english": "govern",
+    "korean": "다스리다, 통치하다, (행동 등을) 결정하다, 좌우하다"
+  },
+  {
+    "day": 19,
+    "no": 2,
+    "english": "throne",
+    "korean": "왕좌, 왕위"
+  },
+  {
+    "day": 19,
+    "no": 3,
+    "english": "regime",
+    "korean": "제도, 체제, 정권"
+  },
+  {
+    "day": 19,
+    "no": 4,
+    "english": "mandate",
+    "korean": "권한, 명령, 지시, 위임 통치, 권한 을 주다, 명령[지시]하다"
+  },
+  {
+    "day": 19,
+    "no": 5,
+    "english": "censor",
+    "korean": "검열하다, 검열관"
+  },
+  {
+    "day": 19,
+    "no": 6,
+    "english": "candidate",
+    "korean": "입후보자, 지원자"
+  },
+  {
+    "day": 19,
+    "no": 7,
+    "english": "pledge",
+    "korean": "약속, 맹세, 공약"
+  },
+  {
+    "day": 19,
+    "no": 8,
+    "english": "poll",
+    "korean": "여론조사, 투표(수), 득표하다, 여론조사를 하다"
+  },
+  {
+    "day": 19,
+    "no": 9,
+    "english": "cell",
+    "korean": "세포"
+  },
+  {
+    "day": 19,
+    "no": 10,
+    "english": "wrist",
+    "korean": "손목"
+  },
+  {
+    "day": 19,
+    "no": 11,
+    "english": "muscle",
+    "korean": "근육, 힘, 근력"
+  },
+  {
+    "day": 19,
+    "no": 12,
+    "english": "wrinkle",
+    "korean": "주름, 주름이 지다"
+  },
+  {
+    "day": 19,
+    "no": 13,
+    "english": "joint",
+    "korean": "관절, 연결 부위, 공동의, 합동의"
+  },
+  {
+    "day": 19,
+    "no": 14,
+    "english": "nerve",
+    "korean": "신경, 용기, 대담성"
+  },
+  {
+    "day": 19,
+    "no": 15,
+    "english": "obese",
+    "korean": "비만인"
+  },
+  {
+    "day": 19,
+    "no": 16,
+    "english": "metabolism",
+    "korean": "신진대사"
+  },
+  {
+    "day": 19,
+    "no": 17,
+    "english": "digest",
+    "korean": "소화하다[되다], 이해하 다, 요약"
+  },
+  {
+    "day": 19,
+    "no": 18,
+    "english": "sanitary",
+    "korean": "위생의, 위생적인, 청결 한"
+  },
+  {
+    "day": 19,
+    "no": 19,
+    "english": "fatigue",
+    "korean": "(심신의) 피로, 피곤"
+  },
+  {
+    "day": 19,
+    "no": 20,
+    "english": "chronic",
+    "korean": "만성적인, 고질적인"
+  },
+  {
+    "day": 19,
+    "no": 21,
+    "english": "vomit",
+    "korean": "토하다, 토사물"
+  },
+  {
+    "day": 19,
+    "no": 22,
+    "english": "phobia",
+    "korean": "공포증, (병적인) 공포"
+  },
+  {
+    "day": 19,
+    "no": 23,
+    "english": "plague",
+    "korean": "역병, 전염병, 괴롭히다"
+  },
+  {
+    "day": 19,
+    "no": 24,
+    "english": "epidemic",
+    "korean": "유행병, 전염병, (범죄 등 의) 확산, 유행성의"
+  },
+  {
+    "day": 19,
+    "no": 25,
+    "english": "tablet",
+    "korean": "알약, 정제"
+  },
+  {
+    "day": 19,
+    "no": 26,
+    "english": "cure",
+    "korean": "치료법"
+  },
+  {
+    "day": 19,
+    "no": 27,
+    "english": "remedy",
+    "korean": "치료(약), 요법, 해결책, (문제 등을) 바로잡다"
+  },
+  {
+    "day": 19,
+    "no": 28,
+    "english": "surgery",
+    "korean": "(외과) 수술"
+  },
+  {
+    "day": 19,
+    "no": 29,
+    "english": "hospitalize",
+    "korean": "입원시키다"
+  },
+  {
+    "day": 19,
+    "no": 30,
+    "english": "deliberate",
+    "korean": "고의의, 의도적인, 신중 한, 숙고하다"
+  },
+  {
+    "day": 20,
+    "no": 1,
+    "english": "intimate",
+    "korean": "친밀한, 친숙한, 사적인"
+  },
+  {
+    "day": 20,
+    "no": 2,
+    "english": "tolerant",
+    "korean": "관대한, 내성이 있는, 잘 견디는"
+  },
+  {
+    "day": 20,
+    "no": 3,
+    "english": "masculine",
+    "korean": "남자의, 남자같은"
+  },
+  {
+    "day": 20,
+    "no": 4,
+    "english": "generous",
+    "korean": "관대한, 후한"
+  },
+  {
+    "day": 20,
+    "no": 5,
+    "english": "merciless",
+    "korean": "무자비한, 잔인한"
+  },
+  {
+    "day": 20,
+    "no": 6,
+    "english": "decisive",
+    "korean": "결단력 있는"
+  },
+  {
+    "day": 20,
+    "no": 7,
+    "english": "ambitious",
+    "korean": "야망있는, 야심찬"
+  },
+  {
+    "day": 20,
+    "no": 8,
+    "english": "faithful",
+    "korean": "충실한, 신의있는"
+  },
+  {
+    "day": 20,
+    "no": 9,
+    "english": "sincere",
+    "korean": "진실된, 진심어린"
+  },
+  {
+    "day": 20,
+    "no": 10,
+    "english": "eager",
+    "korean": "열망[갈망]하는, 열심인"
+  },
+  {
+    "day": 20,
+    "no": 11,
+    "english": "loyal",
+    "korean": "충성으러운, 충실한"
+  },
+  {
+    "day": 20,
+    "no": 12,
+    "english": "sensible",
+    "korean": "분별 있는, 현명한"
+  },
+  {
+    "day": 20,
+    "no": 13,
+    "english": "righteous",
+    "korean": "(도덕적으로) 옳은, 의로운"
+  },
+  {
+    "day": 20,
+    "no": 14,
+    "english": "discreet",
+    "korean": "신중한, 조심스러운"
+  },
+  {
+    "day": 20,
+    "no": 15,
+    "english": "realistic",
+    "korean": "현실적인, 사실적인"
+  },
+  {
+    "day": 20,
+    "no": 16,
+    "english": "altruistic",
+    "korean": "이타적인"
+  },
+  {
+    "day": 20,
+    "no": 17,
+    "english": "mischievous",
+    "korean": "장난이 심한, 짓궃은"
+  },
+  {
+    "day": 20,
+    "no": 18,
+    "english": "wicked",
+    "korean": "사악한, 못된, 짓궃은"
+  },
+  {
+    "day": 20,
+    "no": 19,
+    "english": "nasty",
+    "korean": "못된, 고약한, (맛, 냄새 등이) 형편없는"
+  },
+  {
+    "day": 20,
+    "no": 20,
+    "english": "brutal",
+    "korean": "잔인한, 야만적인, 인정사정 없는"
+  },
+  {
+    "day": 20,
+    "no": 21,
+    "english": "fierce",
+    "korean": "사나운, 거친, 격렬한, 맹렬한"
+  },
+  {
+    "day": 20,
+    "no": 22,
+    "english": "greedy",
+    "korean": "욕심 많은, 탐욕스러운"
+  },
+  {
+    "day": 20,
+    "no": 23,
+    "english": "stubborn",
+    "korean": "완고한, 고집이 센"
+  },
+  {
+    "day": 20,
+    "no": 24,
+    "english": "arrogant",
+    "korean": "오만한, 거만한"
+  },
+  {
+    "day": 20,
+    "no": 25,
+    "english": "awkward",
+    "korean": "어색한, 서투른, 난처한, 곤란한"
+  },
+  {
+    "day": 20,
+    "no": 26,
+    "english": "naive",
+    "korean": "순진한, 천진난만한"
+  },
+  {
+    "day": 20,
+    "no": 27,
+    "english": "timid",
+    "korean": "겁 많은, 소심한"
+  },
+  {
+    "day": 20,
+    "no": 28,
+    "english": "peculiar",
+    "korean": "기이한, 별난, 특유의, 고유한"
+  },
+  {
+    "day": 20,
+    "no": 29,
+    "english": "indulgent",
+    "korean": "멋대로 하게 하는, 관대한"
+  },
+  {
+    "day": 20,
+    "no": 30,
+    "english": "intimidating",
+    "korean": "겁을 주는 , 위협적인"
+  },
+  {
+    "day": 21,
+    "no": 1,
+    "english": "scorn",
+    "korean": "경멸하다, 멸시하다, 경멸, 멸시"
+  },
+  {
+    "day": 21,
+    "no": 2,
+    "english": "notorious",
+    "korean": "악명 높은"
+  },
+  {
+    "day": 21,
+    "no": 3,
+    "english": "flatter",
+    "korean": "아첨하다, 알랑거리다"
+  },
+  {
+    "day": 21,
+    "no": 4,
+    "english": "reluctant",
+    "korean": "(마음이) 내키지 않는, 꺼리는"
+  },
+  {
+    "day": 21,
+    "no": 5,
+    "english": "reckless",
+    "korean": "무모한, 신중하지 못한"
+  },
+  {
+    "day": 21,
+    "no": 6,
+    "english": "risky",
+    "korean": "위험한, 모험적인"
+  },
+  {
+    "day": 21,
+    "no": 7,
+    "english": "urgent",
+    "korean": "긴급한, 다급한"
+  },
+  {
+    "day": 21,
+    "no": 8,
+    "english": "chaotic",
+    "korean": "혼돈의, 무질서한, 혼란한"
+  },
+  {
+    "day": 21,
+    "no": 9,
+    "english": "hazardous",
+    "korean": "(건강,안전 등에) 위험한"
+  },
+  {
+    "day": 21,
+    "no": 10,
+    "english": "frightening",
+    "korean": "무서운, 겁나게 하는"
+  },
+  {
+    "day": 21,
+    "no": 11,
+    "english": "stunning",
+    "korean": "굉장히 아름다운[멋진], 깜짝 놀라 게 하는"
+  },
+  {
+    "day": 21,
+    "no": 12,
+    "english": "dreadful",
+    "korean": "지독한, 끔찍한"
+  },
+  {
+    "day": 21,
+    "no": 13,
+    "english": "horror",
+    "korean": "공포, 경악"
+  },
+  {
+    "day": 21,
+    "no": 14,
+    "english": "vigorous",
+    "korean": "(논쟁,활동 등이) 활발한, 격렬한"
+  },
+  {
+    "day": 21,
+    "no": 15,
+    "english": "yearn",
+    "korean": "갈망하다, 그리워하다"
+  },
+  {
+    "day": 21,
+    "no": 16,
+    "english": "exotic",
+    "korean": "이국적인, 외국의, 외래의"
+  },
+  {
+    "day": 21,
+    "no": 17,
+    "english": "tragic",
+    "korean": "비극의, 비극적인"
+  },
+  {
+    "day": 21,
+    "no": 18,
+    "english": "cruel",
+    "korean": "잔인한, 잔혹한"
+  },
+  {
+    "day": 21,
+    "no": 19,
+    "english": "melancholic",
+    "korean": "우울한, 침울한"
+  },
+  {
+    "day": 21,
+    "no": 20,
+    "english": "weird",
+    "korean": "이상한, 기묘한, 섬뜩한"
+  },
+  {
+    "day": 21,
+    "no": 21,
+    "english": "desperate",
+    "korean": "절망적인, 절박한, 필사적인"
+  },
+  {
+    "day": 21,
+    "no": 22,
+    "english": "dynamic",
+    "korean": "역동적인, 활발한"
+  },
+  {
+    "day": 21,
+    "no": 23,
+    "english": "fabulous",
+    "korean": "굉장한, 멋진"
+  },
+  {
+    "day": 21,
+    "no": 24,
+    "english": "splendid",
+    "korean": "화려한, 훌륭한, 멋진"
+  },
+  {
+    "day": 21,
+    "no": 25,
+    "english": "intense",
+    "korean": "치열한, 강렬한, 극심한, 열정적인"
+  },
+  {
+    "day": 21,
+    "no": 26,
+    "english": "challenging",
+    "korean": "도전적인, 힘든"
+  },
+  {
+    "day": 21,
+    "no": 27,
+    "english": "cynical",
+    "korean": "냉소적인, 비꼬는"
+  },
+  {
+    "day": 21,
+    "no": 28,
+    "english": "satirical",
+    "korean": "풍자적인"
+  },
+  {
+    "day": 21,
+    "no": 29,
+    "english": "ironical",
+    "korean": "역설[모순]적인, 반어적 인"
+  },
+  {
+    "day": 21,
+    "no": 30,
+    "english": "skeptical",
+    "korean": "회의적인, 의심많은"
+  },
+  {
+    "day": 22,
+    "no": 1,
+    "english": "informative",
+    "korean": "유익한, 정보를 주는"
+  },
+  {
+    "day": 22,
+    "no": 2,
+    "english": "admirable",
+    "korean": "감탄할 만한, 존경할 만한"
+  },
+  {
+    "day": 22,
+    "no": 3,
+    "english": "suspicious",
+    "korean": "의심스러운, 수상한"
+  },
+  {
+    "day": 22,
+    "no": 4,
+    "english": "paradox",
+    "korean": "역설, 역설적인 것"
+  },
+  {
+    "day": 22,
+    "no": 5,
+    "english": "monotonous",
+    "korean": "단조로운, 지루한"
+  },
+  {
+    "day": 22,
+    "no": 6,
+    "english": "meaningful",
+    "korean": "의미 있는, 중요한"
+  },
+  {
+    "day": 22,
+    "no": 7,
+    "english": "constructive",
+    "korean": "건설적인"
+  },
+  {
+    "day": 22,
+    "no": 8,
+    "english": "assertive",
+    "korean": "확신에 찬, 적극적인"
+  },
+  {
+    "day": 22,
+    "no": 9,
+    "english": "complimentary",
+    "korean": "칭찬하는, 무료의"
+  },
+  {
+    "day": 22,
+    "no": 10,
+    "english": "hostile",
+    "korean": "적대적인, 적(군)의, (환경이)부적 합한"
+  },
+  {
+    "day": 22,
+    "no": 11,
+    "english": "adore",
+    "korean": "흠모하다, 아주 좋아하다"
+  },
+  {
+    "day": 22,
+    "no": 12,
+    "english": "envious",
+    "korean": "부러워하는, 시샘하는"
+  },
+  {
+    "day": 22,
+    "no": 13,
+    "english": "fascinated",
+    "korean": "매료된, 매혹된, 상냥한, 다정한"
+  },
+  {
+    "day": 22,
+    "no": 14,
+    "english": "manifest",
+    "korean": "(감정 등을) 나타내다, 드러내다, 명백한, 분명한"
+  },
+  {
+    "day": 22,
+    "no": 15,
+    "english": "astonished",
+    "korean": "깜짝 놀란"
+  },
+  {
+    "day": 22,
+    "no": 16,
+    "english": "indifferent",
+    "korean": "무관심한, 냉담한"
+  },
+  {
+    "day": 22,
+    "no": 17,
+    "english": "embarrassed",
+    "korean": "당황한, 쑥스러운"
+  },
+  {
+    "day": 22,
+    "no": 18,
+    "english": "hesitate",
+    "korean": "주저하다, 망설이다"
+  },
+  {
+    "day": 22,
+    "no": 19,
+    "english": "panic",
+    "korean": "극심한 공포, 공황"
+  },
+  {
+    "day": 22,
+    "no": 20,
+    "english": "startled",
+    "korean": "깜짝 놀란"
+  },
+  {
+    "day": 22,
+    "no": 21,
+    "english": "affection",
+    "korean": "애정, 호감"
+  },
+  {
+    "day": 22,
+    "no": 22,
+    "english": "provoke",
+    "korean": "(반응 등을) 불러 일으키 다, 화나게 하다, 도발하 다"
+  },
+  {
+    "day": 22,
+    "no": 23,
+    "english": "disgusting",
+    "korean": "역겨운, 메스꺼운, 혐오스러운"
+  },
+  {
+    "day": 22,
+    "no": 24,
+    "english": "annoyed",
+    "korean": "짜증이 난, 화가 난"
+  },
+  {
+    "day": 22,
+    "no": 25,
+    "english": "frustrated",
+    "korean": "좌절한, 실망한"
+  },
+  {
+    "day": 22,
+    "no": 26,
+    "english": "furious",
+    "korean": "몹시 화가 난, 맹렬한"
+  },
+  {
+    "day": 22,
+    "no": 27,
+    "english": "hatred",
+    "korean": "증오, 혐오"
+  },
+  {
+    "day": 22,
+    "no": 28,
+    "english": "humiliating",
+    "korean": "굴욕적인, 창피한"
+  },
+  {
+    "day": 22,
+    "no": 29,
+    "english": "irritated",
+    "korean": "짜증이난, 신경에 거슬리 는"
+  },
+  {
+    "day": 22,
+    "no": 30,
+    "english": "keen",
+    "korean": "열정적인, 열심인, 열망하는, 예민한"
+  },
+  {
+    "day": 23,
+    "no": 1,
+    "english": "mournful",
+    "korean": "슬픔에 잠긴, 애절한"
+  },
+  {
+    "day": 23,
+    "no": 2,
+    "english": "ashamed",
+    "korean": "부끄러운, 창피한"
+  },
+  {
+    "day": 23,
+    "no": 3,
+    "english": "disappointed",
+    "korean": "실망한, 낙담한"
+  },
+  {
+    "day": 23,
+    "no": 4,
+    "english": "sorrowful",
+    "korean": "슬픈, 비탄에 잠긴"
+  },
+  {
+    "day": 23,
+    "no": 5,
+    "english": "gloomy",
+    "korean": "우울한, 침울한"
+  },
+  {
+    "day": 23,
+    "no": 6,
+    "english": "grief",
+    "korean": "큰 슬픔, 비탄"
+  },
+  {
+    "day": 23,
+    "no": 7,
+    "english": "delighted",
+    "korean": "아주 기뻐하는, 즐거워하는"
+  },
+  {
+    "day": 23,
+    "no": 8,
+    "english": "gratifying",
+    "korean": "만족스러운, 흐뭇한"
+  },
+  {
+    "day": 23,
+    "no": 9,
+    "english": "miserable",
+    "korean": "비참한, 불행한"
+  },
+  {
+    "day": 23,
+    "no": 10,
+    "english": "cheerful",
+    "korean": "쾌활한, 명량한, 쾌적한"
+  },
+  {
+    "day": 23,
+    "no": 11,
+    "english": "anxiety",
+    "korean": "불안, 걱정, 열망"
+  },
+  {
+    "day": 23,
+    "no": 12,
+    "english": "grateful",
+    "korean": "감사하는, 고마워하는"
+  },
+  {
+    "day": 23,
+    "no": 13,
+    "english": "outrage",
+    "korean": "격분, 분노, 난폭행위, 만행, 격분하게하다"
+  },
+  {
+    "day": 23,
+    "no": 14,
+    "english": "drowsy",
+    "korean": "졸린, 나른한"
+  },
+  {
+    "day": 23,
+    "no": 15,
+    "english": "doubtful",
+    "korean": "의심하는, 확신이 없는, (결과 등이) 불확실한"
+  },
+  {
+    "day": 23,
+    "no": 16,
+    "english": "reassure",
+    "korean": "안심시키다"
+  },
+  {
+    "day": 23,
+    "no": 17,
+    "english": "recall",
+    "korean": "기억해 내다, 회수하다, 소환하다, 기억(력), 회수, 소환"
+  },
+  {
+    "day": 23,
+    "no": 18,
+    "english": "remark",
+    "korean": "말하다, 논평하다, 주목 하다, 말, 논평, 주목"
+  },
+  {
+    "day": 23,
+    "no": 19,
+    "english": "row",
+    "korean": "줄, 열, 노젓기, 노[배]를 젓다"
+  },
+  {
+    "day": 23,
+    "no": 20,
+    "english": "subtle",
+    "korean": "미묘한, 감지하기 힘든"
+  },
+  {
+    "day": 23,
+    "no": 21,
+    "english": "tissue",
+    "korean": "[생물] 조직, 화장지, 얇 은 종이"
+  },
+  {
+    "day": 23,
+    "no": 22,
+    "english": "stick",
+    "korean": "막대기, 지팡이, 나뭇가 지, 찌르다, 붙이다[붙 다], 꼼짝하지 않다"
+  },
+  {
+    "day": 23,
+    "no": 23,
+    "english": "shallow",
+    "korean": "얕은, 피상적인, (호흡이) 약한"
+  },
+  {
+    "day": 23,
+    "no": 24,
+    "english": "seed",
+    "korean": "씨, 종자, (어떤 일의) 근 원, 씨앗, 씨를 뿌리다"
+  },
+  {
+    "day": 23,
+    "no": 25,
+    "english": "trial",
+    "korean": "재판, 시험, 실험, 시련"
+  },
+  {
+    "day": 23,
+    "no": 26,
+    "english": "treat",
+    "korean": "대하다, 다루다, 여기다, 치료하다, 대접하다, 대 접, 기쁜 일"
+  },
+  {
+    "day": 23,
+    "no": 27,
+    "english": "slight",
+    "korean": "약간의, 경미한, 가벼운, 가냘픈, 모욕, 무시"
+  },
+  {
+    "day": 23,
+    "no": 28,
+    "english": "spare",
+    "korean": "여분의, 예비의, (시간,돈 을) 할애하다, 내다, (고생 등을) 면하게 하다"
+  },
+  {
+    "day": 23,
+    "no": 29,
+    "english": "subject",
+    "korean": "주제, 대상, 과목, 피실험자, ~될 수 있는, ((to)) 겪게 하다"
+  },
+  {
+    "day": 23,
+    "no": 30,
+    "english": "perform",
+    "korean": "수행하다, 공연[연주]하 다, 작동하다"
+  },
+  {
+    "day": 24,
+    "no": 1,
+    "english": "starve",
+    "korean": "굶주리다[굶기다], 굶어 죽다, ((for)) 갈망하다, ((of)) 부족하게하 다"
+  },
+  {
+    "day": 24,
+    "no": 2,
+    "english": "stock",
+    "korean": "재고(품), 비축물, 주식, 가축"
+  },
+  {
+    "day": 24,
+    "no": 3,
+    "english": "foundation",
+    "korean": "분수, 샘, 근원, 원천"
+  },
+  {
+    "day": 24,
+    "no": 4,
+    "english": "margin",
+    "korean": "여백, (득표수 등의) 차이, 마진, 이윤, 여유, 여지"
+  },
+  {
+    "day": 24,
+    "no": 5,
+    "english": "bill",
+    "korean": "청구서, 계산서, 지폐, 법안, 청구서 [계산서]를 보내다"
+  },
+  {
+    "day": 24,
+    "no": 6,
+    "english": "owe",
+    "korean": "빚지고 있다, (~의) 덕분이다, (마땅히) 해야 하다"
+  },
+  {
+    "day": 24,
+    "no": 7,
+    "english": "decent",
+    "korean": "(수준,질이) 괜찮은[제대로 된], 점잖은, (상황에) 적절한"
+  },
+  {
+    "day": 24,
+    "no": 8,
+    "english": "term",
+    "korean": "용어, 기간, 임기, 학기, 조건, 조항"
+  },
+  {
+    "day": 24,
+    "no": 9,
+    "english": "discipline",
+    "korean": "규율, 훈육, 훈련, 단련, 학문 분야, 훈육하다, 징계하다"
+  },
+  {
+    "day": 24,
+    "no": 10,
+    "english": "launch",
+    "korean": "시작[착수]하다, 출시하다, 발사하 다, 출시, 발사"
+  },
+  {
+    "day": 24,
+    "no": 11,
+    "english": "inflate",
+    "korean": "(공기 등으로) 부풀리다[부풀다], (가격을) 올리다[오르다], 과장하 다"
+  },
+  {
+    "day": 24,
+    "no": 12,
+    "english": "flat",
+    "korean": "평평한, 납작한, 균일한, (김,바람 등이) 빠진, (타이어의) 펑크"
+  },
+  {
+    "day": 24,
+    "no": 13,
+    "english": "demonstrate",
+    "korean": "입증[증명]하다, 설명하다, 시연하 다, 시위하다"
+  },
+  {
+    "day": 24,
+    "no": 14,
+    "english": "flush",
+    "korean": "(얼굴이) 붉어지다, 상기되다, 물을 내리다, 홍조, 물을 내림"
+  },
+  {
+    "day": 24,
+    "no": 15,
+    "english": "custom",
+    "korean": "관습, 풍습, 습관, 관세, 세관, 주문한, 맞춤의"
+  },
+  {
+    "day": 24,
+    "no": 16,
+    "english": "firm",
+    "korean": "단단한, 견고한, 확고[단 호]한, 회사"
+  },
+  {
+    "day": 24,
+    "no": 17,
+    "english": "folk",
+    "korean": "사람들, 여러분, 가족, 부모, 민속의, 민간의"
+  },
+  {
+    "day": 24,
+    "no": 18,
+    "english": "radical",
+    "korean": "근본적인, 급진적인, 급진주의자"
+  },
+  {
+    "day": 24,
+    "no": 19,
+    "english": "object",
+    "korean": "물건, 물체, 목적, 목표, 대상, 반대하다"
+  },
+  {
+    "day": 24,
+    "no": 20,
+    "english": "yield",
+    "korean": "산출하다, 생산하다, 굴복하다, 양보하다, 산출[생산]량, 수익"
+  },
+  {
+    "day": 24,
+    "no": 21,
+    "english": "faculty",
+    "korean": "교수진, 교직원, (대학의) 학부, 능력"
+  },
+  {
+    "day": 24,
+    "no": 22,
+    "english": "refer",
+    "korean": "((to))언급하다, 참조[참 고]하다, 나타내다, (~에게) 보내다, 맡기다"
+  },
+  {
+    "day": 24,
+    "no": 23,
+    "english": "tough",
+    "korean": "힘든, 강인한, 질긴, 단단 한, 엄격한"
+  },
+  {
+    "day": 24,
+    "no": 24,
+    "english": "certain",
+    "korean": "확신하는, 확실한, 특정한, 어느 정도의"
+  },
+  {
+    "day": 24,
+    "no": 25,
+    "english": "condition",
+    "korean": "상태, 환경, 상황, 조건, 길들이다"
+  },
+  {
+    "day": 24,
+    "no": 26,
+    "english": "craft",
+    "korean": "(수)공예, 기술, 배, 비행 기, 우주선, 공들여 만들 다"
+  },
+  {
+    "day": 24,
+    "no": 27,
+    "english": "asset",
+    "korean": "자산, 재산, 강점, 이점"
+  },
+  {
+    "day": 24,
+    "no": 28,
+    "english": "burst",
+    "korean": "터지다, 터뜨리다, 갑자기 ~ 하다, 가득 차다, 터질 듯하 다, 파열, 폭발, 돌발, 격발"
+  },
+  {
+    "day": 24,
+    "no": 29,
+    "english": "edge",
+    "korean": "가장자리, 끝, (칼 등의) 날, 우위, 조금씩 움직이 다"
+  },
+  {
+    "day": 24,
+    "no": 30,
+    "english": "deal",
+    "korean": "((with)) 다루다, 처리하다, 거래하다, (카드를) 나누다, 거래, 합의, 대우, 취급"
+  },
+  {
+    "day": 25,
+    "no": 1,
+    "english": "direct",
+    "korean": "직접적인, 직행의, 솔직한, 지도[감독]하다, (길을) 안내하다, 향하게 하다"
+  },
+  {
+    "day": 25,
+    "no": 2,
+    "english": "bar",
+    "korean": "막대기 (모양의 것), 주점, 금하다, 길을 막다"
+  },
+  {
+    "day": 25,
+    "no": 3,
+    "english": "adhere",
+    "korean": "((to)) 들러붙다, (신념 등에) 충실 하다, 고수하다"
+  },
+  {
+    "day": 25,
+    "no": 4,
+    "english": "branch",
+    "korean": "나뭇가지, 지사, 지점, 분야, 갈라지다, 나뉘다"
+  },
+  {
+    "day": 25,
+    "no": 5,
+    "english": "state",
+    "korean": "상태, 상황, 국가, 주, (공식적으로) 말하다, 진술하다"
+  },
+  {
+    "day": 25,
+    "no": 6,
+    "english": "charge",
+    "korean": "청구하다, 고소[고발]하다, (책임, 임무를) 맡기다, 충전하다, 요금, 책임, 담당, 고소, 고발"
+  },
+  {
+    "day": 25,
+    "no": 7,
+    "english": "content",
+    "korean": "내용물, 목차, 내용, 주제, 함유량, 만족하는, 만족시키다"
+  },
+  {
+    "day": 25,
+    "no": 8,
+    "english": "grave",
+    "korean": "무덤, 산소, 중대한, 심각한, 진지함, 엄숙한"
+  },
+  {
+    "day": 25,
+    "no": 9,
+    "english": "facility",
+    "korean": "설비, 시설, 기능, 재능"
+  },
+  {
+    "day": 25,
+    "no": 10,
+    "english": "reflect",
+    "korean": "(빛 등을) 반사하다, (거울 등에) 비치다, 반영하다, 숙고하다"
+  },
+  {
+    "day": 25,
+    "no": 11,
+    "english": "identify",
+    "korean": "(신원 등을) 확인하다, 식별하다, 동일시하다"
+  },
+  {
+    "day": 25,
+    "no": 12,
+    "english": "decline",
+    "korean": "감소[하락]하다, 쇠퇴하다, 거절하다, 감소, 하락, 쇠퇴"
+  },
+  {
+    "day": 25,
+    "no": 13,
+    "english": "cast",
+    "korean": "던지다, (시선 등을) 보내다, (그림자 등을) 드리우다, 배역을 맡 기다, 출연진"
+  },
+  {
+    "day": 25,
+    "no": 14,
+    "english": "correspond",
+    "korean": "일치[부합]하다, 해당[상응]하다, 서신을 주고받다"
+  },
+  {
+    "day": 25,
+    "no": 15,
+    "english": "transfer",
+    "korean": "옮기다, 이동하다, 환승하다, 이전 [양도]하다, 이동, 환승"
+  },
+  {
+    "day": 25,
+    "no": 16,
+    "english": "reason",
+    "korean": "이유, 근거, 이성, 판단력, 판단하다, 추론하다"
+  },
+  {
+    "day": 25,
+    "no": 17,
+    "english": "abrupt",
+    "korean": "돌연한, 갑작스러운, 퉁명스러운"
+  },
+  {
+    "day": 25,
+    "no": 18,
+    "english": "occur",
+    "korean": "일어나다, 생기다, (생각 등이) 떠오르다, 존재하다, 발견하다"
+  },
+  {
+    "day": 25,
+    "no": 19,
+    "english": "condemn",
+    "korean": "비난하다, 형을 선고하 다, 처하게 하다, (안전) 부적합 판정을 내리다"
+  },
+  {
+    "day": 25,
+    "no": 20,
+    "english": "present",
+    "korean": "현재의, 참석[출선]한, 존재하는, 선물, 현재, 수 여하다, 제시[제출]하다"
+  },
+  {
+    "day": 25,
+    "no": 21,
+    "english": "accommodate",
+    "korean": "수용하다, 숙박시키다, 편의를 제공하다, (요구,상황 등에) 맞추다"
+  },
+  {
+    "day": 25,
+    "no": 22,
+    "english": "temperate",
+    "korean": "(기후,지역이) 온화한, (행동이) 절제된"
+  },
+  {
+    "day": 25,
+    "no": 23,
+    "english": "respect",
+    "korean": "존경하다, 존중하다, (법 등을) 준수하다, 존경, 존중, 측면, 관점"
+  },
+  {
+    "day": 25,
+    "no": 24,
+    "english": "feature",
+    "korean": "특징, 이목구비, 특집, 특징으로삼다"
+  },
+  {
+    "day": 25,
+    "no": 25,
+    "english": "humble",
+    "korean": "겸손한, (신분이) 낮은, 미천한, 변변찮은"
+  },
+  {
+    "day": 25,
+    "no": 26,
+    "english": "major",
+    "korean": "중요[주요]한, 큰, 심각한, 전공, 전공하다"
+  },
+  {
+    "day": 25,
+    "no": 27,
+    "english": "submit",
+    "korean": "제출하다, 복종[굴복]하 다, 진술[제안]하다"
+  },
+  {
+    "day": 25,
+    "no": 28,
+    "english": "capital",
+    "korean": "수도, 자본(금), 대문자, 사람의, 대문자의"
+  },
+  {
+    "day": 25,
+    "no": 29,
+    "english": "apply",
+    "korean": "신청하다, 지원하다, 적용되다, 바르다"
+  },
+  {
+    "day": 25,
+    "no": 30,
+    "english": "prime",
+    "korean": "주된, 주요한, 최상의, 훌륭한, 전성기"
+  },
+  {
+    "day": 26,
+    "no": 1,
+    "english": "count",
+    "korean": "세다, 계산하다, 중요하다, 간주하다, 셈, 계산, 총계"
+  },
+  {
+    "day": 26,
+    "no": 2,
+    "english": "modest",
+    "korean": "겸손한, 적당한, 보통의, 얌전한, 수수한"
+  },
+  {
+    "day": 26,
+    "no": 3,
+    "english": "issue",
+    "korean": "문제, 쟁점, (간행물의) 호, 발행 (물), 발표[공표]하다, 발급하다"
+  },
+  {
+    "day": 26,
+    "no": 4,
+    "english": "complex",
+    "korean": "복잡한, 복합의, (건물) 단지, 집합체, 콤플렉스"
+  },
+  {
+    "day": 26,
+    "no": 5,
+    "english": "deposit",
+    "korean": "계약금, 보증금, 예금(액), 침전물, 예금하다, 놓다, 두다, 침전시키다"
+  },
+  {
+    "day": 26,
+    "no": 6,
+    "english": "suit",
+    "korean": "적합하다, 어울리다, 맞추다, 정장, 소송"
+  },
+  {
+    "day": 26,
+    "no": 7,
+    "english": "property",
+    "korean": "재산, 소유물, 부동산, 특성, 속성"
+  },
+  {
+    "day": 26,
+    "no": 8,
+    "english": "attend",
+    "korean": "참석[출석]하다, 돌보다, 보살피다, 주의를 기울이다"
+  },
+  {
+    "day": 26,
+    "no": 9,
+    "english": "tune",
+    "korean": "곡{조), 선율, (악기를) 조율하다, (채널을) 맞추다, (기계를) 조정하 다"
+  },
+  {
+    "day": 26,
+    "no": 10,
+    "english": "command",
+    "korean": "명령하다, 통솔하다, (존경,동정 등을) 받다, 명령, 통솔"
+  },
+  {
+    "day": 26,
+    "no": 11,
+    "english": "contract",
+    "korean": "계약(서), 계약하다, 수축하다 [시키다], 줄어들다, (병에) 걸리다"
+  },
+  {
+    "day": 26,
+    "no": 12,
+    "english": "account",
+    "korean": "계좌, 설명, 설명하다, 차지하다"
+  },
+  {
+    "day": 26,
+    "no": 13,
+    "english": "suspend",
+    "korean": "중단하다, 매달다, 정학[정직]시키다, 보류하다"
+  },
+  {
+    "day": 26,
+    "no": 14,
+    "english": "commit",
+    "korean": "(범죄 등을) 저지르다, 전념[헌신]하다, 약속하다"
+  },
+  {
+    "day": 26,
+    "no": 15,
+    "english": "disability",
+    "korean": "(신체적, 정신적) 장애"
+  },
+  {
+    "day": 26,
+    "no": 16,
+    "english": "inability",
+    "korean": "할 수 없음, 무능력"
+  },
+  {
+    "day": 26,
+    "no": 17,
+    "english": "tempt",
+    "korean": "유혹하다, 부추기다"
+  },
+  {
+    "day": 26,
+    "no": 18,
+    "english": "contempt",
+    "korean": "경멸, 멸시"
+  },
+  {
+    "day": 26,
+    "no": 19,
+    "english": "carve",
+    "korean": "조각하다, 새기다, (고기 등을) 자르다"
+  },
+  {
+    "day": 26,
+    "no": 20,
+    "english": "curve",
+    "korean": "곡선, 커브, 굽히다, 구부 러지다"
+  },
+  {
+    "day": 26,
+    "no": 21,
+    "english": "memorable",
+    "korean": "기억할 만한"
+  },
+  {
+    "day": 26,
+    "no": 22,
+    "english": "memorial",
+    "korean": "기념물, 기념비, 기념의, 추도의"
+  },
+  {
+    "day": 26,
+    "no": 23,
+    "english": "professor",
+    "korean": "교수"
+  },
+  {
+    "day": 26,
+    "no": 24,
+    "english": "profession",
+    "korean": "직업, 전문직"
+  },
+  {
+    "day": 26,
+    "no": 25,
+    "english": "physician",
+    "korean": "(내과) 의사"
+  },
+  {
+    "day": 26,
+    "no": 26,
+    "english": "occupation",
+    "korean": "직업, 업부, 점령 (기간), 거주"
+  },
+  {
+    "day": 26,
+    "no": 27,
+    "english": "occupant",
+    "korean": "거주자, 입주자"
+  },
+  {
+    "day": 26,
+    "no": 28,
+    "english": "conscious",
+    "korean": "의식[자각]하는, 의식이 있는"
+  },
+  {
+    "day": 26,
+    "no": 29,
+    "english": "conscience",
+    "korean": "양심"
+  },
+  {
+    "day": 26,
+    "no": 30,
+    "english": "intelligent",
+    "korean": "총명한, 똑똑한, 지능을 가진"
+  },
+  {
+    "day": 27,
+    "no": 1,
+    "english": "intellectual",
+    "korean": "지적인, 지성의, 지식인"
+  },
+  {
+    "day": 27,
+    "no": 2,
+    "english": "emit",
+    "korean": "(빛,열 등을) 방출하다, 내뿜다"
+  },
+  {
+    "day": 27,
+    "no": 3,
+    "english": "omit",
+    "korean": "생략하다, 빠뜨리다"
+  },
+  {
+    "day": 27,
+    "no": 4,
+    "english": "attribute",
+    "korean": "결과[탓/덕분]로 보다, 속성, 특징"
+  },
+  {
+    "day": 27,
+    "no": 5,
+    "english": "contribute",
+    "korean": "기여하다, 기부[기증]하다, (~의) 원인이 되다"
+  },
+  {
+    "day": 27,
+    "no": 6,
+    "english": "imminent",
+    "korean": "임박한, 곧 닥칠"
+  },
+  {
+    "day": 27,
+    "no": 7,
+    "english": "eminent",
+    "korean": "저명한"
+  },
+  {
+    "day": 27,
+    "no": 8,
+    "english": "prominent",
+    "korean": "두드러진, 현저한, 중요한, 유명한"
+  },
+  {
+    "day": 27,
+    "no": 9,
+    "english": "literal",
+    "korean": "문자 그대로의"
+  },
+  {
+    "day": 27,
+    "no": 10,
+    "english": "literate",
+    "korean": "글을 읽고 쓸 줄 아는"
+  },
+  {
+    "day": 27,
+    "no": 11,
+    "english": "literary",
+    "korean": "문학의, 문학적인"
+  },
+  {
+    "day": 27,
+    "no": 12,
+    "english": "numeral",
+    "korean": "숫자, 수사"
+  },
+  {
+    "day": 27,
+    "no": 13,
+    "english": "numerous",
+    "korean": "다수의, (셀 수 없이) 많은"
+  },
+  {
+    "day": 27,
+    "no": 14,
+    "english": "inherent",
+    "korean": "내재하는, 고유의"
+  },
+  {
+    "day": 27,
+    "no": 15,
+    "english": "inheritance",
+    "korean": "상속, 재산, 유산, 유전(되는 것)"
+  },
+  {
+    "day": 27,
+    "no": 16,
+    "english": "detect",
+    "korean": "발견하다, 감지하다"
+  },
+  {
+    "day": 27,
+    "no": 17,
+    "english": "protect",
+    "korean": "보호하다, 지키다"
+  },
+  {
+    "day": 27,
+    "no": 18,
+    "english": "hesitancy",
+    "korean": "주저, 망설임"
+  },
+  {
+    "day": 27,
+    "no": 19,
+    "english": "consistency",
+    "korean": "일관성, 농도, 밀도"
+  },
+  {
+    "day": 27,
+    "no": 20,
+    "english": "invention",
+    "korean": "발명, 발명품"
+  },
+  {
+    "day": 27,
+    "no": 21,
+    "english": "convention",
+    "korean": "관습, 관례, 집회, 대회, 조약, 협정"
+  },
+  {
+    "day": 27,
+    "no": 22,
+    "english": "compact",
+    "korean": "소형의, 조밀한, 협약, 협 정"
+  },
+  {
+    "day": 27,
+    "no": 23,
+    "english": "impact",
+    "korean": "영향, 충격, 영향[충격]을 주다"
+  },
+  {
+    "day": 27,
+    "no": 24,
+    "english": "continual",
+    "korean": "빈번한, 거듭되는"
+  },
+  {
+    "day": 27,
+    "no": 25,
+    "english": "continuous",
+    "korean": "끊임없는, 지속적인"
+  },
+  {
+    "day": 27,
+    "no": 26,
+    "english": "capability",
+    "korean": "능력, 역량"
+  },
+  {
+    "day": 27,
+    "no": 27,
+    "english": "capacity",
+    "korean": "용량, (최대) 수용량, 능 력"
+  },
+  {
+    "day": 27,
+    "no": 28,
+    "english": "career",
+    "korean": "직업, 경력"
+  },
+  {
+    "day": 27,
+    "no": 29,
+    "english": "carrier",
+    "korean": "운송 회사, 항공사, 보균 자, 항공 모함"
+  },
+  {
+    "day": 27,
+    "no": 30,
+    "english": "momentous",
+    "korean": "중대한, 중요한"
+  },
+  {
+    "day": 28,
+    "no": 1,
+    "english": "respectful",
+    "korean": "존경[존중]하는, 공손한"
+  },
+  {
+    "day": 28,
+    "no": 2,
+    "english": "reserve",
+    "korean": "예약하다, 따로 남겨 두다, 비축(물)"
+  },
+  {
+    "day": 28,
+    "no": 3,
+    "english": "deserve",
+    "korean": "~을 받을 만하다, ~할 가치가 있다"
+  },
+  {
+    "day": 28,
+    "no": 4,
+    "english": "jealous",
+    "korean": "질투하는"
+  },
+  {
+    "day": 28,
+    "no": 5,
+    "english": "zealous",
+    "korean": "열성적인, 열심인"
+  },
+  {
+    "day": 28,
+    "no": 6,
+    "english": "competition",
+    "korean": "경쟁, 대회, 시합"
+  },
+  {
+    "day": 28,
+    "no": 7,
+    "english": "competence",
+    "korean": "능력, 역량"
+  },
+  {
+    "day": 28,
+    "no": 8,
+    "english": "observance",
+    "korean": "준수, (종교, 전통) 의식"
+  },
+  {
+    "day": 28,
+    "no": 9,
+    "english": "observation",
+    "korean": "관찰, 관측, 감시"
+  },
+  {
+    "day": 28,
+    "no": 10,
+    "english": "wander",
+    "korean": "돌아다니다, 헤매다"
+  },
+  {
+    "day": 28,
+    "no": 11,
+    "english": "wonder",
+    "korean": "궁금하다, ~일까 생각하다, 놀라다, 경이(로운 것)"
+  },
+  {
+    "day": 28,
+    "no": 12,
+    "english": "expand",
+    "korean": "넓히다, 확장[확대]하다"
+  },
+  {
+    "day": 28,
+    "no": 13,
+    "english": "expend",
+    "korean": "(시간,돈 등을) 들이다, 소비하다"
+  },
+  {
+    "day": 28,
+    "no": 14,
+    "english": "imitate",
+    "korean": "모방하다, 흉내내다"
+  },
+  {
+    "day": 28,
+    "no": 15,
+    "english": "initiate",
+    "korean": "시작하다, 착수하다"
+  },
+  {
+    "day": 28,
+    "no": 16,
+    "english": "vacation",
+    "korean": "휴가, 방학"
+  },
+  {
+    "day": 28,
+    "no": 17,
+    "english": "vocation",
+    "korean": "천직, 소명"
+  },
+  {
+    "day": 28,
+    "no": 18,
+    "english": "adapt",
+    "korean": "적응하다[시키다], 조정하다, 각색하다"
+  },
+  {
+    "day": 28,
+    "no": 19,
+    "english": "adopt",
+    "korean": "채택[도입]하다, 입양하 다"
+  },
+  {
+    "day": 28,
+    "no": 20,
+    "english": "through",
+    "korean": "~을 통하여, ~을 지나, ~동안 내내"
+  },
+  {
+    "day": 28,
+    "no": 21,
+    "english": "thorough",
+    "korean": "철저한, 빈틈없는"
+  },
+  {
+    "day": 28,
+    "no": 22,
+    "english": "marvel",
+    "korean": "경이로운 것[사람], 놀라 다"
+  },
+  {
+    "day": 28,
+    "no": 23,
+    "english": "assume",
+    "korean": "추정[가정]하다, 떠맡다"
+  },
+  {
+    "day": 28,
+    "no": 24,
+    "english": "consume",
+    "korean": "소비[소모]하다, 먹다, 마시다"
+  },
+  {
+    "day": 28,
+    "no": 25,
+    "english": "award",
+    "korean": "상, 상품, 상금, 수여하다"
+  },
+  {
+    "day": 28,
+    "no": 26,
+    "english": "reward",
+    "korean": "보상, 보답, 보상[보답]하 다"
+  },
+  {
+    "day": 28,
+    "no": 27,
+    "english": "eliminate",
+    "korean": "없애다, 제거[삭제]하다"
+  },
+  {
+    "day": 28,
+    "no": 28,
+    "english": "illuminate",
+    "korean": "비추다, 밝게 하다, 분명히 하다"
+  },
+  {
+    "day": 28,
+    "no": 29,
+    "english": "statue",
+    "korean": "조각상, 동상"
+  },
+  {
+    "day": 28,
+    "no": 30,
+    "english": "status",
+    "korean": "지위, 신분, 상태, 상황"
+  },
+  {
+    "day": 29,
+    "no": 1,
+    "english": "hospitality",
+    "korean": "환대"
+  },
+  {
+    "day": 29,
+    "no": 2,
+    "english": "hostility",
+    "korean": "적의, 적개심"
+  },
+  {
+    "day": 29,
+    "no": 3,
+    "english": "affect",
+    "korean": "영향을 주다"
+  },
+  {
+    "day": 29,
+    "no": 4,
+    "english": "effect",
+    "korean": "영향, 효과, 결과"
+  },
+  {
+    "day": 29,
+    "no": 5,
+    "english": "conserve",
+    "korean": "보존[보호]하다, 절약하다"
+  },
+  {
+    "day": 29,
+    "no": 6,
+    "english": "observe",
+    "korean": "관찰하다, 보다, (법,규칙 등을) 준수하다"
+  },
+  {
+    "day": 29,
+    "no": 7,
+    "english": "expire",
+    "korean": "(기한이) 만료되다, 끝나다"
+  },
+  {
+    "day": 29,
+    "no": 8,
+    "english": "inspire",
+    "korean": "고무[격려]하다, 영감을 주다"
+  },
+  {
+    "day": 29,
+    "no": 9,
+    "english": "introvert",
+    "korean": "내성[내향]적인 사람"
+  },
+  {
+    "day": 29,
+    "no": 10,
+    "english": "extrovert",
+    "korean": "외향적인 사람"
+  },
+  {
+    "day": 29,
+    "no": 11,
+    "english": "implicit",
+    "korean": "암시된, 내포된"
+  },
+  {
+    "day": 29,
+    "no": 12,
+    "english": "explicit",
+    "korean": "명백[명확]한, 명시적인"
+  },
+  {
+    "day": 29,
+    "no": 13,
+    "english": "superior",
+    "korean": "(~보다) 우수한, 상급의, 윗사람, 상사"
+  },
+  {
+    "day": 29,
+    "no": 14,
+    "english": "inferior",
+    "korean": "(~보다) 열등한, 하급의"
+  },
+  {
+    "day": 29,
+    "no": 15,
+    "english": "relative",
+    "korean": "상대적인, ((to)) 관련이있는, 친척"
+  },
+  {
+    "day": 29,
+    "no": 16,
+    "english": "absolute",
+    "korean": "절대적인, 완전한, 확실한"
+  },
+  {
+    "day": 29,
+    "no": 17,
+    "english": "interior",
+    "korean": "내부, 내부의"
+  },
+  {
+    "day": 29,
+    "no": 18,
+    "english": "exterior",
+    "korean": "외부, 외부의"
+  },
+  {
+    "day": 29,
+    "no": 19,
+    "english": "active",
+    "korean": "활동적인, 적극적인, 능동태의, 능동태"
+  },
+  {
+    "day": 29,
+    "no": 20,
+    "english": "passive",
+    "korean": "수동적인, 소극적인, 수동태"
+  },
+  {
+    "day": 29,
+    "no": 21,
+    "english": "attach",
+    "korean": "붙이다, 첨부하다, (가치 등을) 부여하다"
+  },
+  {
+    "day": 29,
+    "no": 22,
+    "english": "detach",
+    "korean": "분리하다, 떼다"
+  },
+  {
+    "day": 29,
+    "no": 23,
+    "english": "majority",
+    "korean": "대다수, 대부분, 과반수"
+  },
+  {
+    "day": 29,
+    "no": 24,
+    "english": "minority",
+    "korean": "소수, 소수집단"
+  },
+  {
+    "day": 29,
+    "no": 25,
+    "english": "permanent",
+    "korean": "영구적인, 영속적인"
+  },
+  {
+    "day": 29,
+    "no": 26,
+    "english": "temporary",
+    "korean": "일시적인, 임시의"
+  },
+  {
+    "day": 29,
+    "no": 27,
+    "english": "ancestor",
+    "korean": "조상, 선조"
+  },
+  {
+    "day": 29,
+    "no": 28,
+    "english": "descendant",
+    "korean": "자손, 후예"
+  },
+  {
+    "day": 29,
+    "no": 29,
+    "english": "complexity",
+    "korean": "복잡성, 복잡함"
+  },
+  {
+    "day": 29,
+    "no": 30,
+    "english": "simplicity",
+    "korean": "단순함, 간단함"
+  },
+  {
+    "day": 30,
+    "no": 1,
+    "english": "accelerate",
+    "korean": "가속하다, 빨라지다, 촉진하다"
+  },
+  {
+    "day": 30,
+    "no": 2,
+    "english": "decelerate",
+    "korean": "감속하다, 속도가 줄어들다"
+  },
+  {
+    "day": 30,
+    "no": 3,
+    "english": "mental",
+    "korean": "정신의, 마음의"
+  },
+  {
+    "day": 30,
+    "no": 4,
+    "english": "physical",
+    "korean": "육체의, 신체의, 물질의, 물리적인"
+  },
+  {
+    "day": 30,
+    "no": 5,
+    "english": "optimistic",
+    "korean": "낙관[낙천]적인, 낙천주의의"
+  },
+  {
+    "day": 30,
+    "no": 6,
+    "english": "pessimistic",
+    "korean": "비관적인"
+  },
+  {
+    "day": 30,
+    "no": 7,
+    "english": "subjective",
+    "korean": "주관적인, 주관의"
+  },
+  {
+    "day": 30,
+    "no": 8,
+    "english": "objective",
+    "korean": "객관적인, 목표, 목적"
+  },
+  {
+    "day": 30,
+    "no": 9,
+    "english": "sow",
+    "korean": "(씨를) 뿌리다, 심다"
+  },
+  {
+    "day": 30,
+    "no": 10,
+    "english": "revolve",
+    "korean": "(축을 중심으로) 돌다, 회전하다"
+  },
+  {
+    "day": 30,
+    "no": 11,
+    "english": "evolve",
+    "korean": "진화하다[시키다], 발달하다[시키 다]"
+  },
+  {
+    "day": 30,
+    "no": 12,
+    "english": "natural",
+    "korean": "자연의, 천연의, 타고난"
+  },
+  {
+    "day": 30,
+    "no": 13,
+    "english": "neutral",
+    "korean": "중립의, 치우치지 않은"
+  },
+  {
+    "day": 30,
+    "no": 14,
+    "english": "flash",
+    "korean": "번쩍이다, 번쩍임, 섬광"
+  },
+  {
+    "day": 30,
+    "no": 15,
+    "english": "leak",
+    "korean": "새다, 누설하다, 새는 곳, 누설, 유출"
+  },
+  {
+    "day": 30,
+    "no": 16,
+    "english": "assess",
+    "korean": "평가하다"
+  },
+  {
+    "day": 30,
+    "no": 17,
+    "english": "access",
+    "korean": "접근(성), 이용, 접근하다, 이용하다"
+  },
+  {
+    "day": 30,
+    "no": 18,
+    "english": "excess",
+    "korean": "초과, 과잉, 초과한, 여분의"
+  },
+  {
+    "day": 30,
+    "no": 19,
+    "english": "compliment",
+    "korean": "칭찬, 찬사, 칭찬하다"
+  },
+  {
+    "day": 30,
+    "no": 20,
+    "english": "complement",
+    "korean": "보완물, 보충물, 보완[보충]하다"
+  },
+  {
+    "day": 30,
+    "no": 21,
+    "english": "personal",
+    "korean": "개인의, 사적인"
+  },
+  {
+    "day": 30,
+    "no": 22,
+    "english": "prey",
+    "korean": "먹이, 희생자, 잡아먹다"
+  },
+  {
+    "day": 30,
+    "no": 23,
+    "english": "pray",
+    "korean": "기도하다, 빌다"
+  },
+  {
+    "day": 30,
+    "no": 24,
+    "english": "region",
+    "korean": "지역, 지방, (신체의) 부 위"
+  },
+  {
+    "day": 30,
+    "no": 25,
+    "english": "religion",
+    "korean": "종교, 신앙"
+  },
+  {
+    "day": 30,
+    "no": 26,
+    "english": "mass",
+    "korean": "덩어리, 다량, 다수, 대중, 대량의, 대규모의"
+  },
+  {
+    "day": 30,
+    "no": 27,
+    "english": "meditation",
+    "korean": "명상, 심사숙고"
+  },
+  {
+    "day": 30,
+    "no": 28,
+    "english": "simulate",
+    "korean": "모의실험을 하다, (감정,행동 등을) 가장하 다, ~인 체하다"
+  },
+  {
+    "day": 30,
+    "no": 29,
+    "english": "stimulate",
+    "korean": "자극하다, 활성화하다"
+  },
+  {
+    "day": 30,
+    "no": 30,
+    "english": "absorb",
+    "korean": "흡수하다, (정보를) 습득 하다, (관심 등을) 빼앗다"
+  },
+  {
+    "day": 31,
+    "no": 1,
+    "english": "absurd",
+    "korean": "터무니없는"
+  },
+  {
+    "day": 31,
+    "no": 2,
+    "english": "impose",
+    "korean": "(세금,의무 등을) 부과하다, 강요하다"
+  },
+  {
+    "day": 31,
+    "no": 3,
+    "english": "suppose",
+    "korean": "가정[상상]하다, 추측[생각]하다"
+  },
+  {
+    "day": 31,
+    "no": 4,
+    "english": "component",
+    "korean": "구성 요소, 부품, 구성하는"
+  },
+  {
+    "day": 31,
+    "no": 5,
+    "english": "opponent",
+    "korean": "상대, 반대자"
+  },
+  {
+    "day": 31,
+    "no": 6,
+    "english": "compound",
+    "korean": "화합물, 혼합물, 합성어, 합성의, 혼합하다, 악화시키다"
+  },
+  {
+    "day": 31,
+    "no": 7,
+    "english": "portable",
+    "korean": "휴대용의, 가지고 다닐 수 있는"
+  },
+  {
+    "day": 31,
+    "no": 8,
+    "english": "depress",
+    "korean": "낙담시키다, 우울하게 하다, (경기 등을) 침체시키다"
+  },
+  {
+    "day": 31,
+    "no": 9,
+    "english": "impress",
+    "korean": "감명을 주다, 깊은 인상을 주다"
+  },
+  {
+    "day": 31,
+    "no": 10,
+    "english": "oppress",
+    "korean": "억압하다, 탄압하다"
+  },
+  {
+    "day": 31,
+    "no": 11,
+    "english": "probe",
+    "korean": "조사하다, 캐묻다"
+  },
+  {
+    "day": 31,
+    "no": 12,
+    "english": "probable",
+    "korean": "있음 직한, 그럴듯한"
+  },
+  {
+    "day": 31,
+    "no": 13,
+    "english": "prove",
+    "korean": "입증[증명]하다, (~로) 판명되다"
+  },
+  {
+    "day": 31,
+    "no": 14,
+    "english": "primitive",
+    "korean": "원시(사회)의, 원시적인"
+  },
+  {
+    "day": 31,
+    "no": 15,
+    "english": "prior",
+    "korean": "이전의, 사전의, (~에) 우선하는"
+  },
+  {
+    "day": 31,
+    "no": 16,
+    "english": "deprive",
+    "korean": "빼앗다, 박탈하다"
+  },
+  {
+    "day": 31,
+    "no": 17,
+    "english": "private",
+    "korean": "개인적인, 비밀의"
+  },
+  {
+    "day": 31,
+    "no": 18,
+    "english": "dispute",
+    "korean": "논쟁, 분쟁, 반박하다, 논쟁을 벌이다"
+  },
+  {
+    "day": 31,
+    "no": 19,
+    "english": "reputation",
+    "korean": "평판, 명성"
+  },
+  {
+    "day": 31,
+    "no": 20,
+    "english": "implement",
+    "korean": "실행[이행]하다, 도구, 기구"
+  },
+  {
+    "day": 31,
+    "no": 21,
+    "english": "terrify",
+    "korean": "겁나게 하다, 무섭게 하 다"
+  },
+  {
+    "day": 31,
+    "no": 22,
+    "english": "territory",
+    "korean": "영토, 지역, 영역"
+  },
+  {
+    "day": 31,
+    "no": 23,
+    "english": "convict",
+    "korean": "유죄를 선고[입증]하다, 죄수"
+  },
+  {
+    "day": 31,
+    "no": 24,
+    "english": "via",
+    "korean": "~을 경유해서, ~을 통해 서"
+  },
+  {
+    "day": 31,
+    "no": 25,
+    "english": "convey",
+    "korean": "(생각, 감정 등을) 전달하 다, 나르다"
+  },
+  {
+    "day": 31,
+    "no": 26,
+    "english": "previous",
+    "korean": "이전의, 앞의"
+  },
+  {
+    "day": 31,
+    "no": 27,
+    "english": "voyage",
+    "korean": "항해, 여행, 항해하다, 여행하다"
+  },
+  {
+    "day": 31,
+    "no": 28,
+    "english": "voluntary",
+    "korean": "자발적인, 자원봉사의"
+  },
+  {
+    "day": 31,
+    "no": 29,
+    "english": "admit",
+    "korean": "인정[시인]하다, 입장[입학]을 허가하다"
+  },
+  {
+    "day": 31,
+    "no": 30,
+    "english": "commitment",
+    "korean": "약속, 전념, 헌신"
+  },
+  {
+    "day": 32,
+    "no": 1,
+    "english": "absurd",
+    "korean": "터무니없는"
+  },
+  {
+    "day": 32,
+    "no": 2,
+    "english": "impose",
+    "korean": "(세금,의무 등을) 부과하다, 강요하다"
+  },
+  {
+    "day": 32,
+    "no": 3,
+    "english": "suppose",
+    "korean": "가정[상상]하다, 추측[생각]하다"
+  },
+  {
+    "day": 32,
+    "no": 4,
+    "english": "component",
+    "korean": "구성 요소, 부품, 구성하는"
+  },
+  {
+    "day": 32,
+    "no": 5,
+    "english": "opponent",
+    "korean": "상대, 반대자"
+  },
+  {
+    "day": 32,
+    "no": 6,
+    "english": "compound",
+    "korean": "화합물, 혼합물, 합성어, 합성의, 혼합하다, 악화시키다"
+  },
+  {
+    "day": 32,
+    "no": 7,
+    "english": "portable",
+    "korean": "휴대용의, 가지고 다닐 수 있는"
+  },
+  {
+    "day": 32,
+    "no": 8,
+    "english": "depress",
+    "korean": "낙담시키다, 우울하게 하다, (경기 등을) 침체시키다"
+  },
+  {
+    "day": 32,
+    "no": 9,
+    "english": "impress",
+    "korean": "감명을 주다, 깊은 인상을 주다"
+  },
+  {
+    "day": 32,
+    "no": 10,
+    "english": "oppress",
+    "korean": "억압하다, 탄압하다"
+  },
+  {
+    "day": 32,
+    "no": 11,
+    "english": "probe",
+    "korean": "조사하다, 캐묻다"
+  },
+  {
+    "day": 32,
+    "no": 12,
+    "english": "probable",
+    "korean": "있음 직한, 그럴듯한"
+  },
+  {
+    "day": 32,
+    "no": 13,
+    "english": "prove",
+    "korean": "입증[증명]하다, (~로) 판명되다"
+  },
+  {
+    "day": 32,
+    "no": 14,
+    "english": "primitive",
+    "korean": "원시(사회)의, 원시적인"
+  },
+  {
+    "day": 32,
+    "no": 15,
+    "english": "prior",
+    "korean": "이전의, 사전의, (~에) 우선하는"
+  },
+  {
+    "day": 32,
+    "no": 16,
+    "english": "deprive",
+    "korean": "빼앗다, 박탈하다"
+  },
+  {
+    "day": 32,
+    "no": 17,
+    "english": "private",
+    "korean": "개인적인, 비밀의"
+  },
+  {
+    "day": 32,
+    "no": 18,
+    "english": "dispute",
+    "korean": "논쟁, 분쟁, 반박하다, 논쟁을 벌이다"
+  },
+  {
+    "day": 32,
+    "no": 19,
+    "english": "reputation",
+    "korean": "평판, 명성"
+  },
+  {
+    "day": 32,
+    "no": 20,
+    "english": "implement",
+    "korean": "실행[이행]하다, 도구, 기구"
+  },
+  {
+    "day": 32,
+    "no": 21,
+    "english": "terrify",
+    "korean": "겁나게 하다, 무섭게 하 다"
+  },
+  {
+    "day": 32,
+    "no": 22,
+    "english": "territory",
+    "korean": "영토, 지역, 영역"
+  },
+  {
+    "day": 32,
+    "no": 23,
+    "english": "convict",
+    "korean": "유죄를 선고[입증]하다, 죄수"
+  },
+  {
+    "day": 32,
+    "no": 24,
+    "english": "via",
+    "korean": "~을 경유해서, ~을 통해 서"
+  },
+  {
+    "day": 32,
+    "no": 25,
+    "english": "convey",
+    "korean": "(생각, 감정 등을) 전달하다, 나르다"
+  },
+  {
+    "day": 32,
+    "no": 26,
+    "english": "previous",
+    "korean": "이전의, 앞의"
+  },
+  {
+    "day": 32,
+    "no": 27,
+    "english": "voyage",
+    "korean": "항해, 여행, 항해하다, 여행하다"
+  },
+  {
+    "day": 32,
+    "no": 28,
+    "english": "voluntary",
+    "korean": "자발적인, 자원봉사의"
+  },
+  {
+    "day": 32,
+    "no": 29,
+    "english": "admit",
+    "korean": "인정[시인]하다, 입장[입학]을 허가하다"
+  },
+  {
+    "day": 32,
+    "no": 30,
+    "english": "commitment",
+    "korean": "약속, 전념, 헌신"
+  },
+  {
+    "day": 33,
+    "no": 1,
+    "english": "commission",
+    "korean": "위원회, 수수료, 의뢰하다"
+  },
+  {
+    "day": 33,
+    "no": 2,
+    "english": "dimension",
+    "korean": "크기, 치수, 측면, (수학,물리) 차원"
+  },
+  {
+    "day": 33,
+    "no": 3,
+    "english": "mortal",
+    "korean": "죽을 운명의, 치명적인, 인간"
+  },
+  {
+    "day": 33,
+    "no": 4,
+    "english": "murder",
+    "korean": "살인(죄), 살해, 살해[살인]하다"
+  },
+  {
+    "day": 33,
+    "no": 5,
+    "english": "movement",
+    "korean": "움직임, 이동, (조직적인) 운동, 진전"
+  },
+  {
+    "day": 33,
+    "no": 6,
+    "english": "motivate",
+    "korean": "동기를 부여하다, 자극하다"
+  },
+  {
+    "day": 33,
+    "no": 7,
+    "english": "remote",
+    "korean": "멀리 떨어진, 원격의"
+  },
+  {
+    "day": 33,
+    "no": 8,
+    "english": "mob",
+    "korean": "군중, 무리, 떼 지어 둘러싸다"
+  },
+  {
+    "day": 33,
+    "no": 9,
+    "english": "mobility",
+    "korean": "이동성, 기동성"
+  },
+  {
+    "day": 33,
+    "no": 10,
+    "english": "commodity",
+    "korean": "(판매) 상품, 물품"
+  },
+  {
+    "day": 33,
+    "no": 11,
+    "english": "modify",
+    "korean": "변경[수정]하다, [문법] 수식하다"
+  },
+  {
+    "day": 33,
+    "no": 12,
+    "english": "commute",
+    "korean": "통근하다, 통근(거리)"
+  },
+  {
+    "day": 33,
+    "no": 13,
+    "english": "mutual",
+    "korean": "상호 간의, 공통의"
+  },
+  {
+    "day": 33,
+    "no": 14,
+    "english": "notion",
+    "korean": "개념, 생각"
+  },
+  {
+    "day": 33,
+    "no": 15,
+    "english": "notify",
+    "korean": "통지하다, 알리다"
+  },
+  {
+    "day": 33,
+    "no": 16,
+    "english": "notable",
+    "korean": "주목할 만한, 유명한"
+  },
+  {
+    "day": 33,
+    "no": 17,
+    "english": "pronounce",
+    "korean": "발음하다, 선언[선언]하 다"
+  },
+  {
+    "day": 33,
+    "no": 18,
+    "english": "announce",
+    "korean": "알리다, 발표하다"
+  },
+  {
+    "day": 33,
+    "no": 19,
+    "english": "monopoly",
+    "korean": "독점(권), 전매(권)"
+  },
+  {
+    "day": 33,
+    "no": 20,
+    "english": "aspire",
+    "korean": "열망하다, 바라다"
+  },
+  {
+    "day": 33,
+    "no": 21,
+    "english": "contemporary",
+    "korean": "현대의, 동시대의, 동시대 사람"
+  },
+  {
+    "day": 33,
+    "no": 22,
+    "english": "abundant",
+    "korean": "풍부한, 많은"
+  },
+  {
+    "day": 33,
+    "no": 23,
+    "english": "devise",
+    "korean": "고안하다, 생각해 내다"
+  },
+  {
+    "day": 33,
+    "no": 24,
+    "english": "intrude",
+    "korean": "침입하다, 방해하다"
+  },
+  {
+    "day": 33,
+    "no": 25,
+    "english": "threat",
+    "korean": "위협, 협박"
+  },
+  {
+    "day": 33,
+    "no": 26,
+    "english": "nutrition",
+    "korean": "영양(섭취)"
+  },
+  {
+    "day": 33,
+    "no": 27,
+    "english": "nourish",
+    "korean": "영양분을 주다, 기르다, (생각,감정 등을) 키우다"
+  },
+  {
+    "day": 33,
+    "no": 28,
+    "english": "transparent",
+    "korean": "투명한, 명백한"
+  },
+  {
+    "day": 33,
+    "no": 29,
+    "english": "peer",
+    "korean": "또래, 동료, 자세히 들여 다보다"
+  },
+  {
+    "day": 33,
+    "no": 30,
+    "english": "orient",
+    "korean": "지향하게 하다, 자기 위 치를 알다, 적응시키다"
+  },
+  {
+    "day": 34,
+    "no": 1,
+    "english": "origin",
+    "korean": "기원, 유래, 출신"
+  },
+  {
+    "day": 34,
+    "no": 2,
+    "english": "partial",
+    "korean": "부분적인, 불완전한, 편파적인"
+  },
+  {
+    "day": 34,
+    "no": 3,
+    "english": "particle",
+    "korean": "(아주 작은) 입자 조각"
+  },
+  {
+    "day": 34,
+    "no": 4,
+    "english": "proportion",
+    "korean": "비율, 부분, 균형"
+  },
+  {
+    "day": 34,
+    "no": 5,
+    "english": "portion",
+    "korean": "부분, 1인분, 몫"
+  },
+  {
+    "day": 34,
+    "no": 6,
+    "english": "patron",
+    "korean": "후원자, 고객, 단골 손님"
+  },
+  {
+    "day": 34,
+    "no": 7,
+    "english": "appetite",
+    "korean": "식욕, 욕구, 욕망"
+  },
+  {
+    "day": 34,
+    "no": 8,
+    "english": "competent",
+    "korean": "유능한, 능숙한"
+  },
+  {
+    "day": 34,
+    "no": 9,
+    "english": "expedition",
+    "korean": "원정(대), 탐험(대)"
+  },
+  {
+    "day": 34,
+    "no": 10,
+    "english": "pedestrian",
+    "korean": "보행자, 보행자(용)의"
+  },
+  {
+    "day": 34,
+    "no": 11,
+    "english": "vague",
+    "korean": "모호한, 애매한"
+  },
+  {
+    "day": 34,
+    "no": 12,
+    "english": "expel",
+    "korean": "퇴학시키다, 제명하다, 추방하다"
+  },
+  {
+    "day": 34,
+    "no": 13,
+    "english": "propel",
+    "korean": "나아가게 하다, 추진하다"
+  },
+  {
+    "day": 34,
+    "no": 14,
+    "english": "impulse",
+    "korean": "충동, 욕구, 자극"
+  },
+  {
+    "day": 34,
+    "no": 15,
+    "english": "emphasize",
+    "korean": "강조하다"
+  },
+  {
+    "day": 34,
+    "no": 16,
+    "english": "fancy",
+    "korean": "화려한, 고급의, 비싼, 상상, 공상"
+  },
+  {
+    "day": 34,
+    "no": 17,
+    "english": "phenomenon",
+    "korean": "현상, 사건"
+  },
+  {
+    "day": 34,
+    "no": 18,
+    "english": "diplomatic",
+    "korean": "외교의, 외교에 능한"
+  },
+  {
+    "day": 34,
+    "no": 19,
+    "english": "imply",
+    "korean": "내포[함축]하다, 암시하 다"
+  },
+  {
+    "day": 34,
+    "no": 20,
+    "english": "terminate",
+    "korean": "끝나다, 종결시키다"
+  },
+  {
+    "day": 34,
+    "no": 21,
+    "english": "determine",
+    "korean": "결정하다, 알아내다"
+  },
+  {
+    "day": 34,
+    "no": 22,
+    "english": "distort",
+    "korean": "(형체 등을) 비틀다[일그 러뜨리다], 왜곡하다"
+  },
+  {
+    "day": 34,
+    "no": 23,
+    "english": "torture",
+    "korean": "고문, 심한 고통, 고문하다, 몹시 괴롭히다"
+  },
+  {
+    "day": 34,
+    "no": 24,
+    "english": "torment",
+    "korean": "고통, 고뇌, 고통을 주다, 괴롭히다"
+  },
+  {
+    "day": 34,
+    "no": 25,
+    "english": "fragile",
+    "korean": "부서지기[깨지기]쉬운, 취약한, 허약한"
+  },
+  {
+    "day": 34,
+    "no": 26,
+    "english": "fragment",
+    "korean": "파편, 조각, 산산이 부수 다[부서지다]"
+  },
+  {
+    "day": 34,
+    "no": 27,
+    "english": "fraction",
+    "korean": "부분, 일부, [수학]분수"
+  },
+  {
+    "day": 34,
+    "no": 28,
+    "english": "fundamental",
+    "korean": "근본[기본]적인, 중요한, 필수의"
+  },
+  {
+    "day": 34,
+    "no": 29,
+    "english": "profound",
+    "korean": "(영향 등이) 엄청난, (지식 등이) 심오한"
+  },
+  {
+    "day": 34,
+    "no": 30,
+    "english": "futile",
+    "korean": "쓸모 없는, 헛된"
+  },
+  {
+    "day": 35,
+    "no": 1,
+    "english": "origin",
+    "korean": "기원, 유래, 출신"
+  },
+  {
+    "day": 35,
+    "no": 2,
+    "english": "partial",
+    "korean": "부분적인, 불완전한, 편파적인"
+  },
+  {
+    "day": 35,
+    "no": 3,
+    "english": "particle",
+    "korean": "(아주 작은) 입자 조각"
+  },
+  {
+    "day": 35,
+    "no": 4,
+    "english": "proportion",
+    "korean": "비율, 부분, 균형"
+  },
+  {
+    "day": 35,
+    "no": 5,
+    "english": "portion",
+    "korean": "부분, 1인분, 몫"
+  },
+  {
+    "day": 35,
+    "no": 6,
+    "english": "patron",
+    "korean": "후원자, 고객, 단골 손님"
+  },
+  {
+    "day": 35,
+    "no": 7,
+    "english": "appetite",
+    "korean": "식욕, 욕구, 욕망"
+  },
+  {
+    "day": 35,
+    "no": 8,
+    "english": "competent",
+    "korean": "유능한, 능숙한"
+  },
+  {
+    "day": 35,
+    "no": 9,
+    "english": "expedition",
+    "korean": "원정(대), 탐험(대)"
+  },
+  {
+    "day": 35,
+    "no": 10,
+    "english": "pedestrian",
+    "korean": "보행자, 보행자(용)의"
+  },
+  {
+    "day": 35,
+    "no": 11,
+    "english": "vague",
+    "korean": "모호한, 애매한"
+  },
+  {
+    "day": 35,
+    "no": 12,
+    "english": "expel",
+    "korean": "퇴학시키다, 제명하다, 추방하다"
+  },
+  {
+    "day": 35,
+    "no": 13,
+    "english": "propel",
+    "korean": "나아가게 하다, 추진하다"
+  },
+  {
+    "day": 35,
+    "no": 14,
+    "english": "impulse",
+    "korean": "충동, 욕구, 자극"
+  },
+  {
+    "day": 35,
+    "no": 15,
+    "english": "emphasize",
+    "korean": "강조하다"
+  },
+  {
+    "day": 35,
+    "no": 16,
+    "english": "fancy",
+    "korean": "화려한, 고급의, 비싼, \\상상, 공상"
+  },
+  {
+    "day": 35,
+    "no": 17,
+    "english": "phenomenon",
+    "korean": "현상, 사건"
+  },
+  {
+    "day": 35,
+    "no": 18,
+    "english": "diplomatic",
+    "korean": "외교의, 외교에 능한"
+  },
+  {
+    "day": 35,
+    "no": 19,
+    "english": "imply",
+    "korean": "내포[함축]하다, 암시하 다"
+  },
+  {
+    "day": 35,
+    "no": 20,
+    "english": "terminate",
+    "korean": "끝나다, 종결시키다"
+  },
+  {
+    "day": 35,
+    "no": 21,
+    "english": "determine",
+    "korean": "결정하다, 알아내다"
+  },
+  {
+    "day": 35,
+    "no": 22,
+    "english": "distort",
+    "korean": "(형체 등을) 비틀다[일그 러뜨리다], 왜곡하다"
+  },
+  {
+    "day": 35,
+    "no": 23,
+    "english": "torture",
+    "korean": "고문, 심한 고통, 고문하 다, 몹시 괴롭히다"
+  },
+  {
+    "day": 35,
+    "no": 24,
+    "english": "torment",
+    "korean": "고통, 고뇌, 고통을 주다, 괴롭히다"
+  },
+  {
+    "day": 35,
+    "no": 25,
+    "english": "fragile",
+    "korean": "부서지기[깨지기]쉬운, 취약한, 허약한"
+  },
+  {
+    "day": 35,
+    "no": 26,
+    "english": "fragment",
+    "korean": "파편, 조각, 산산이 부수 다[부서지다]"
+  },
+  {
+    "day": 35,
+    "no": 27,
+    "english": "fraction",
+    "korean": "부분, 일부, [수학]분수"
+  },
+  {
+    "day": 35,
+    "no": 28,
+    "english": "fundamental",
+    "korean": "근본[기본]적인, 중요한, 필수의"
+  },
+  {
+    "day": 35,
+    "no": 29,
+    "english": "profound",
+    "korean": "(영향 등이) 엄청난, (지식 등이) 심오한"
+  },
+  {
+    "day": 35,
+    "no": 30,
+    "english": "futile",
+    "korean": "쓸모 없는, 헛된"
+  },
+  {
+    "day": 36,
+    "no": 1,
+    "english": "garment",
+    "korean": "옷, 의복 (한 벌)"
+  },
+  {
+    "day": 36,
+    "no": 2,
+    "english": "guarantee",
+    "korean": "보장, 보증(서), 보장[보증]하다"
+  },
+  {
+    "day": 36,
+    "no": 3,
+    "english": "gratitude",
+    "korean": "감사(의 마음)"
+  },
+  {
+    "day": 36,
+    "no": 4,
+    "english": "grace",
+    "korean": "우아함, 품위, (신의) 은혜, 은총"
+  },
+  {
+    "day": 36,
+    "no": 5,
+    "english": "habitat",
+    "korean": "서식지, 거주지"
+  },
+  {
+    "day": 36,
+    "no": 6,
+    "english": "inhabit",
+    "korean": "(~에) 살다, 서식하다"
+  },
+  {
+    "day": 36,
+    "no": 7,
+    "english": "inject",
+    "korean": "주입하다, 주사하다"
+  },
+  {
+    "day": 36,
+    "no": 8,
+    "english": "project",
+    "korean": "프로젝트, 계획, 계획하다, 예상[추정]하다, 투영하다"
+  },
+  {
+    "day": 36,
+    "no": 9,
+    "english": "justify",
+    "korean": "정당화하다"
+  },
+  {
+    "day": 36,
+    "no": 10,
+    "english": "prejudice",
+    "korean": "편견, 선입관, 편견을 갖게 하다"
+  },
+  {
+    "day": 36,
+    "no": 11,
+    "english": "estate",
+    "korean": "재산, 유산, 토지, 사유지"
+  },
+  {
+    "day": 36,
+    "no": 12,
+    "english": "obstacle",
+    "korean": "장애(물), 방해(물)"
+  },
+  {
+    "day": 36,
+    "no": 13,
+    "english": "stable",
+    "korean": "안정된, 차분한, 마구간"
+  },
+  {
+    "day": 36,
+    "no": 14,
+    "english": "substance",
+    "korean": "물질, 본질, 실체"
+  },
+  {
+    "day": 36,
+    "no": 15,
+    "english": "institute",
+    "korean": "(교육) 기관, 협회, (제도,정책 등을) 도입하다"
+  },
+  {
+    "day": 36,
+    "no": 16,
+    "english": "constitute",
+    "korean": "구성하다, (~로) 간주되 다, 설립[제정]하다"
+  },
+  {
+    "day": 36,
+    "no": 17,
+    "english": "substitute",
+    "korean": "대용품, 대리인, 대체[대 신]하다"
+  },
+  {
+    "day": 36,
+    "no": 18,
+    "english": "destined",
+    "korean": "~할 운명인, ~행의"
+  },
+  {
+    "day": 36,
+    "no": 19,
+    "english": "superstition",
+    "korean": "미신"
+  },
+  {
+    "day": 36,
+    "no": 20,
+    "english": "assist",
+    "korean": "돕다, 지원하다"
+  },
+  {
+    "day": 36,
+    "no": 21,
+    "english": "steady",
+    "korean": "꾸준한, 안정된"
+  },
+  {
+    "day": 36,
+    "no": 22,
+    "english": "arrest",
+    "korean": "체포하다, 체포"
+  },
+  {
+    "day": 36,
+    "no": 23,
+    "english": "constant",
+    "korean": "끊임없는, 변함 없는, [수학] 상수"
+  },
+  {
+    "day": 36,
+    "no": 24,
+    "english": "elaborate",
+    "korean": "정교한, 복잡한, 상세히 말하다"
+  },
+  {
+    "day": 36,
+    "no": 25,
+    "english": "collaborate",
+    "korean": "공동으로 일하다, 협력하 다"
+  },
+  {
+    "day": 36,
+    "no": 26,
+    "english": "laboratory",
+    "korean": "실험실, 연구실"
+  },
+  {
+    "day": 36,
+    "no": 27,
+    "english": "inspect",
+    "korean": "점검하다, 감시하다"
+  },
+  {
+    "day": 36,
+    "no": 28,
+    "english": "spectacle",
+    "korean": "구경거리, 장관, 안경"
+  },
+  {
+    "day": 36,
+    "no": 29,
+    "english": "suspect",
+    "korean": "의심하다, 혐의를 두다, 용의자"
+  },
+  {
+    "day": 36,
+    "no": 30,
+    "english": "tend",
+    "korean": "((~to)) ~하는 경향이 있 다, 돌보다"
+  },
+  {
+    "day": 37,
+    "no": 1,
+    "english": "intend",
+    "korean": "의도[작정]하다"
+  },
+  {
+    "day": 37,
+    "no": 2,
+    "english": "tender",
+    "korean": "부드러운, 연한, 다정한, 연약한, 입찰하다, 입찰"
+  },
+  {
+    "day": 37,
+    "no": 3,
+    "english": "tense",
+    "korean": "긴장한, 팽팽한, [문법] 시제"
+  },
+  {
+    "day": 37,
+    "no": 4,
+    "english": "evaluate",
+    "korean": "평가하다, 감정하다"
+  },
+  {
+    "day": 37,
+    "no": 5,
+    "english": "equivalent",
+    "korean": "동등한, 상당하는, 동등한[상당하 는]것"
+  },
+  {
+    "day": 37,
+    "no": 6,
+    "english": "valid",
+    "korean": "유효한, 타당한"
+  },
+  {
+    "day": 37,
+    "no": 7,
+    "english": "privilege",
+    "korean": "특권, 특혜, 특권[특혜]를 주다"
+  },
+  {
+    "day": 37,
+    "no": 8,
+    "english": "colleague",
+    "korean": "(직장) 동료"
+  },
+  {
+    "day": 37,
+    "no": 9,
+    "english": "liberal",
+    "korean": "개방적인, 관대한, 자유주의의"
+  },
+  {
+    "day": 37,
+    "no": 10,
+    "english": "preliminary",
+    "korean": "예비의, 준비의, 예비 단계, 예선"
+  },
+  {
+    "day": 37,
+    "no": 11,
+    "english": "ecology",
+    "korean": "생태학, 생태(계)"
+  },
+  {
+    "day": 37,
+    "no": 12,
+    "english": "logic",
+    "korean": "논리(학)"
+  },
+  {
+    "day": 37,
+    "no": 13,
+    "english": "psychology",
+    "korean": "심리학, 심리(상태)"
+  },
+  {
+    "day": 37,
+    "no": 14,
+    "english": "manual",
+    "korean": "손으로 하는, 육체 노동의, 수동의, 설명서"
+  },
+  {
+    "day": 37,
+    "no": 15,
+    "english": "manuscript",
+    "korean": "원고, 필사본, 사본"
+  },
+  {
+    "day": 37,
+    "no": 16,
+    "english": "manipulate",
+    "korean": "(교묘하게) 조종[조작]하 다, 잘 다루다"
+  },
+  {
+    "day": 37,
+    "no": 17,
+    "english": "intermediate",
+    "korean": "중급의, 중간의, 중급자"
+  },
+  {
+    "day": 37,
+    "no": 18,
+    "english": "mediate",
+    "korean": "중재하다, 조정하다"
+  },
+  {
+    "day": 37,
+    "no": 19,
+    "english": "medieval",
+    "korean": "중세의"
+  },
+  {
+    "day": 37,
+    "no": 20,
+    "english": "minister",
+    "korean": "장관, 성직자, 목사"
+  },
+  {
+    "day": 37,
+    "no": 21,
+    "english": "minor",
+    "korean": "작은, 그다지 중요하지 않은, 미성년자, 부전공"
+  },
+  {
+    "day": 37,
+    "no": 22,
+    "english": "minimum",
+    "korean": "최소, 최저, 최소의, 최저 의"
+  },
+  {
+    "day": 37,
+    "no": 23,
+    "english": "distinguish",
+    "korean": "구별하다, 식별하다"
+  },
+  {
+    "day": 37,
+    "no": 24,
+    "english": "crop",
+    "korean": "(농)작물, 수확량, 자르다, 경작하다"
+  },
+  {
+    "day": 37,
+    "no": 25,
+    "english": "certificate",
+    "korean": "증명서, 자격증"
+  },
+  {
+    "day": 37,
+    "no": 26,
+    "english": "trait",
+    "korean": "특성, 특징"
+  },
+  {
+    "day": 37,
+    "no": 27,
+    "english": "punish",
+    "korean": "처벌하다, 벌주다"
+  },
+  {
+    "day": 37,
+    "no": 28,
+    "english": "appropriate",
+    "korean": "적절한, 알맞은"
+  },
+  {
+    "day": 37,
+    "no": 29,
+    "english": "raise",
+    "korean": "올리다, 모금하다, 기르다, 제기하다"
+  },
+  {
+    "day": 37,
+    "no": 30,
+    "english": "specific",
+    "korean": "구체적인, 특정한"
+  },
+  {
+    "day": 38,
+    "no": 1,
+    "english": "otherwise",
+    "korean": "(만약) 그렇지 않으면"
+  },
+  {
+    "day": 38,
+    "no": 2,
+    "english": "translate",
+    "korean": "번역[통역]하다, (다른 형태로) 바꾸다[바뀌다]"
+  },
+  {
+    "day": 38,
+    "no": 3,
+    "english": "horizon",
+    "korean": "지평선, 수평선, 시야"
+  },
+  {
+    "day": 38,
+    "no": 4,
+    "english": "inhibit",
+    "korean": "억제[저해]하다, ~하지 못하게 하다"
+  },
+  {
+    "day": 38,
+    "no": 5,
+    "english": "divine",
+    "korean": "신의, 신성한"
+  },
+  {
+    "day": 38,
+    "no": 6,
+    "english": "prohibit",
+    "korean": "(법령 등으로) 금지하다, ~하지 못하게 하다"
+  },
+  {
+    "day": 38,
+    "no": 7,
+    "english": "retreat",
+    "korean": "물러서다, 후퇴하다, 후퇴, 철수"
+  },
+  {
+    "day": 38,
+    "no": 8,
+    "english": "equipment",
+    "korean": "장비, 설비"
+  },
+  {
+    "day": 38,
+    "no": 9,
+    "english": "intuition",
+    "korean": "직관(력), 직감"
+  },
+  {
+    "day": 38,
+    "no": 10,
+    "english": "whereas",
+    "korean": "그런데, ~인 반면에"
+  },
+  {
+    "day": 38,
+    "no": 11,
+    "english": "ruin",
+    "korean": "망치다, 파멸, 붕괴, 잔해, 폐허"
+  },
+  {
+    "day": 38,
+    "no": 12,
+    "english": "successful",
+    "korean": "성공한, 성공적인"
+  },
+  {
+    "day": 38,
+    "no": 13,
+    "english": "successive",
+    "korean": "연속적인, 연이은"
+  },
+  {
+    "day": 38,
+    "no": 14,
+    "english": "comparative",
+    "korean": "비교의, 상대적인"
+  },
+  {
+    "day": 38,
+    "no": 15,
+    "english": "swift",
+    "korean": "신속한, 재빠른"
+  },
+  {
+    "day": 38,
+    "no": 16,
+    "english": "comparable",
+    "korean": "비슷한, (~에) 필적하는"
+  },
+  {
+    "day": 38,
+    "no": 17,
+    "english": "implication",
+    "korean": "함축, 암시, 영향, 결과"
+  },
+  {
+    "day": 38,
+    "no": 18,
+    "english": "pretend",
+    "korean": "~인 척하다, 가장하다"
+  },
+  {
+    "day": 38,
+    "no": 19,
+    "english": "separate",
+    "korean": "분리하다[되다], 나누다 [나뉘다], 분리된, 별개의"
+  },
+  {
+    "day": 38,
+    "no": 20,
+    "english": "immune",
+    "korean": "면역(성)의, 영향받지 않는, 면제된"
+  },
+  {
+    "day": 38,
+    "no": 21,
+    "english": "eternal",
+    "korean": "영원한, 끝없는"
+  },
+  {
+    "day": 38,
+    "no": 22,
+    "english": "commercial",
+    "korean": "상업의, 상업적인"
+  },
+  {
+    "day": 38,
+    "no": 23,
+    "english": "cope",
+    "korean": "((~with)) 대처[대응]하다"
+  },
+  {
+    "day": 38,
+    "no": 24,
+    "english": "bystander",
+    "korean": "방관자, 구경꾼, 행인"
+  },
+  {
+    "day": 38,
+    "no": 25,
+    "english": "blur",
+    "korean": "흐릿해지다, 흐릿하게 만 들다, 흐릿한 것[형체]"
+  },
+  {
+    "day": 38,
+    "no": 26,
+    "english": "rapid",
+    "korean": "빠른, 신속한"
+  },
+  {
+    "day": 38,
+    "no": 27,
+    "english": "unprecedented",
+    "korean": "전례 없는"
+  },
+  {
+    "day": 38,
+    "no": 28,
+    "english": "plunge",
+    "korean": "뛰어들다, 추락하다, 급락하다, 낙하, 급락"
+  },
+  {
+    "day": 38,
+    "no": 29,
+    "english": "factor",
+    "korean": "요소, 요인"
+  },
+  {
+    "day": 38,
+    "no": 30,
+    "english": "insane",
+    "korean": "미친, 정신 이상의"
+  },
+  {
+    "day": 39,
+    "no": 1,
+    "english": "condense",
+    "korean": "응결[농축]시키다, 응결되다, 요약하다"
+  },
+  {
+    "day": 39,
+    "no": 2,
+    "english": "conform",
+    "korean": "(관습 등에) 따르다, 순응하다, 일치하다"
+  },
+  {
+    "day": 39,
+    "no": 3,
+    "english": "confront",
+    "korean": "직면하다, 맞서다"
+  },
+  {
+    "day": 39,
+    "no": 4,
+    "english": "contagious",
+    "korean": "전염성의, 전염되는"
+  },
+  {
+    "day": 39,
+    "no": 5,
+    "english": "coincidence",
+    "korean": "(우연의) 일치, 동시 발생"
+  },
+  {
+    "day": 39,
+    "no": 6,
+    "english": "contrast",
+    "korean": "대조, 대비, 대조하다, 대조를 이루다"
+  },
+  {
+    "day": 39,
+    "no": 7,
+    "english": "contrary",
+    "korean": "반대의, 정반대인, ((the~)) 반대 (되는 것)"
+  },
+  {
+    "day": 39,
+    "no": 8,
+    "english": "counteract",
+    "korean": "(악영향에) 대응하다, (효력을) 중화하다"
+  },
+  {
+    "day": 39,
+    "no": 9,
+    "english": "controversial",
+    "korean": "논란이 되는"
+  },
+  {
+    "day": 39,
+    "no": 10,
+    "english": "degrade",
+    "korean": "(질적으로) 저하시키다, 비하하다"
+  },
+  {
+    "day": 39,
+    "no": 11,
+    "english": "despise",
+    "korean": "경멸하다, 깔보다"
+  },
+  {
+    "day": 39,
+    "no": 12,
+    "english": "depart",
+    "korean": "출발하다, 떠나다"
+  },
+  {
+    "day": 39,
+    "no": 13,
+    "english": "decode",
+    "korean": "(암호를) 해독하다"
+  },
+  {
+    "day": 39,
+    "no": 14,
+    "english": "irregular",
+    "korean": "불규칙한, 고르지 않은"
+  },
+  {
+    "day": 39,
+    "no": 15,
+    "english": "illiterate",
+    "korean": "문맹의, 글을 모르는"
+  },
+  {
+    "day": 39,
+    "no": 16,
+    "english": "immoral",
+    "korean": "비도덕적인, 부도덕한"
+  },
+  {
+    "day": 39,
+    "no": 17,
+    "english": "antibiotic",
+    "korean": "항생제, 항생 물질"
+  },
+  {
+    "day": 39,
+    "no": 18,
+    "english": "antipathy",
+    "korean": "반감, 혐오"
+  },
+  {
+    "day": 39,
+    "no": 19,
+    "english": "antonym",
+    "korean": "반의어"
+  },
+  {
+    "day": 39,
+    "no": 20,
+    "english": "extraordinary",
+    "korean": "비범한, 대단한"
+  },
+  {
+    "day": 39,
+    "no": 21,
+    "english": "enforce",
+    "korean": "시행[집행]하다, 강요하다"
+  },
+  {
+    "day": 39,
+    "no": 22,
+    "english": "entitle",
+    "korean": "자격[권리]를 주다, 제목을 붙이다"
+  },
+  {
+    "day": 39,
+    "no": 23,
+    "english": "endanger",
+    "korean": "위험에 빠뜨리다, 위태롭게 하다"
+  },
+  {
+    "day": 39,
+    "no": 24,
+    "english": "endure",
+    "korean": "참다, 견디다, 지속되다"
+  },
+  {
+    "day": 39,
+    "no": 25,
+    "english": "enlighten",
+    "korean": "계몽하다, (설명하여) 이해시키다"
+  },
+  {
+    "day": 39,
+    "no": 26,
+    "english": "encounter",
+    "korean": "(우연히) 마주치다, (위험에) 부닥치다, (우연한) 만남"
+  },
+  {
+    "day": 39,
+    "no": 27,
+    "english": "enclose",
+    "korean": "둘러싸다, 동봉하다"
+  },
+  {
+    "day": 39,
+    "no": 28,
+    "english": "enroll",
+    "korean": "등록하다, 입학[입회]하 다"
+  },
+  {
+    "day": 39,
+    "no": 29,
+    "english": "external",
+    "korean": "외부의, 밖의"
+  },
+  {
+    "day": 39,
+    "no": 30,
+    "english": "examine",
+    "korean": "조사[검토]하다, 검사[진찰]하다"
+  },
+  {
+    "day": 40,
+    "no": 1,
+    "english": "immerse",
+    "korean": "담그다, 몰두하다, 몰두시키다"
+  },
+  {
+    "day": 40,
+    "no": 2,
+    "english": "collapse",
+    "korean": "붕괴되다, 무너지다, 쓰러지다, 붕괴, 실패"
+  },
+  {
+    "day": 40,
+    "no": 3,
+    "english": "penalty",
+    "korean": "형벌, 벌금"
+  },
+  {
+    "day": 40,
+    "no": 4,
+    "english": "repetitive",
+    "korean": "반복적인, 되풀이하는"
+  },
+  {
+    "day": 40,
+    "no": 5,
+    "english": "leap",
+    "korean": "껑충 뛰다, 도약하다, 급증[급등]하 다, 뜀, 도약, 급증, 급등"
+  },
+  {
+    "day": 40,
+    "no": 6,
+    "english": "disposition",
+    "korean": "기질, 성향, 배열, 배치"
+  },
+  {
+    "day": 40,
+    "no": 7,
+    "english": "furnish",
+    "korean": "(가구를) 비치하다, 제공[공급]하 다"
+  },
+  {
+    "day": 40,
+    "no": 8,
+    "english": "originality",
+    "korean": "독창성"
+  },
+  {
+    "day": 40,
+    "no": 9,
+    "english": "strengthen",
+    "korean": "강화하다, 강화되다"
+  },
+  {
+    "day": 40,
+    "no": 10,
+    "english": "infrastructure",
+    "korean": "사회[공공] 기반 시설"
+  },
+  {
+    "day": 40,
+    "no": 11,
+    "english": "gigantic",
+    "korean": "거대한"
+  },
+  {
+    "day": 40,
+    "no": 12,
+    "english": "breakthrough",
+    "korean": "획기적인 발견[진전], 돌파구"
+  },
+  {
+    "day": 40,
+    "no": 13,
+    "english": "cuisine",
+    "korean": "(특별한) 요리(법)"
+  },
+  {
+    "day": 40,
+    "no": 14,
+    "english": "spatial",
+    "korean": "공간의, 공간적인"
+  },
+  {
+    "day": 40,
+    "no": 15,
+    "english": "exert",
+    "korean": "(힘,영향력 등을) 행사[발휘]하다"
+  },
+  {
+    "day": 40,
+    "no": 16,
+    "english": "sheer",
+    "korean": "순전한, 완전한, 몹시 가파른"
+  },
+  {
+    "day": 40,
+    "no": 17,
+    "english": "forbid",
+    "korean": "금지하다, 못하게 하다, 허락하지 않다"
+  },
+  {
+    "day": 40,
+    "no": 18,
+    "english": "budget",
+    "korean": "예산, 예산을 세우다"
+  },
+  {
+    "day": 40,
+    "no": 19,
+    "english": "wound",
+    "korean": "상처, 부상, 상처를 입히 다"
+  },
+  {
+    "day": 40,
+    "no": 20,
+    "english": "depict",
+    "korean": "(그림, 말 등으로) 그리 다, 묘사하다"
+  },
+  {
+    "day": 40,
+    "no": 21,
+    "english": "protest",
+    "korean": "항의, 반대, 시위, 항의 [반대]하다"
+  },
+  {
+    "day": 40,
+    "no": 22,
+    "english": "pioneer",
+    "korean": "개척자, 선구자, 개척하 다"
+  },
+  {
+    "day": 40,
+    "no": 23,
+    "english": "outdated",
+    "korean": "구식의, 시대에 뒤떨어진"
+  },
+  {
+    "day": 40,
+    "no": 24,
+    "english": "venture",
+    "korean": "모험, (위험을 무릅쓰고) 가다, 감히 ~하다"
+  },
+  {
+    "day": 40,
+    "no": 25,
+    "english": "drawback",
+    "korean": "결점, 단점, 문제점"
+  },
+  {
+    "day": 40,
+    "no": 26,
+    "english": "equality",
+    "korean": "평등, 균등, 등식"
+  },
+  {
+    "day": 40,
+    "no": 27,
+    "english": "lean",
+    "korean": "기대다, 기울이다, 기울다, 마른, 야윈"
+  },
+  {
+    "day": 40,
+    "no": 28,
+    "english": "emergency",
+    "korean": "비상(사태), 응급(상황)"
+  },
+  {
+    "day": 40,
+    "no": 29,
+    "english": "flee",
+    "korean": "달아나다, 도망가다, 피하다"
+  },
+  {
+    "day": 40,
+    "no": 30,
+    "english": "discrete",
+    "korean": "별개의, 분리된"
+  },
+  {
+    "day": 41,
+    "no": 1,
+    "english": "ambiguity",
+    "korean": "모호함, 애매함"
+  },
+  {
+    "day": 41,
+    "no": 2,
+    "english": "ongoing",
+    "korean": "계속되는, 진행 중인"
+  },
+  {
+    "day": 41,
+    "no": 3,
+    "english": "spontaneous",
+    "korean": "자발적인, 즉흥적인, 자연스러운"
+  },
+  {
+    "day": 41,
+    "no": 4,
+    "english": "excel",
+    "korean": "뛰어나다, 탁월하다"
+  },
+  {
+    "day": 41,
+    "no": 5,
+    "english": "prone",
+    "korean": "~하기 쉬운, ~의 경향이 있는"
+  },
+  {
+    "day": 41,
+    "no": 6,
+    "english": "halt",
+    "korean": "정지, 멈춤, 멈추다, 정지시키다"
+  },
+  {
+    "day": 41,
+    "no": 7,
+    "english": "crude",
+    "korean": "천연 그대로의, 가공하지 않은, 조잡한"
+  },
+  {
+    "day": 41,
+    "no": 8,
+    "english": "lifespan",
+    "korean": "수명"
+  },
+  {
+    "day": 41,
+    "no": 9,
+    "english": "dilemma",
+    "korean": "딜레마, 진퇴양난, 궁지"
+  },
+  {
+    "day": 41,
+    "no": 10,
+    "english": "integral",
+    "korean": "없어서는 안 될, 필수의"
+  },
+  {
+    "day": 41,
+    "no": 11,
+    "english": "legitimate",
+    "korean": "합법적인, 타당한, 정당한"
+  },
+  {
+    "day": 41,
+    "no": 12,
+    "english": "equate",
+    "korean": "동일시하다"
+  },
+  {
+    "day": 41,
+    "no": 13,
+    "english": "seldom",
+    "korean": "드물게, 거의~않는"
+  },
+  {
+    "day": 41,
+    "no": 14,
+    "english": "tease",
+    "korean": "괴롭히다, 놀리다"
+  },
+  {
+    "day": 41,
+    "no": 15,
+    "english": "recharge",
+    "korean": "(배터리 등을) 충전하다, (에너지 등을) 재충전하다"
+  },
+  {
+    "day": 41,
+    "no": 16,
+    "english": "reproduce",
+    "korean": "재생[재현]하다, 복사[복 제]하다, 번식하다"
+  },
+  {
+    "day": 41,
+    "no": 17,
+    "english": "reform",
+    "korean": "개혁[개선]하다, 개혁, 개선"
+  },
+  {
+    "day": 41,
+    "no": 18,
+    "english": "revolution",
+    "korean": "혁명, 변혁, 공전, 회전"
+  },
+  {
+    "day": 41,
+    "no": 19,
+    "english": "remain",
+    "korean": "여전히 ~이다, 남다"
+  },
+  {
+    "day": 41,
+    "no": 20,
+    "english": "abuse",
+    "korean": "남용하다, 학대하다, 남용, 학대"
+  },
+  {
+    "day": 41,
+    "no": 21,
+    "english": "abnormal",
+    "korean": "이상한, 비정상적인"
+  },
+  {
+    "day": 41,
+    "no": 22,
+    "english": "advocate",
+    "korean": "옹호[지지]하다, 옹호자, 지지자, 변호사"
+  },
+  {
+    "day": 41,
+    "no": 23,
+    "english": "accompany",
+    "korean": "동반[동행]하다, 수반하 다, [음악]반주하다"
+  },
+  {
+    "day": 41,
+    "no": 24,
+    "english": "accumulate",
+    "korean": "모으다[모이다], 축적하 다[되다]"
+  },
+  {
+    "day": 41,
+    "no": 25,
+    "english": "accustomed",
+    "korean": "익숙한, 익숙해진"
+  },
+  {
+    "day": 41,
+    "no": 26,
+    "english": "prolong",
+    "korean": "연장하다"
+  },
+  {
+    "day": 41,
+    "no": 27,
+    "english": "progress",
+    "korean": "진전, 진보"
+  },
+  {
+    "day": 41,
+    "no": 28,
+    "english": "propose",
+    "korean": "(계획,생각을) 제안하다, 청혼하다, 의도하다"
+  },
+  {
+    "day": 41,
+    "no": 29,
+    "english": "combat",
+    "korean": "전투, 싸움, 싸우다"
+  },
+  {
+    "day": 41,
+    "no": 30,
+    "english": "compromise",
+    "korean": "타협, 절충, 타협하다, 절 충하다"
+  },
+  {
+    "day": 42,
+    "no": 1,
+    "english": "extinct",
+    "korean": "멸종된, 사라진, (화산 등이) 활동을 멈춘"
+  },
+  {
+    "day": 42,
+    "no": 2,
+    "english": "exaggerate",
+    "korean": "과장하다"
+  },
+  {
+    "day": 42,
+    "no": 3,
+    "english": "exceed",
+    "korean": "넘다, 초과하다"
+  },
+  {
+    "day": 42,
+    "no": 4,
+    "english": "foresee",
+    "korean": "예견하다"
+  },
+  {
+    "day": 42,
+    "no": 5,
+    "english": "forecast",
+    "korean": "예보, 예측, 예보[예측]하다"
+  },
+  {
+    "day": 42,
+    "no": 6,
+    "english": "disorder",
+    "korean": "혼란, 무질서, (심신의) 이상, 장애"
+  },
+  {
+    "day": 42,
+    "no": 7,
+    "english": "dissolve",
+    "korean": "녹다[녹이다], 해산되다"
+  },
+  {
+    "day": 42,
+    "no": 8,
+    "english": "discourage",
+    "korean": "낙담시키다, (행동을) 막다[말리 다]"
+  },
+  {
+    "day": 42,
+    "no": 9,
+    "english": "dismiss",
+    "korean": "묵살하다, 해고하다, 해산시키다"
+  },
+  {
+    "day": 42,
+    "no": 10,
+    "english": "disposal",
+    "korean": "처리, 처분"
+  },
+  {
+    "day": 42,
+    "no": 11,
+    "english": "inevitable",
+    "korean": "불가피한"
+  },
+  {
+    "day": 42,
+    "no": 12,
+    "english": "incorrect",
+    "korean": "부정확한, 맞지 않은"
+  },
+  {
+    "day": 42,
+    "no": 13,
+    "english": "intact",
+    "korean": "온전한, 손상되지 않은"
+  },
+  {
+    "day": 42,
+    "no": 14,
+    "english": "invade",
+    "korean": "침략[침입]하다, 침해하다"
+  },
+  {
+    "day": 42,
+    "no": 15,
+    "english": "infect",
+    "korean": "감염시키다, (세균으로) 오염시키 다"
+  },
+  {
+    "day": 42,
+    "no": 16,
+    "english": "insight",
+    "korean": "통찰(력)"
+  },
+  {
+    "day": 42,
+    "no": 17,
+    "english": "innate",
+    "korean": "타고난, 선천적인"
+  },
+  {
+    "day": 42,
+    "no": 18,
+    "english": "intake",
+    "korean": "섭취(량), 흡입(량)"
+  },
+  {
+    "day": 42,
+    "no": 19,
+    "english": "insult",
+    "korean": "모욕하다, 모욕"
+  },
+  {
+    "day": 42,
+    "no": 20,
+    "english": "instinct",
+    "korean": "본능, 직감"
+  },
+  {
+    "day": 42,
+    "no": 21,
+    "english": "interpret",
+    "korean": "해석[이해]하다, 통역하 다"
+  },
+  {
+    "day": 42,
+    "no": 22,
+    "english": "interval",
+    "korean": "간격, 사이, 중간 휴식 시 간"
+  },
+  {
+    "day": 42,
+    "no": 23,
+    "english": "interfere",
+    "korean": "((in)) 간섭하다, ((with)) 방해하다"
+  },
+  {
+    "day": 42,
+    "no": 24,
+    "english": "interaction",
+    "korean": "상호 작용"
+  },
+  {
+    "day": 42,
+    "no": 25,
+    "english": "interchange",
+    "korean": "교환, (고속도로의) 교차 점, 분기점, 교환하다"
+  },
+  {
+    "day": 42,
+    "no": 26,
+    "english": "subconscious",
+    "korean": "잠재의식적인, 잠재의식"
+  },
+  {
+    "day": 42,
+    "no": 27,
+    "english": "subordinate",
+    "korean": "하위의, 부차적인, 하급자, 하위에 두다"
+  },
+  {
+    "day": 42,
+    "no": 28,
+    "english": "subscribe",
+    "korean": "구독[가입]하다, 서명하 다"
+  },
+  {
+    "day": 42,
+    "no": 29,
+    "english": "suppress",
+    "korean": "진압하다, 억제하다, 참다"
+  },
+  {
+    "day": 42,
+    "no": 30,
+    "english": "superb",
+    "korean": "최고[최상]의, 훌륭한"
+  },
+  {
+    "day": 43,
+    "no": 1,
+    "english": "superficial",
+    "korean": "피상적인, 깊이 없는, 표면상의, 외면의"
+  },
+  {
+    "day": 43,
+    "no": 2,
+    "english": "supreme",
+    "korean": "최고의, 최상의"
+  },
+  {
+    "day": 43,
+    "no": 3,
+    "english": "sovereign",
+    "korean": "주권이 있는, 자주적인, 최고 권력의, 군주"
+  },
+  {
+    "day": 43,
+    "no": 4,
+    "english": "surpass",
+    "korean": "능가하다, 뛰어넘다"
+  },
+  {
+    "day": 43,
+    "no": 5,
+    "english": "outcome",
+    "korean": "결과, 성과"
+  },
+  {
+    "day": 43,
+    "no": 6,
+    "english": "outgoing",
+    "korean": "외향적인, 사교적인"
+  },
+  {
+    "day": 43,
+    "no": 7,
+    "english": "outlet",
+    "korean": "배출구, 표현 수단, 직판점, 콘센트"
+  },
+  {
+    "day": 43,
+    "no": 8,
+    "english": "outline",
+    "korean": "개요, 윤곽, 개요를 서술하다, 윤곽을 나타내다"
+  },
+  {
+    "day": 43,
+    "no": 9,
+    "english": "outlook",
+    "korean": "전망, 관점, 견해, 경치"
+  },
+  {
+    "day": 43,
+    "no": 10,
+    "english": "outstanding",
+    "korean": "뛰어난, 두드러진"
+  },
+  {
+    "day": 43,
+    "no": 11,
+    "english": "outdo",
+    "korean": "(~보다) 뛰어나다, 능가하다"
+  },
+  {
+    "day": 43,
+    "no": 12,
+    "english": "outweigh",
+    "korean": "(~보다) 더 크다, 중대하다"
+  },
+  {
+    "day": 43,
+    "no": 13,
+    "english": "utter",
+    "korean": "(입 밖에) 내다, 말하다, 완전한"
+  },
+  {
+    "day": 43,
+    "no": 14,
+    "english": "overlook",
+    "korean": "간과하다, 눈감아주다, 내려다보다"
+  },
+  {
+    "day": 43,
+    "no": 15,
+    "english": "overflow",
+    "korean": "넘치다, 범람하다, 넘침, 범람"
+  },
+  {
+    "day": 43,
+    "no": 16,
+    "english": "overtake",
+    "korean": "앞지르다, 능가하다, (불행 등이) 덮치다"
+  },
+  {
+    "day": 43,
+    "no": 17,
+    "english": "overwhelm",
+    "korean": "압도하다, 제압하다, 어쩔 줄 모르게 하다"
+  },
+  {
+    "day": 43,
+    "no": 18,
+    "english": "perish",
+    "korean": "죽다, 소멸하다"
+  },
+  {
+    "day": 43,
+    "no": 19,
+    "english": "persist",
+    "korean": "고집하다, 지속되다"
+  },
+  {
+    "day": 43,
+    "no": 20,
+    "english": "persuade",
+    "korean": "설득하다, 납득시키다"
+  },
+  {
+    "day": 43,
+    "no": 21,
+    "english": "postpone",
+    "korean": "연기하다, 미루다"
+  },
+  {
+    "day": 43,
+    "no": 22,
+    "english": "prevail",
+    "korean": "이기다, 우세하다, 만연 [유행]하다"
+  },
+  {
+    "day": 43,
+    "no": 23,
+    "english": "preoccupied",
+    "korean": "(어떤 생각에) 사로잡힌, 정신이 팔린"
+  },
+  {
+    "day": 43,
+    "no": 24,
+    "english": "premature",
+    "korean": "너무 이른, 시기상조의, 조산의"
+  },
+  {
+    "day": 43,
+    "no": 25,
+    "english": "magnitude",
+    "korean": "(엄청난) 중요도, 거대함, (지진의) 규모"
+  },
+  {
+    "day": 43,
+    "no": 26,
+    "english": "masterpiece",
+    "korean": "걸작, 명작"
+  },
+  {
+    "day": 43,
+    "no": 27,
+    "english": "majestic",
+    "korean": "위엄 있는, 장엄한"
+  },
+  {
+    "day": 43,
+    "no": 28,
+    "english": "transform",
+    "korean": "변형시키다, 변화시키다"
+  },
+  {
+    "day": 43,
+    "no": 29,
+    "english": "transmit",
+    "korean": "전송[전달]하다, 전염시 키다, (열,전기 등을) 전 도하다"
+  },
+  {
+    "day": 43,
+    "no": 30,
+    "english": "transaction",
+    "korean": "거래, 매매"
+  },
+  {
+    "day": 44,
+    "no": 1,
+    "english": "sympathetic",
+    "korean": "동정하는, 호의적인, 공감하는"
+  },
+  {
+    "day": 44,
+    "no": 2,
+    "english": "synonym",
+    "korean": "동의어, 유의어"
+  },
+  {
+    "day": 44,
+    "no": 3,
+    "english": "synchronize",
+    "korean": "동시에 발생하다, 동시에 움직이다"
+  },
+  {
+    "day": 44,
+    "no": 4,
+    "english": "synthetic",
+    "korean": "합성의, 인조의"
+  },
+  {
+    "day": 44,
+    "no": 5,
+    "english": "underestimate",
+    "korean": "과소평가하다, (값을) 너무 적게 잡 다"
+  },
+  {
+    "day": 44,
+    "no": 6,
+    "english": "underlying",
+    "korean": "근본적인, 밑에 있는"
+  },
+  {
+    "day": 44,
+    "no": 7,
+    "english": "undergo",
+    "korean": "겪다, 경험하다"
+  },
+  {
+    "day": 44,
+    "no": 8,
+    "english": "undertake",
+    "korean": "착수하다, 맡다, 약속하다"
+  },
+  {
+    "day": 44,
+    "no": 9,
+    "english": "upcoming",
+    "korean": "다가오는, 곧 있을"
+  },
+  {
+    "day": 44,
+    "no": 10,
+    "english": "uphold",
+    "korean": "(법, 원칙 등을) 지지하다, 옹호하다"
+  },
+  {
+    "day": 44,
+    "no": 11,
+    "english": "upright",
+    "korean": "똑바른, 올곧은, 똑바로, 수직으로"
+  },
+  {
+    "day": 44,
+    "no": 12,
+    "english": "upgrade",
+    "korean": "향상[개선]하다, 향상, 개선"
+  },
+  {
+    "day": 44,
+    "no": 13,
+    "english": "agent",
+    "korean": "대리인[점], 중개인, 행위자"
+  },
+  {
+    "day": 44,
+    "no": 14,
+    "english": "agony",
+    "korean": "극도의 고통[괴로움]"
+  },
+  {
+    "day": 44,
+    "no": 15,
+    "english": "react",
+    "korean": "반응하다, (거부) 반응을 보이다, 반작용하다"
+  },
+  {
+    "day": 44,
+    "no": 16,
+    "english": "navigate",
+    "korean": "길을 찾다, 항해[비행]하다, (어려운 상황을) 다루다"
+  },
+  {
+    "day": 44,
+    "no": 17,
+    "english": "strict",
+    "korean": "엄격한, 엄한, 엄밀한"
+  },
+  {
+    "day": 44,
+    "no": 18,
+    "english": "distress",
+    "korean": "고통, 고뇌, 곤경, 괴롭히 다, 근심하게 하다"
+  },
+  {
+    "day": 44,
+    "no": 19,
+    "english": "prestige",
+    "korean": "명성, 신망"
+  },
+  {
+    "day": 44,
+    "no": 20,
+    "english": "strain",
+    "korean": "부담, 압박, 염좌, (근육 등을) 혹사하다"
+  },
+  {
+    "day": 44,
+    "no": 21,
+    "english": "vertical",
+    "korean": "수직의, 세로의"
+  },
+  {
+    "day": 44,
+    "no": 22,
+    "english": "convert",
+    "korean": "전환하다, 개조하다"
+  },
+  {
+    "day": 44,
+    "no": 23,
+    "english": "converse",
+    "korean": "((the~)) 정반대, 거꾸로 된, 반대의, 대화하다"
+  },
+  {
+    "day": 44,
+    "no": 24,
+    "english": "diverse",
+    "korean": "다양한, 가지각색의"
+  },
+  {
+    "day": 44,
+    "no": 25,
+    "english": "reverse",
+    "korean": "뒤집다, 뒤바뀌다, ((the~)) 반대, 뒤(쪽), 반 대의"
+  },
+  {
+    "day": 44,
+    "no": 26,
+    "english": "vanish",
+    "korean": "사라지다"
+  },
+  {
+    "day": 44,
+    "no": 27,
+    "english": "vacant",
+    "korean": "비어있는, 빈자리의"
+  },
+  {
+    "day": 44,
+    "no": 28,
+    "english": "vacuum",
+    "korean": "진공, 공백, 진공청소기로 청소하다"
+  },
+  {
+    "day": 44,
+    "no": 29,
+    "english": "vain",
+    "korean": "헛된, 소용없는, 허영심이 강한"
+  },
+  {
+    "day": 44,
+    "no": 30,
+    "english": "worsen",
+    "korean": "악화되다, 악화시키다"
+  },
+  {
+    "day": 45,
+    "no": 1,
+    "english": "broaden",
+    "korean": "넓어지다, 넓히다"
+  },
+  {
+    "day": 45,
+    "no": 2,
+    "english": "fasten",
+    "korean": "매다, 묶다, 고정시키다"
+  },
+  {
+    "day": 45,
+    "no": 3,
+    "english": "hasten",
+    "korean": "서둘러 ~하다, 재촉하다"
+  },
+  {
+    "day": 45,
+    "no": 4,
+    "english": "dispensable",
+    "korean": "없어도 되는, 불필요한"
+  },
+  {
+    "day": 45,
+    "no": 5,
+    "english": "durable",
+    "korean": "내구성이 있는, 오래가는, 튼튼한"
+  },
+  {
+    "day": 45,
+    "no": 6,
+    "english": "credible",
+    "korean": "믿을 수 있는"
+  },
+  {
+    "day": 45,
+    "no": 7,
+    "english": "divisible",
+    "korean": "나눌 수 있는"
+  },
+  {
+    "day": 45,
+    "no": 8,
+    "english": "audible",
+    "korean": "잘 들리는, 들을 수 있는"
+  },
+  {
+    "day": 45,
+    "no": 9,
+    "english": "edible",
+    "korean": "먹을 수 있는, 식용의"
+  },
+  {
+    "day": 45,
+    "no": 10,
+    "english": "eligible",
+    "korean": "자격이 있는, 적격의"
+  },
+  {
+    "day": 45,
+    "no": 11,
+    "english": "tangible",
+    "korean": "만질 수 있는, 실체가 있는"
+  },
+  {
+    "day": 45,
+    "no": 12,
+    "english": "bilingual",
+    "korean": "2개 국어를 구사할 수 있는, 2개 국어 구사자"
+  },
+  {
+    "day": 45,
+    "no": 13,
+    "english": "duplicate",
+    "korean": "복사[복제]하다, 되풀이하다, 사본, 복제품, 똑같은"
+  },
+  {
+    "day": 45,
+    "no": 14,
+    "english": "twilight",
+    "korean": "황혼, 땅거미, 쇠퇴기, 황혼기"
+  },
+  {
+    "day": 45,
+    "no": 15,
+    "english": "trivial",
+    "korean": "사소한, 하찮은"
+  },
+  {
+    "day": 45,
+    "no": 16,
+    "english": "tribe",
+    "korean": "부족, 종족"
+  },
+  {
+    "day": 45,
+    "no": 17,
+    "english": "deduce",
+    "korean": "추론[추정]하다, 연역하 다"
+  },
+  {
+    "day": 45,
+    "no": 18,
+    "english": "educate",
+    "korean": "교육하다, 가르치다"
+  },
+  {
+    "day": 45,
+    "no": 19,
+    "english": "conduct",
+    "korean": "수행[실시]하다, 지휘하다, 안내하다, 처신하다, 행동, 수행"
+  },
+  {
+    "day": 45,
+    "no": 20,
+    "english": "deduct",
+    "korean": "빼다, 공제하다"
+  },
+  {
+    "day": 45,
+    "no": 21,
+    "english": "prosper",
+    "korean": "번영하다, 번창하다"
+  },
+  {
+    "day": 45,
+    "no": 22,
+    "english": "despair",
+    "korean": "절망, 낙담, 절망[체념]하 다"
+  },
+  {
+    "day": 45,
+    "no": 23,
+    "english": "entertain",
+    "korean": "즐겁게 하다, 접대하다, (생각,감정을) 품다"
+  },
+  {
+    "day": 45,
+    "no": 24,
+    "english": "sustain",
+    "korean": "지속[유지]하다, 지탱하 다, (피해 등을) 입다"
+  },
+  {
+    "day": 45,
+    "no": 25,
+    "english": "retain",
+    "korean": "보유[유지]하다, (정보 등을) 기억하다"
+  },
+  {
+    "day": 45,
+    "no": 26,
+    "english": "attain",
+    "korean": "달성하다, 이루다, (특정 수준 등에) 도달하다"
+  },
+  {
+    "day": 45,
+    "no": 27,
+    "english": "integrate",
+    "korean": "통합하다, 통합되다"
+  },
+  {
+    "day": 45,
+    "no": 28,
+    "english": "retail",
+    "korean": "소매, 소매하다"
+  },
+  {
+    "day": 45,
+    "no": 29,
+    "english": "withdraw",
+    "korean": "철수하다, 취소[철회]하 다, 인출하다"
+  },
+  {
+    "day": 45,
+    "no": 30,
+    "english": "withhold",
+    "korean": "주지 않다, 보류하다"
+  },
+  {
+    "day": 46,
+    "no": 1,
+    "english": "withstand",
+    "korean": "견디다, 버티다"
+  },
+  {
+    "day": 46,
+    "no": 2,
+    "english": "abolish",
+    "korean": "폐지하다, 없애다"
+  },
+  {
+    "day": 46,
+    "no": 3,
+    "english": "adolescent",
+    "korean": "청소년, 청소년기의"
+  },
+  {
+    "day": 46,
+    "no": 4,
+    "english": "discern",
+    "korean": "알아차리다, 식별[분간]하다"
+  },
+  {
+    "day": 46,
+    "no": 5,
+    "english": "criticize",
+    "korean": "비판[비난]하다, 비평하다"
+  },
+  {
+    "day": 46,
+    "no": 6,
+    "english": "discriminate",
+    "korean": "차별하다, 구별[식별]하다"
+  },
+  {
+    "day": 46,
+    "no": 7,
+    "english": "biology",
+    "korean": "생물학"
+  },
+  {
+    "day": 46,
+    "no": 8,
+    "english": "resign",
+    "korean": "사임하다, 사직하다"
+  },
+  {
+    "day": 46,
+    "no": 9,
+    "english": "significant",
+    "korean": "중요한, 의미있는"
+  },
+  {
+    "day": 46,
+    "no": 10,
+    "english": "capable",
+    "korean": "~할 수 있는, 유능한"
+  },
+  {
+    "day": 46,
+    "no": 11,
+    "english": "captive",
+    "korean": "(포로 등으로) 사로잡힌, 억류된, 포로"
+  },
+  {
+    "day": 46,
+    "no": 12,
+    "english": "conceive",
+    "korean": "생각해 내다, 상상하다"
+  },
+  {
+    "day": 46,
+    "no": 13,
+    "english": "deceive",
+    "korean": "속이다, 기만하다"
+  },
+  {
+    "day": 46,
+    "no": 14,
+    "english": "alter",
+    "korean": "바꾸다, 변하다"
+  },
+  {
+    "day": 46,
+    "no": 15,
+    "english": "alien",
+    "korean": "외국(인)의, 이질적인, 외계의, 외국의, 외계인"
+  },
+  {
+    "day": 46,
+    "no": 16,
+    "english": "recede",
+    "korean": "물러나다, 멀어지다, 약해지다"
+  },
+  {
+    "day": 46,
+    "no": 17,
+    "english": "precede",
+    "korean": "(~보다) 앞서다, 선행하 다"
+  },
+  {
+    "day": 46,
+    "no": 18,
+    "english": "cease",
+    "korean": "중단하다, 중단되다"
+  },
+  {
+    "day": 46,
+    "no": 19,
+    "english": "predecessor",
+    "korean": "전임자"
+  },
+  {
+    "day": 46,
+    "no": 20,
+    "english": "incident",
+    "korean": "사건, 일어난 일"
+  },
+  {
+    "day": 46,
+    "no": 21,
+    "english": "casual",
+    "korean": "무심한, 태평한, 평상시의, 우연한"
+  },
+  {
+    "day": 46,
+    "no": 22,
+    "english": "decay",
+    "korean": "부패, 부식, 쇠퇴, 썩다, 부패하다, 쇠퇴하다"
+  },
+  {
+    "day": 46,
+    "no": 23,
+    "english": "sole",
+    "korean": "유일한, 단독의"
+  },
+  {
+    "day": 46,
+    "no": 24,
+    "english": "solitary",
+    "korean": "혼자 하는, 고립된, 외딴"
+  },
+  {
+    "day": 46,
+    "no": 25,
+    "english": "resolve",
+    "korean": "해결하다, 결심하다, 결심, 결의"
+  },
+  {
+    "day": 46,
+    "no": 26,
+    "english": "sophisticated",
+    "korean": "세련된, 교양 있는, 정교 한"
+  },
+  {
+    "day": 46,
+    "no": 27,
+    "english": "circulate",
+    "korean": "순환하다[시키다], 유포되다[하다]"
+  },
+  {
+    "day": 46,
+    "no": 28,
+    "english": "circuit",
+    "korean": "순환, 순회, (전기) 회로"
+  },
+  {
+    "day": 46,
+    "no": 29,
+    "english": "cite",
+    "korean": "인용하다, (이유,예를) 들 다, 언급하다"
+  },
+  {
+    "day": 46,
+    "no": 30,
+    "english": "recite",
+    "korean": "암송하다, 낭독하다"
+  },
+  {
+    "day": 47,
+    "no": 1,
+    "english": "civil",
+    "korean": "시민의, 민간(인)의, [법률] 민사의"
+  },
+  {
+    "day": 47,
+    "no": 2,
+    "english": "civilize",
+    "korean": "문명화하다"
+  },
+  {
+    "day": 47,
+    "no": 3,
+    "english": "claim",
+    "korean": "주장하다, (권리 등을) 요구하다, 주장, 요구[청구]"
+  },
+  {
+    "day": 47,
+    "no": 4,
+    "english": "exclaim",
+    "korean": "외치다, 소리치다"
+  },
+  {
+    "day": 47,
+    "no": 5,
+    "english": "cognitive",
+    "korean": "인식의, 인지의"
+  },
+  {
+    "day": 47,
+    "no": 6,
+    "english": "acquaintance",
+    "korean": "아는 사람, 지인, 친분"
+  },
+  {
+    "day": 47,
+    "no": 7,
+    "english": "accord",
+    "korean": "(의견의) 일치, 합의, ((with)) 일치 하다, (권위 등을) 부여하다"
+  },
+  {
+    "day": 47,
+    "no": 8,
+    "english": "core",
+    "korean": "핵심, 중심부, 핵심의, 가장 중요한"
+  },
+  {
+    "day": 47,
+    "no": 9,
+    "english": "recreate",
+    "korean": "되살리다, 재현하다"
+  },
+  {
+    "day": 47,
+    "no": 10,
+    "english": "concrete",
+    "korean": "구체적인, 콘크리트로 된, 콘크리트"
+  },
+  {
+    "day": 47,
+    "no": 11,
+    "english": "recruit",
+    "korean": "(신입 사원, 신병 등을) 모집하다, 신입 사원, 신병"
+  },
+  {
+    "day": 47,
+    "no": 12,
+    "english": "fatal",
+    "korean": "치명적인, 중대한"
+  },
+  {
+    "day": 47,
+    "no": 13,
+    "english": "infancy",
+    "korean": "유아기, 초기(단계)"
+  },
+  {
+    "day": 47,
+    "no": 14,
+    "english": "profess",
+    "korean": "공언하다, (사실이 아닌 것을) 주장하다"
+  },
+  {
+    "day": 47,
+    "no": 15,
+    "english": "render",
+    "korean": "(~한 상태로) 만들다, (도움 등을) 제공하다"
+  },
+  {
+    "day": 47,
+    "no": 16,
+    "english": "surrender",
+    "korean": "항복하다, (권리 등을) 넘겨주다, 항복, 굴복"
+  },
+  {
+    "day": 47,
+    "no": 17,
+    "english": "assure",
+    "korean": "보증하다, 장담하다, 확실하게 하다"
+  },
+  {
+    "day": 47,
+    "no": 18,
+    "english": "ensure",
+    "korean": "반드시 ~하게 하다, 보장하다"
+  },
+  {
+    "day": 47,
+    "no": 19,
+    "english": "insure",
+    "korean": "보험에 들다"
+  },
+  {
+    "day": 47,
+    "no": 20,
+    "english": "contradict",
+    "korean": "반박[부정]하다, 모순되 다"
+  },
+  {
+    "day": 47,
+    "no": 21,
+    "english": "dictate",
+    "korean": "받아쓰게 하다, 명령[지 시]하다, 영향을 주다"
+  },
+  {
+    "day": 47,
+    "no": 22,
+    "english": "presume",
+    "korean": "가정하다, 추정하다"
+  },
+  {
+    "day": 47,
+    "no": 23,
+    "english": "resume",
+    "korean": "다시 시작하다[되다]"
+  },
+  {
+    "day": 47,
+    "no": 24,
+    "english": "attract",
+    "korean": "(주의,관심 등을) 끌다, 매료시키다"
+  },
+  {
+    "day": 47,
+    "no": 25,
+    "english": "distract",
+    "korean": "(주의, 집중 등을) 산만하 게 하다, 전환시키다"
+  },
+  {
+    "day": 47,
+    "no": 26,
+    "english": "abstract",
+    "korean": "추상적인, 추상(개념), 요 약, 추출하다, 요약하다"
+  },
+  {
+    "day": 47,
+    "no": 27,
+    "english": "extract",
+    "korean": "뽑다, 추출하다, 발췌하다, 발췌, 추출물"
+  },
+  {
+    "day": 47,
+    "no": 28,
+    "english": "trail",
+    "korean": "오솔길, 자국, 흔적, (질질) 끌다[끌리다], 추적하다"
+  },
+  {
+    "day": 47,
+    "no": 29,
+    "english": "trace",
+    "korean": "자취, 흔적, (원인 등을) 추적하다, 밝혀내다"
+  },
+  {
+    "day": 47,
+    "no": 30,
+    "english": "fiction",
+    "korean": "소설, 꾸며낸 이야기, 허구"
+  },
+  {
+    "day": 48,
+    "no": 1,
+    "english": "proficient",
+    "korean": "능숙한, 숙달된"
+  },
+  {
+    "day": 48,
+    "no": 2,
+    "english": "sufficient",
+    "korean": "충분한"
+  },
+  {
+    "day": 48,
+    "no": 3,
+    "english": "defect",
+    "korean": "결점, 결함"
+  },
+  {
+    "day": 48,
+    "no": 4,
+    "english": "qualify",
+    "korean": "자격[권한]을 주다[얻다]"
+  },
+  {
+    "day": 48,
+    "no": 5,
+    "english": "cultivate",
+    "korean": "경작[재배]하다, (능력 등을) 양성[계발]하다"
+  },
+  {
+    "day": 48,
+    "no": 6,
+    "english": "agriculture",
+    "korean": "농업, 농사"
+  },
+  {
+    "day": 48,
+    "no": 7,
+    "english": "colony",
+    "korean": "식민지, 집단, 군집"
+  },
+  {
+    "day": 48,
+    "no": 8,
+    "english": "conflict",
+    "korean": "갈등, 충돌, 충돌[상충]하다"
+  },
+  {
+    "day": 48,
+    "no": 9,
+    "english": "inflict",
+    "korean": "(고통, 타격 등을) 가하다, (벌 등을) 주다"
+  },
+  {
+    "day": 48,
+    "no": 10,
+    "english": "fort",
+    "korean": "요새, 보루"
+  },
+  {
+    "day": 48,
+    "no": 11,
+    "english": "force",
+    "korean": "힘, 영향력, 강요하다"
+  },
+  {
+    "day": 48,
+    "no": 12,
+    "english": "reinforce",
+    "korean": "강화하다, 보강하다"
+  },
+  {
+    "day": 48,
+    "no": 13,
+    "english": "experiment",
+    "korean": "실험, 시험, 실험하다, 시험하다"
+  },
+  {
+    "day": 48,
+    "no": 14,
+    "english": "debate",
+    "korean": "논쟁, 토론, 논쟁하다, 토론하다"
+  },
+  {
+    "day": 48,
+    "no": 15,
+    "english": "accurate",
+    "korean": "정확한, 정밀한"
+  },
+  {
+    "day": 48,
+    "no": 16,
+    "english": "cooperate",
+    "korean": "협력하다, 협동하다"
+  },
+  {
+    "day": 48,
+    "no": 17,
+    "english": "eventually",
+    "korean": "결국, 마침내"
+  },
+  {
+    "day": 48,
+    "no": 18,
+    "english": "widespread",
+    "korean": "광범위한, 널리 퍼진"
+  },
+  {
+    "day": 48,
+    "no": 19,
+    "english": "recognize",
+    "korean": "알아보다, 인지하다, 인정하다"
+  },
+  {
+    "day": 48,
+    "no": 20,
+    "english": "deny",
+    "korean": "부정[부인]하다, 거절하 다"
+  },
+  {
+    "day": 48,
+    "no": 21,
+    "english": "charity",
+    "korean": "자선[구호]단체, 자선(행위), 관용"
+  },
+  {
+    "day": 48,
+    "no": 22,
+    "english": "encourage",
+    "korean": "용기를 북돋우다, 장려하다, 조장하다"
+  },
+  {
+    "day": 48,
+    "no": 23,
+    "english": "typical",
+    "korean": "전형적인, 대표적인, 보 통의"
+  },
+  {
+    "day": 48,
+    "no": 24,
+    "english": "ignore",
+    "korean": "무시하다, 못 본 척하다"
+  },
+  {
+    "day": 48,
+    "no": 25,
+    "english": "demand",
+    "korean": "요구하다, 필요로 하다, 요구, 수요(량)"
+  },
+  {
+    "day": 48,
+    "no": 26,
+    "english": "supply",
+    "korean": "공급하다, 공급(량), ((~ies)) 보급품"
+  },
+  {
+    "day": 48,
+    "no": 27,
+    "english": "migrate",
+    "korean": "이동하다, 이주하다"
+  },
+  {
+    "day": 48,
+    "no": 28,
+    "english": "virtual",
+    "korean": "사실상의, 실제의, 가상의"
+  },
+  {
+    "day": 48,
+    "no": 29,
+    "english": "stereotype",
+    "korean": "고정 관념"
+  },
+  {
+    "day": 48,
+    "no": 30,
+    "english": "concentrate",
+    "korean": "집중하다[시키다], 농축시키다"
+  }
+]

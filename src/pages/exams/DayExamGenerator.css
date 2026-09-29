@@ -271,4 +271,68 @@
     page-break-after: auto;
   }
 }
+/* 민트 테마: 화면의 선택·설정 영역에만 적용 */
+.day-exam-page {
+  background: #f1faf6;
+}
+
+.day-exam-controls {
+  border-color: #cfe7dc;
+  background: #ffffff;
+  color: #193d33;
+}
+
+.day-exam-controls .day-screen-header h1 {
+  color: #17694f;
+}
+
+.day-exam-controls .day-selector-button {
+  border-color: #cfe7dc;
+  color: #193d33;
+}
+
+.day-exam-controls .day-selector-button:hover {
+  border-color: #36a981;
+  background: #f5fcf8;
+}
+
+.day-exam-controls .day-selector-button.selected {
+  border-color: #36a981;
+  background: #def4e9;
+  color: #17694f;
+}
+
+.day-exam-controls .day-settings select:focus,
+.day-exam-controls .day-settings input:focus {
+  border-color: #36a981;
+  outline: 2px solid #def4e9;
+}
+
+.day-exam-controls .day-actions button {
+  border-color: #cfe7dc;
+  background: #ffffff;
+  color: #17694f;
+}
+
+.day-exam-controls .day-actions button:hover:not(:disabled) {
+  border-color: #36a981;
+  background: #def4e9;
+}
+
+.day-exam-controls .day-actions .day-primary-button {
+  border-color: #36a981;
+  background: #36a981;
+  color: #ffffff;
+}
+
+.day-exam-controls .day-actions .day-primary-button:hover:not(:disabled) {
+  border-color: #17694f;
+  background: #17694f;
+}
+
+.day-exam-controls .day-status {
+  border-left: 3px solid #36a981;
+  background: #def4e9;
+  color: #17694f;
+}
 

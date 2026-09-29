@@ -5,18 +5,68 @@ import './DayExamGenerator.css'
 const WORDS_PER_PAGE = 50
 const EXAM_TITLE = '고난도 단어 모음'
 
-const dayList = Array.isArray(dayWordsData.days)
-  ? dayWordsData.days
-      .map((day) => ({
-        ...day,
-        words: Array.isArray(day.words)
-          ? [...day.words].sort(
-              (a, b) => Number(a.no) - Number(b.no),
-            )
-          : [],
-      }))
-      .sort((a, b) => Number(a.day) - Number(b.day))
-  : []
+const DEFAULT_EXAM_TITLE = '고난도 단어 모음'
+
+function normalizeDayList(data) {
+  let days = []
+
+  // 수능 원본처럼 단어가 평면 배열인 형식
+  if (Array.isArray(data)) {
+    const groupedDays = new Map()
+
+    data.forEach((row) => {
+      const dayNumber = Number(row?.day)
+
+      if (!Number.isInteger(dayNumber)) {
+        return
+      }
+
+      if (!groupedDays.has(dayNumber)) {
+        groupedDays.set(dayNumber, {
+          day: dayNumber,
+          words: [],
+        })
+      }
+
+      const english = String(row?.english ?? '').trim()
+      const korean = String(row?.korean ?? '').trim()
+
+      // 영어 또는 뜻이 없는 행은 시험지 자료에서 제외
+      if (!english || !korean) {
+        return
+      }
+
+      groupedDays.get(dayNumber).words.push({
+        no: Number(row.no),
+        english,
+        korean,
+      })
+    })
+
+    days = Array.from(groupedDays.values())
+  }
+
+  // 기존 고난도 자료처럼 days 배열 안에 words가 있는 형식
+  else if (Array.isArray(data?.days)) {
+    days = data.days
+  } else {
+    return []
+  }
+
+  return days
+    .map((day) => ({
+      ...day,
+      day: Number(day.day),
+      words: (Array.isArray(day.words) ? day.words : [])
+        .filter(
+          (word) =>
+            String(word?.english ?? '').trim() &&
+            String(word?.korean ?? '').trim(),
+        )
+        .sort((a, b) => Number(a.no) - Number(b.no)),
+    }))
+    .sort((a, b) => Number(a.day) - Number(b.day))
+}
 
 function shuffle(items) {
   const result = [...items]
@@ -120,6 +170,7 @@ function QuestionColumn({
 }
 
 function DayPrintPage({
+  title,
   dayLabel,
   items,
   direction,
@@ -147,7 +198,7 @@ function DayPrintPage({
     <article className="day-print-page">
       <header className="day-print-header">
         <div>
-          <h2>{EXAM_TITLE}</h2>
+          <h2>{title}</h2>
           <p>
             {dayLabel} · {answerMode ? '정답지' : '시험지'} ·{' '}
             {directionLabel} · {orderLabel} · 총 {totalCount}문항 ·{' '}
@@ -180,14 +231,21 @@ function DayPrintPage({
       </div>
 
       <footer className="day-print-footer">
-        {EXAM_TITLE} · {dayLabel} ·{' '}
+        {title} · {dayLabel} ·{' '}
         {answerMode ? '정답지' : '시험지'}
       </footer>
     </article>
   )
 }
 
-function DayExamGenerator({ onBack }) {
+function DayExamGenerator({
+  onBack,
+  data = dayWordsData,
+  title = DEFAULT_EXAM_TITLE,
+}) {
+  const dayList = normalizeDayList(data)
+
+  // 아래에 있던 기존 상태와 기능은 그대로 둡니다.
   const [selectedDayNumbers, setSelectedDayNumbers] =
     useState([])
 
@@ -356,7 +414,7 @@ const handleGenerate = () => {
         </button>
 
         <header className="day-screen-header">
-          <h1>{EXAM_TITLE}</h1>
+          <h1>{title}</h1>
           <p>
             Day를 여러 개 선택할 수 있습니다.
             선택한 Day를 다시 누르면 선택이 해제됩니다.
@@ -493,6 +551,7 @@ const handleGenerate = () => {
           <>
             {pages.map((items, index) => (
               <DayPrintPage
+                title={title}
                 key={`test-${index}`}
                 dayLabel={selectedDayLabel}
                 items={items}
@@ -506,10 +565,12 @@ const handleGenerate = () => {
                 examDate={examDate}
               />
             ))}
+            
 
             {pages.map((items, index) => (
               <DayPrintPage
                 key={`answer-${index}`}
+                title={title}
                 dayLabel={selectedDayLabel}
                 items={items}
                 direction={direction}
@@ -522,6 +583,7 @@ const handleGenerate = () => {
                 examDate={examDate}
               />
             ))}
+          
           </>
         )}
       </section>

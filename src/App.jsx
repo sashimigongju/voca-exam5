@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import DayExamGenerator from './pages/exams/DayExamGenerator'
+import SuneungExamGenerator from './pages/exams/SuneungExamGenerator'
 import ExamCatalog from './components/ExamCatalog'
 import ExamControls from './components/ExamControls'
 import Middle3ExamGenerator from './components/Middle3ExamGenerator'
@@ -328,14 +329,24 @@ function App() {
     )
   }
   if (selectedExamId === 'day-voca') {
-  return (
-    <DayExamGenerator
-      onBack={handleBackToCatalog}
-    />
-  )
-}
+    return (
+      <DayExamGenerator
+        onBack={handleBackToCatalog}
+      />
+    )
+  }
 
-  
+  /*
+    3. 수능 보카 전용 생성 화면
+  */
+  if (selectedExamId === 'suneung-voca') {
+    return (
+      <SuneungExamGenerator
+        onBack={handleBackToCatalog}
+      />
+    )
+  }
+
   /*
     3. 중3은 중3 전용 생성 화면
   */

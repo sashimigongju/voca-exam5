@@ -24,4 +24,10 @@ export const examCatalog = [
     description: 'Day를 선택해 전체 단어 시험지와 정답지를 만듭니다.',
     available: true,
   },
+  {
+  id: 'suneung-voca',
+  title: '수능 필수 단어',
+  description: 'Day를 선택해 수능 필수 단어 시험지를 만듭니다.',
+  available: true,
+},
 ];
