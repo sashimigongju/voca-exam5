@@ -17,6 +17,12 @@ export const examCatalog = [
     description: '중3 영어 5과·6과 통합 단어시험지',
     available: true,
   },
+  {
+    id: 'middle3-unit7-8',
+    title: '동아(윤정미) 개정 중3 7·8과 시험지',
+    description: '중3 영어 7과·8과 단어·숙어 시험지',
+    available: true,
+  },
 
   {
     id: 'day-voca',

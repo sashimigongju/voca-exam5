@@ -5,6 +5,7 @@ import SuneungExamGenerator from './pages/exams/SuneungExamGenerator'
 import ExamCatalog from './components/ExamCatalog'
 import ExamControls from './components/ExamControls'
 import Middle3ExamGenerator from './components/Middle3ExamGenerator'
+import Middle3Unit78ExamGenerator from './components/Middle3Unit78ExamGenerator'
 import QuestionColumn from './components/QuestionColumn'
 
 import { examCatalog } from './data/examCatalog'
@@ -29,11 +30,7 @@ const examSources = {
   },
 }
 
-function getPoolItems(
-  pool,
-  vocabularyList,
-  definitionList,
-) {
+function getPoolItems(pool, vocabularyList, definitionList) {
   if (pool === 'vocab') {
     return vocabularyList
   }
@@ -42,10 +39,7 @@ function getPoolItems(
     return definitionList
   }
 
-  return [
-    ...vocabularyList,
-    ...definitionList,
-  ]
+  return [...vocabularyList, ...definitionList]
 }
 
 function shuffle(items) {
@@ -342,6 +336,14 @@ function App() {
   if (selectedExamId === 'suneung-voca') {
     return (
       <SuneungExamGenerator
+        onBack={handleBackToCatalog}
+      />
+    )
+  }
+
+  if (selectedExamId === 'middle3-unit7-8') {
+    return (
+      <Middle3Unit78ExamGenerator
         onBack={handleBackToCatalog}
       />
     )

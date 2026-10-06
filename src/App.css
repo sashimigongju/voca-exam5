@@ -1163,3 +1163,59 @@ body {
   font-size: 6.7pt !important;
   line-height: 1.02 !important;
 }
+
+/* 중3 7·8과 50문항 A4 인쇄 레이아웃 */
+.middle3-print-page .sheet-title {
+  font-size: 13.5pt;
+}
+
+.middle3-print-page .sheet-subtitle {
+  font-size: 8.5pt;
+}
+
+.middle3-print-page .student-info {
+  gap: 2.5mm;
+  font-size: 8.5pt;
+}
+
+.middle3-print-page .student-info input {
+  width: 25mm;
+  height: 6.5mm;
+}
+
+.middle3-print-page .question-grid {
+  column-gap: 4mm;
+}
+
+.middle3-print-page .q-row {
+  grid-template-columns: 7.5mm minmax(0, 1fr) 24mm;
+  min-height: 10.4mm;
+}
+
+.middle3-print-page .q-no {
+  font-size: 9pt;
+}
+
+.middle3-print-page .q-prompt {
+  padding: 0.8mm 1.2mm;
+  font-size: 9.1pt;
+  line-height: 1.12;
+}
+
+.middle3-print-page .type-tag {
+  font-size: 7pt;
+}
+
+.middle3-print-page.answer-page .q-row {
+  grid-template-columns: 7.5mm minmax(0, 1fr);
+  min-height: 9.5mm;
+}
+
+.middle3-print-page.answer-page .q-prompt {
+  font-size: 9.5pt;
+  line-height: 1.12;
+}
+
+.middle3-print-page .page-note {
+  font-size: 7.5pt;
+}
