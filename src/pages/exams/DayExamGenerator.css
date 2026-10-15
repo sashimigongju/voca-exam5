@@ -227,6 +227,12 @@
   font-weight: 700;
 }
 
+.has-large-print-words .day-question-prompt,
+.has-large-print-words .day-question-answer {
+  font-size: 9.5pt;
+  line-height: 1.05;
+}
+
 .day-print-footer {
   position: absolute;
   right: 8mm;
@@ -335,4 +341,3 @@
   background: #def4e9;
   color: #17694f;
 }
-

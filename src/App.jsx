@@ -326,6 +326,7 @@ function App() {
     return (
       <DayExamGenerator
         onBack={handleBackToCatalog}
+        enlargePrintWords
       />
     )
   }

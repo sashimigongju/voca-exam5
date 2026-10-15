@@ -242,6 +242,7 @@ function DayExamGenerator({
   onBack,
   data = dayWordsData,
   title = DEFAULT_EXAM_TITLE,
+  enlargePrintWords = false,
 }) {
   const dayList = normalizeDayList(data)
 
@@ -403,7 +404,13 @@ const handleGenerate = () => {
   const pages = splitPages(examItems)
 
   return (
-    <main className="day-exam-page">
+    <main
+      className={
+        enlargePrintWords
+          ? 'day-exam-page has-large-print-words'
+          : 'day-exam-page'
+      }
+    >
       <section className="day-exam-controls">
         <button
           className="day-back-button"

@@ -7,6 +7,7 @@ function SuneungExamGenerator({ onBack }) {
       onBack={onBack}
       data={suneungWordsData}
       title="수능 필수 단어"
+      enlargePrintWords
     />
   )
 }
