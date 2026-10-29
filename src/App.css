@@ -1222,20 +1222,23 @@ body {
 
 /* 영영풀이 본문은 긴 정의가 들어가므로 제목/표 디자인은 유지하고 글자만 조정합니다. */
 .middle2-7-def-print-page .q-prompt {
-  font-size: 8.2pt;
-  line-height: 1.15;
+  font-size: 9pt;
+  line-height: 1.05;
 }
 
 .middle2-7-def-print-page .q-row {
-  min-height: 11mm;
+  height: 10.55mm;
+  min-height: 10.55mm;
 }
 
 .middle2-7-def-print-page.answer-page .q-row {
-  min-height: 8.2mm;
+  height: 10.55mm;
+  min-height: 10.55mm;
 }
 
 .middle2-7-def-print-page.answer-page .q-prompt {
-  font-size: 8.5pt;
+  font-size: 10pt;
+  line-height: 1.05;
 }
 
 /* 중2 7과: 50문항을 A4 전체 높이에 맞춤 (2단 x 25행).
@@ -1249,33 +1252,42 @@ body {
 
 /* 영영풀이 50문항: 긴 문장을 2~3줄로 배치하면서 답안 칸을 유지. */
 .middle2-7-def-print-page.middle2-7-filled-page .q-prompt {
-  font-size: 7.8pt;
-  line-height: 1.09;
+  font-size: 9pt;
+  line-height: 1.05;
   padding: 0.4mm 0.9mm;
 }
 
 .middle2-7-def-print-page.middle2-7-filled-page.answer-page .q-prompt {
-  font-size: 8.5pt;
-  line-height: 1.12;
+  font-size: 10pt;
+  line-height: 1.05;
   padding: 0.6mm 1.2mm;
 }
 
-/* 8과 영영풀이 46문항: 기존 7과 50문항과 같은 A4 채움형 배치.
-   23행 x 2열. 7과 및 다른 단원의 인쇄 CSS에는 영향을 주지 않습니다. */
-.middle2-8-46-def-page .q-row,
-.middle2-8-46-def-page.answer-page .q-row {
+/* 8과 영영풀이도 페이지마다 같은 칸 크기를 유지합니다. */
+.middle2-8-def-print-page .q-row,
+.middle2-8-def-print-page.answer-page .q-row {
   height: 11.4mm;
   min-height: 11.4mm;
 }
-.middle2-8-46-def-page .q-prompt {
-  font-size: 7.8pt;
-  line-height: 1.09;
+.middle2-8-def-print-page .q-prompt {
+  font-size: 9pt;
+  line-height: 1.05;
   padding: 0.4mm 0.9mm;
 }
-.middle2-8-46-def-page.answer-page .q-prompt {
-  font-size: 8.5pt;
-  line-height: 1.12;
+.middle2-8-def-print-page.answer-page .q-prompt {
+  font-size: 10pt;
+  line-height: 1.05;
   padding: 0.6mm 1.2mm;
+}
+
+.middle2-7-filled-page:not(.middle2-7-def-print-page) .q-prompt {
+  font-size: 9.2pt;
+  line-height: 1.05;
+}
+
+.middle2-7-filled-page:not(.middle2-7-def-print-page).answer-page .q-prompt {
+  font-size: 9.8pt;
+  line-height: 1.05;
 }
 
 /* 시험지 생성 화면 */

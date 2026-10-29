@@ -3,9 +3,9 @@ import QuestionColumn from './QuestionColumn'
 import lesson7Data from '../data/middle2Unit7.json'
 import lesson8Data from '../data/middle2Unit8.json'
 
-// 중2 7·8과는 영→한/영영풀이 모두 A4 한 페이지에 50문항씩 배치합니다.
+// 영영풀이는 정의를 읽기 쉽게 25문항씩 페이지를 나눕니다.
 const WORDS_PER_PAGE = 50
-const DEFINITIONS_PER_PAGE = 50
+const DEFINITIONS_PER_PAGE = 25
 
 function makeExamTypes(data) {
   return {
@@ -72,7 +72,7 @@ function Middle2Unit7PrintPage({
 
   return (
     <article
-      className={`print-page middle2-7-print-page ${kind === 'definitions' ? 'middle2-7-def-print-page' : ''} ${items.length === 50 ? 'middle2-7-filled-page' : ''} ${unit === 8 && kind === 'definitions' && items.length === 46 ? 'middle2-8-46-def-page' : ''} ${answerMode ? 'answer-page' : 'exam-page'}`}
+      className={`print-page middle2-7-print-page ${kind === 'definitions' ? 'middle2-7-def-print-page' : ''} ${items.length === 50 ? 'middle2-7-filled-page' : ''} ${unit === 8 && kind === 'definitions' ? 'middle2-8-def-print-page' : ''} ${answerMode ? 'answer-page' : 'exam-page'}`}
     >
       <header className="sheet-header">
         <div className="sheet-title">{answerMode ? '정답지' : title}</div>
