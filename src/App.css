@@ -813,89 +813,79 @@ select {
 }
 
 /* =========================
-   민트코어 테마
+   메인 화면 공통 색상
    ========================= */
 
 :root {
-  --mint-main: #78dcc8;
-  --mint-main-hover: #5ecab4;
-  --mint-deep: #12675d;
-  --mint-soft: #eafbf7;
-  --mint-line: #a7e8dd;
-  --mint-background: #f4fbf9;
+  --brand-teal: #06aab5;
+  --brand-teal-deep: #048e99;
+  --brand-ink: #13263e;
+  --brand-muted: #62738a;
+  --brand-soft: #e7f9f8;
+  --brand-line: #d8edf0;
+  --brand-background: #fbfdfe;
 }
 
-/* 전체 배경 */
 body {
-  background: var(--mint-background);
+  background: var(--brand-background);
 }
 
-/* 기본 주요 버튼 */
 .btn:not(.secondary):not(.light),
 .exam-card-button:not(:disabled) {
-  background: var(--mint-main);
-  color: var(--mint-deep);
-}
-
-/* 주요 버튼에 마우스를 올렸을 때 */
-.btn:not(:disabled):not(.secondary):not(.light):hover,
-.exam-card-button:not(:disabled):hover {
-  background: var(--mint-main-hover);
-  color: var(--mint-deep);
-}
-
-/* 인쇄 버튼 */
-.btn.secondary {
-  background: var(--mint-deep);
+  background: linear-gradient(145deg, #06acb8, #0499a7);
   color: #ffffff;
 }
 
-/* 초기화 버튼 */
+.btn:not(:disabled):not(.secondary):not(.light):hover,
+.exam-card-button:not(:disabled):hover {
+  background: #058c9d;
+  color: #ffffff;
+}
+
+.btn.secondary {
+  background: var(--brand-teal-deep);
+  color: #ffffff;
+}
+
 .btn.light {
-  border: 1px solid var(--mint-line);
-  background: var(--mint-soft);
-  color: var(--mint-deep);
+  border: 1px solid var(--brand-line);
+  background: #ffffff;
+  color: var(--brand-ink);
 }
 
-/* 성공 상태 문구 */
 .status {
-  color: var(--mint-deep);
+  color: var(--brand-teal-deep);
 }
 
-/* 시험지 목록의 작은 제목 */
 .catalog-label {
-  color: var(--mint-deep);
+  color: var(--brand-teal-deep);
 }
 
-/* 문항 수의 강조 숫자 */
 .count-card strong {
-  color: var(--mint-deep);
+  color: var(--brand-teal-deep);
 }
 
-/* 입력창에 포커스가 갔을 때 */
 .control select:focus,
 .control input:focus,
 .student-info input:focus {
-  border-color: var(--mint-deep);
-  outline: 2px solid var(--mint-line);
+  border-color: var(--brand-teal);
+  outline: 2px solid var(--brand-line);
   outline-offset: 1px;
 }
 
-/* Day 메뉴를 사용하는 화면이 있을 경우 */
 .day-button:hover {
-  background: var(--mint-soft);
-  color: var(--mint-deep);
+  background: var(--brand-soft);
+  color: var(--brand-teal-deep);
 }
 
 .day-button.active {
-  background: var(--mint-main);
-  color: var(--mint-deep);
+  background: var(--brand-teal);
+  color: #ffffff;
 }
 
-/* 단어 번호 원형 표시 */
 .word-number {
-  background: var(--mint-soft);
-  color: var(--mint-deep);
+  background: var(--brand-soft);
+  color: var(--brand-teal-deep);
 }
 
 /* ==================================================
@@ -1218,4 +1208,329 @@ body {
 
 .middle3-print-page .page-note {
   font-size: 7.5pt;
+}
+/* 중2 7과: 기존 A4 출력 양식, 여러 페이지에도 정상 페이지 나누기 적용 */
+.middle2-7-print-page {
+  break-after: page;
+  page-break-after: always;
+}
+
+.middle2-7-print-page:last-child {
+  break-after: auto;
+  page-break-after: auto;
+}
+
+/* 영영풀이 본문은 긴 정의가 들어가므로 제목/표 디자인은 유지하고 글자만 조정합니다. */
+.middle2-7-def-print-page .q-prompt {
+  font-size: 8.2pt;
+  line-height: 1.15;
+}
+
+.middle2-7-def-print-page .q-row {
+  min-height: 11mm;
+}
+
+.middle2-7-def-print-page.answer-page .q-row {
+  min-height: 8.2mm;
+}
+
+.middle2-7-def-print-page.answer-page .q-prompt {
+  font-size: 8.5pt;
+}
+
+/* 중2 7과: 50문항을 A4 전체 높이에 맞춤 (2단 x 25행).
+   다른 단원 및 50문항 미만의 페이지는 기존 출력 양식을 유지합니다. */
+.middle2-7-filled-page .q-row,
+.middle2-7-def-print-page.middle2-7-filled-page .q-row,
+.middle2-7-def-print-page.middle2-7-filled-page.answer-page .q-row {
+  height: 10.55mm;
+  min-height: 10.55mm;
+}
+
+/* 영영풀이 50문항: 긴 문장을 2~3줄로 배치하면서 답안 칸을 유지. */
+.middle2-7-def-print-page.middle2-7-filled-page .q-prompt {
+  font-size: 7.8pt;
+  line-height: 1.09;
+  padding: 0.4mm 0.9mm;
+}
+
+.middle2-7-def-print-page.middle2-7-filled-page.answer-page .q-prompt {
+  font-size: 8.5pt;
+  line-height: 1.12;
+  padding: 0.6mm 1.2mm;
+}
+
+/* 8과 영영풀이 46문항: 기존 7과 50문항과 같은 A4 채움형 배치.
+   23행 x 2열. 7과 및 다른 단원의 인쇄 CSS에는 영향을 주지 않습니다. */
+.middle2-8-46-def-page .q-row,
+.middle2-8-46-def-page.answer-page .q-row {
+  height: 11.4mm;
+  min-height: 11.4mm;
+}
+.middle2-8-46-def-page .q-prompt {
+  font-size: 7.8pt;
+  line-height: 1.09;
+  padding: 0.4mm 0.9mm;
+}
+.middle2-8-46-def-page.answer-page .q-prompt {
+  font-size: 8.5pt;
+  line-height: 1.12;
+  padding: 0.6mm 1.2mm;
+}
+
+/* 시험지 생성 화면 */
+@media screen {
+  .app {
+    max-width: 1240px;
+    padding: clamp(20px, 4vw, 48px) clamp(16px, 4vw, 40px);
+    color: #13263e;
+  }
+
+  .app > .screen {
+    position: relative;
+    overflow: hidden;
+    padding: clamp(22px, 4vw, 40px);
+    border: 1px solid #e3edf2;
+    border-radius: 24px;
+    background: #ffffff;
+    box-shadow: 0 18px 48px rgba(27, 69, 102, 0.07);
+  }
+
+  .app > .screen::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 5px;
+    background: linear-gradient(90deg, #06aab5, #6bdce2);
+    content: "";
+  }
+
+  .app .back-button {
+    min-height: 38px;
+    margin-bottom: 26px;
+    padding: 0 14px;
+    border-color: #e3edf2;
+    border-radius: 999px;
+    background: #f5fbfd;
+    color: #048e99;
+    font-weight: 700;
+    transition: background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
+  }
+
+  .app .back-button:hover {
+    transform: translateX(-2px);
+    border-color: #b6e2e5;
+    background: #e7f9f8;
+  }
+
+  .app .intro {
+    margin-bottom: 24px;
+  }
+
+  .app .intro h1 {
+    margin-bottom: 10px;
+    color: #13263e;
+    font-size: clamp(25px, 3vw, 34px);
+    letter-spacing: -0.04em;
+    line-height: 1.3;
+  }
+
+  .app .intro p,
+  .app .description {
+    color: #62738a;
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .app .controls {
+    align-items: stretch;
+    gap: 14px;
+    margin-top: 0;
+    padding: 22px;
+    border: 1px solid #e3edf2;
+    border-radius: 18px;
+    background: #f5fbfd;
+  }
+
+  .app .control {
+    flex: 1 1 180px;
+    min-width: min(180px, 100%);
+    gap: 8px;
+    color: #33435b;
+    font-size: 13px;
+  }
+
+  .app .control select,
+  .app .control input {
+    width: 100%;
+    height: 46px;
+    padding: 0 13px;
+    border: 1px solid #d8e6eb;
+    border-radius: 11px;
+    background: #ffffff;
+    color: #13263e;
+    transition: border-color 160ms ease, box-shadow 160ms ease;
+  }
+
+  .app .control select:hover,
+  .app .control input:hover {
+    border-color: #9bcfd3;
+  }
+
+  .app .btn {
+    min-height: 46px;
+    height: auto;
+    align-self: end;
+    padding: 0 18px;
+    border: 1px solid transparent;
+    border-radius: 11px;
+    background: linear-gradient(145deg, #06acb8, #0499a7);
+    color: #ffffff;
+    font-weight: 800;
+    transition: background-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .app .btn:not(.secondary):not(.light) {
+    background: linear-gradient(145deg, #06acb8, #0499a7);
+    color: #ffffff;
+  }
+
+  .app .btn:not(:disabled):hover {
+    transform: translateY(-1px);
+    box-shadow: 0 7px 16px rgba(3, 146, 157, 0.18);
+  }
+
+  .app .btn:not(:disabled):not(.secondary):not(.light):hover {
+    background: #058c9d;
+    color: #ffffff;
+  }
+
+  .app .btn.secondary {
+    background: #048e99;
+    color: #ffffff;
+  }
+
+  .app .btn.secondary:hover:not(:disabled) {
+    background: #078d98;
+  }
+
+  .app .btn.secondary:disabled {
+    border-color: #e3edf2;
+    background: #e8eff2;
+    color: #718093;
+    opacity: 1;
+  }
+
+  .app .btn.light {
+    border-color: #e3edf2;
+    background: #ffffff;
+    color: #24405b;
+  }
+
+  .app .btn.light:hover:not(:disabled) {
+    border-color: #b6e2e5;
+    background: #eff8f9;
+  }
+
+  .app .status {
+    min-height: 0;
+    margin: 16px 0 8px;
+    padding: 12px 16px;
+    border: 1px solid #d8edf0;
+    border-radius: 12px;
+    background: #e7f9f8;
+    color: #048e99;
+    line-height: 1.5;
+  }
+
+  .app .hint {
+    margin: 10px 0 0;
+    color: #62738a;
+    line-height: 1.65;
+  }
+
+  .app .counts {
+    gap: 10px;
+    margin-top: 18px;
+  }
+
+  .app .count-card {
+    padding: 10px 14px;
+    border-color: #e3edf2;
+    border-radius: 999px;
+    background: #f5fbfd;
+    color: #33435b;
+  }
+
+  .app .count-card strong {
+    color: #048e99;
+  }
+
+  .app .print-area {
+    margin-top: 24px;
+    padding: 20px 12px;
+    border: 1px solid #e3edf2;
+    border-radius: 20px;
+    background: #f1f8fa;
+  }
+
+  .app .empty {
+    max-width: 720px;
+    margin: 10px auto;
+    padding: 36px 20px;
+    border: 1px dashed #b6dadd;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.72);
+    color: #62738a;
+    line-height: 1.6;
+  }
+
+  .app .print-page {
+    border: 1px solid #e2e8e5;
+    border-radius: 2px;
+    box-shadow: 0 12px 30px rgba(28, 73, 110, 0.14);
+  }
+
+  .app :is(button, input, select):focus-visible {
+    outline: 3px solid rgba(9, 167, 184, 0.28);
+    outline-offset: 2px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .app {
+    padding: 18px 12px;
+  }
+
+  .app > .screen {
+    padding: 24px 18px;
+    border-radius: 18px;
+  }
+
+  .app .back-button {
+    margin-bottom: 20px;
+  }
+
+  .app .controls {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    padding: 16px;
+  }
+
+  .app .control {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .app .btn {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .app .print-area {
+    margin-top: 16px;
+    padding: 12px 6px;
+    border-radius: 14px;
+  }
 }

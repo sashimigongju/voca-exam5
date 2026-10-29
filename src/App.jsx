@@ -6,6 +6,7 @@ import ExamCatalog from './components/ExamCatalog'
 import ExamControls from './components/ExamControls'
 import Middle3ExamGenerator from './components/Middle3ExamGenerator'
 import Middle3Unit78ExamGenerator from './components/Middle3Unit78ExamGenerator'
+import Middle2Unit7ExamGenerator from './components/Middle2Unit7ExamGenerator'
 import QuestionColumn from './components/QuestionColumn'
 
 import { examCatalog } from './data/examCatalog'
@@ -338,6 +339,19 @@ function App() {
     return (
       <SuneungExamGenerator
         onBack={handleBackToCatalog}
+      />
+    )
+  }
+
+  // 7·8과는 홈 화면에서 영→한 / 영영풀이를 각각 선택합니다.
+  if (['middle2-unit7-en-ko', 'middle2-unit7-definitions', 'middle2-unit8-en-ko', 'middle2-unit8-definitions'].includes(selectedExamId)) {
+    return (
+      <Middle2Unit7ExamGenerator
+        key={selectedExamId}
+        onBack={handleBackToCatalog}
+        kind={selectedExamId.endsWith('-en-ko') ? 'en-ko' : 'definitions'}
+        unit={selectedExamId.includes('unit8') ? 8 : 7}
+        title={selectedExam.title}
       />
     )
   }

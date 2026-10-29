@@ -1,5 +1,31 @@
 export const examCatalog = [
   {
+    id: 'middle2-unit8-en-ko',
+    title: '동아(윤정미) 개정 중2 8과 · 영→한',
+    description: '1. 영→한 단어 시험지 · 교과서 어휘 목록 72문항',
+    available: true,
+  },
+  {
+    id: 'middle2-unit8-definitions',
+    title: '동아(윤정미) 개정 중2 8과 · 영영풀이',
+    description: '2. 영영풀이 시험지 · 영영 정의 46문항',
+    available: true,
+  },
+
+  {
+    id: 'middle2-unit7-en-ko',
+    title: '동아(윤정미) 개정 중2 7과 · 영→한',
+    description: '1. 영→한 단어 시험지 · 교과서 어휘 목록 66문항',
+    available: true,
+  },
+  {
+    id: 'middle2-unit7-definitions',
+    title: '동아(윤정미) 개정 중2 7과 · 영영풀이',
+    description: '2. 영영풀이 시험지 · 영영 정의 51문항',
+    available: true,
+  },
+
+  {
     id: 'middle2-unit5',
     title: '동아(윤정미) 중2 5과 시험지',
     description: '중2 영어 5과 단어시험지',

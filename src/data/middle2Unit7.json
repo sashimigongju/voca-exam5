@@ -1,0 +1,474 @@
+{
+  "english_to_korean": [
+    {
+      "word": "wash one’s face",
+      "meaning": "세수하다"
+    },
+    {
+      "word": "spicy",
+      "meaning": "양념 맛이 강한, 매운"
+    },
+    {
+      "word": "order",
+      "meaning": "~을 주문하다"
+    },
+    {
+      "word": "delicious",
+      "meaning": "맛있는"
+    },
+    {
+      "word": "souvenir",
+      "meaning": "기념품"
+    },
+    {
+      "word": "picture",
+      "meaning": "그림"
+    },
+    {
+      "word": "festival",
+      "meaning": "축제, 기념제"
+    },
+    {
+      "word": "lots of",
+      "meaning": "많은"
+    },
+    {
+      "word": "favorite",
+      "meaning": "가장 좋아하는"
+    },
+    {
+      "word": "surprise",
+      "meaning": "뜻밖의 일, 놀라운 소식"
+    },
+    {
+      "word": "fireworks",
+      "meaning": "불꽃놀이"
+    },
+    {
+      "word": "participate",
+      "meaning": "참가하다"
+    },
+    {
+      "word": "forget",
+      "meaning": "~을 잊다"
+    },
+    {
+      "word": "until",
+      "meaning": "~까지"
+    },
+    {
+      "word": "chef",
+      "meaning": "요리사"
+    },
+    {
+      "word": "miss",
+      "meaning": "~을 놓치다"
+    },
+    {
+      "word": "recipe",
+      "meaning": "요리법, 레시피"
+    },
+    {
+      "word": "free",
+      "meaning": "무료의"
+    },
+    {
+      "word": "seasonal",
+      "meaning": "계절적인, 특정 계절에 한정된"
+    },
+    {
+      "word": "festival",
+      "meaning": "축제"
+    },
+    {
+      "word": "celebrate",
+      "meaning": "~을 축하하다, 기념하다"
+    },
+    {
+      "word": "coming",
+      "meaning": "시작, 도래"
+    },
+    {
+      "word": "take place",
+      "meaning": "열리다, 개최되다"
+    },
+    {
+      "word": "parade",
+      "meaning": "퍼레이드, 행진"
+    },
+    {
+      "word": "fireworks",
+      "meaning": "불꽃놀이"
+    },
+    {
+      "word": "star",
+      "meaning": "주인공"
+    },
+    {
+      "word": "giant",
+      "meaning": "거대한"
+    },
+    {
+      "word": "wooden",
+      "meaning": "나무로 된"
+    },
+    {
+      "word": "statue",
+      "meaning": "조각상"
+    },
+    {
+      "word": "surprisingly",
+      "meaning": "놀랍게도"
+    },
+    {
+      "word": "burn",
+      "meaning": "~을 태우다"
+    },
+    {
+      "word": "last",
+      "meaning": "마지막의, 최종의"
+    },
+    {
+      "word": "symbolize",
+      "meaning": "~을 상징하다"
+    },
+    {
+      "word": "say goodbye to ~",
+      "meaning": "~에게 작별 인사를 하다"
+    },
+    {
+      "word": "say hello to ~",
+      "meaning": "~에게 인사하다, 안부를 전하다"
+    },
+    {
+      "word": "midsummer",
+      "meaning": "한여름"
+    },
+    {
+      "word": "especially",
+      "meaning": "특히"
+    },
+    {
+      "word": "welcome",
+      "meaning": "~을 환영하다, 반기다"
+    },
+    {
+      "word": "call",
+      "meaning": "~라고 부르다"
+    },
+    {
+      "word": "between A and B",
+      "meaning": "A와 B 사이에"
+    },
+    {
+      "word": "end",
+      "meaning": "끝나다"
+    },
+    {
+      "word": "decorate",
+      "meaning": "~을 장식하다, 꾸미다"
+    },
+    {
+      "word": "pole",
+      "meaning": "기둥, 막대기"
+    },
+    {
+      "word": "traditional",
+      "meaning": "전통의, 전통적인"
+    },
+    {
+      "word": "hardly",
+      "meaning": "거의 ~ 아니다"
+    },
+    {
+      "word": "set",
+      "meaning": "(해가) 지다"
+    },
+    {
+      "word": "dead",
+      "meaning": "죽은"
+    },
+    {
+      "word": "Mexican",
+      "meaning": "멕시코 사람"
+    },
+    {
+      "word": "hold",
+      "meaning": "~을 개최하다, 열다"
+    },
+    {
+      "word": "set ~ up",
+      "meaning": "~을 세우다, 설치하다"
+    },
+    {
+      "word": "altar",
+      "meaning": "제단"
+    },
+    {
+      "word": "cemetery",
+      "meaning": "묘지"
+    },
+    {
+      "word": "area",
+      "meaning": "지역"
+    },
+    {
+      "word": "dress up",
+      "meaning": "변장하다"
+    },
+    {
+      "word": "skeleton",
+      "meaning": "해골, 골격"
+    },
+    {
+      "word": "fur",
+      "meaning": "모피, 털가죽"
+    },
+    {
+      "word": "at the end of ~",
+      "meaning": "~의 말에, ~의 끝에"
+    },
+    {
+      "word": "February",
+      "meaning": "2월"
+    },
+    {
+      "word": "various",
+      "meaning": "다양한"
+    },
+    {
+      "word": "reindeer",
+      "meaning": "순록"
+    },
+    {
+      "word": "participate in ~",
+      "meaning": "~에 참여하다"
+    },
+    {
+      "word": "race",
+      "meaning": "경주, 레이스"
+    },
+    {
+      "word": "wear",
+      "meaning": "~을 입고[쓰고, 신고] 있다"
+    },
+    {
+      "word": "costume",
+      "meaning": "의상, 복장"
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한"
+    },
+    {
+      "word": "matter",
+      "meaning": "중요하다"
+    }
+  ],
+  "english_definitions": [
+    {
+      "word": "spicy",
+      "definition": "having a strong, hot taste"
+    },
+    {
+      "word": "order",
+      "definition": "to ask for food or a drink in a restaurant"
+    },
+    {
+      "word": "delicious",
+      "definition": "having a very pleasant taste"
+    },
+    {
+      "word": "souvenir",
+      "definition": "an object kept to remind you of a place, person, or event"
+    },
+    {
+      "word": "picture",
+      "definition": "a drawing or painting that shows a person, place, or thing"
+    },
+    {
+      "word": "favorite",
+      "definition": "liked more than all others"
+    },
+    {
+      "word": "surprise",
+      "definition": "an unexpected event, fact, or piece of news"
+    },
+    {
+      "word": "forget",
+      "definition": "to be unable to remember something"
+    },
+    {
+      "word": "chef",
+      "definition": "someone whose job is to cook in a restaurant or hotel"
+    },
+    {
+      "word": "miss",
+      "definition": "to fail to use or take an opportunity"
+    },
+    {
+      "word": "recipe",
+      "definition": "a set of instructions for preparing and cooking food"
+    },
+    {
+      "word": "free",
+      "definition": "costing nothing"
+    },
+    {
+      "word": "seasonal",
+      "definition": "relating to a particular season of the year"
+    },
+    {
+      "word": "festival",
+      "definition": "a special occasion when people celebrate something"
+    },
+    {
+      "word": "celebrate",
+      "definition": "to do something enjoyable for a special occasion"
+    },
+    {
+      "word": "coming",
+      "definition": "the arrival of an important time or event"
+    },
+    {
+      "word": "take place",
+      "definition": "to happen, especially as a planned event"
+    },
+    {
+      "word": "parade",
+      "definition": "a public celebration in which people move through the streets"
+    },
+    {
+      "word": "fireworks",
+      "definition": "a display of colored lights and loud sounds in the sky"
+    },
+    {
+      "word": "star",
+      "definition": "the main actor or performer in a film, play, or show"
+    },
+    {
+      "word": "giant",
+      "definition": "extremely large"
+    },
+    {
+      "word": "wooden",
+      "definition": "made of wood"
+    },
+    {
+      "word": "statue",
+      "definition": "a figure of a person or animal made of stone, metal, etc."
+    },
+    {
+      "word": "burn",
+      "definition": "to damage or destroy something with fire"
+    },
+    {
+      "word": "last",
+      "definition": "coming after all others in time or order"
+    },
+    {
+      "word": "symbolize",
+      "definition": "to represent an idea or quality"
+    },
+    {
+      "word": "midsummer",
+      "definition": "the middle part of summer"
+    },
+    {
+      "word": "welcome",
+      "definition": "to greet someone in a friendly and pleased way"
+    },
+    {
+      "word": "end",
+      "definition": "to finish or stop happening"
+    },
+    {
+      "word": "decorate",
+      "definition": "to make something look more attractive by adding things to it"
+    },
+    {
+      "word": "pole",
+      "definition": "a long, thin piece of wood or metal"
+    },
+    {
+      "word": "traditional",
+      "definition": "following the customs or ways of behaving of a particular group"
+    },
+    {
+      "word": "set",
+      "definition": "to go below the horizon"
+    },
+    {
+      "word": "dead",
+      "definition": "no longer alive"
+    },
+    {
+      "word": "Mexican",
+      "definition": "someone from Mexico"
+    },
+    {
+      "word": "hold",
+      "definition": "to organize an event or meeting"
+    },
+    {
+      "word": "set ~ up",
+      "definition": "to put something in position and make it ready for use"
+    },
+    {
+      "word": "altar",
+      "definition": "a special table used in religious ceremonies"
+    },
+    {
+      "word": "cemetery",
+      "definition": "a place where dead people are buried"
+    },
+    {
+      "word": "area",
+      "definition": "a particular part of a place, city, or country"
+    },
+    {
+      "word": "dress up",
+      "definition": "to wear special clothes to look like someone or something"
+    },
+    {
+      "word": "skeleton",
+      "definition": "the structure made of all the bones in a person or animal"
+    },
+    {
+      "word": "fur",
+      "definition": "the skin of an animal with its hair, used for making clothes"
+    },
+    {
+      "word": "various",
+      "definition": "several different"
+    },
+    {
+      "word": "reindeer",
+      "definition": "a large deer that lives in cold northern areas"
+    },
+    {
+      "word": "participate in ~",
+      "definition": "to take part in an activity or event"
+    },
+    {
+      "word": "race",
+      "definition": "a competition to find out who can move the fastest"
+    },
+    {
+      "word": "wear",
+      "definition": "to have clothes, shoes, or another item on your body"
+    },
+    {
+      "word": "costume",
+      "definition": "clothes worn by a performer or to look like another person"
+    },
+    {
+      "word": "possible",
+      "definition": "able to happen or be done"
+    },
+    {
+      "word": "matter",
+      "definition": "to be important"
+    }
+  ]
+}

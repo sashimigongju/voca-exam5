@@ -1,0 +1,478 @@
+{
+  "english_to_korean": [
+    {
+      "word": "butterfly",
+      "meaning": "나비"
+    },
+    {
+      "word": "change",
+      "meaning": "~을 바꾸다, 변화시키다; 변화"
+    },
+    {
+      "word": "office",
+      "meaning": "사무실"
+    },
+    {
+      "word": "sign",
+      "meaning": "간판"
+    },
+    {
+      "word": "say",
+      "meaning": "(간판·기사 등에) ~라고 쓰여 있다"
+    },
+    {
+      "word": "name",
+      "meaning": "(가격·날짜 등)을 말하다, 지정하다"
+    },
+    {
+      "word": "president",
+      "meaning": "대통령"
+    },
+    {
+      "word": "founder",
+      "meaning": "창립자, 설립자"
+    },
+    {
+      "word": "dinosaur",
+      "meaning": "공룡"
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한"
+    },
+    {
+      "word": "jungle",
+      "meaning": "밀림, 정글"
+    },
+    {
+      "word": "million",
+      "meaning": "100만"
+    },
+    {
+      "word": "lucky",
+      "meaning": "운이 좋은"
+    },
+    {
+      "word": "continue",
+      "meaning": "이야기를 계속하다"
+    },
+    {
+      "word": "follow",
+      "meaning": "(규칙 등)을 따르다"
+    },
+    {
+      "word": "instruction",
+      "meaning": "지시"
+    },
+    {
+      "word": "inside",
+      "meaning": "~ 안에"
+    },
+    {
+      "word": "traveler",
+      "meaning": "여행자"
+    },
+    {
+      "word": "sit down",
+      "meaning": "(자리에) 앉다"
+    },
+    {
+      "word": "close one’s eyes",
+      "meaning": "눈을 감다"
+    },
+    {
+      "word": "machine",
+      "meaning": "기계"
+    },
+    {
+      "word": "move",
+      "meaning": "움직이다, 이동하다"
+    },
+    {
+      "word": "arrive",
+      "meaning": "도착하다"
+    },
+    {
+      "word": "explain",
+      "meaning": "~을 설명하다"
+    },
+    {
+      "word": "path",
+      "meaning": "길"
+    },
+    {
+      "word": "at any time",
+      "meaning": "언제라도, 아무 때나"
+    },
+    {
+      "word": "might",
+      "meaning": "~할지도 모른다, ~일지도 모른다"
+    },
+    {
+      "word": "by accident",
+      "meaning": "실수로, 우연히"
+    },
+    {
+      "word": "cause",
+      "meaning": "~을 야기하다, ~을 초래하다"
+    },
+    {
+      "word": "unthinkable",
+      "meaning": "상상할 수 없는"
+    },
+    {
+      "word": "get out of ~",
+      "meaning": "~에서 내리다"
+    },
+    {
+      "word": "be covered in ~",
+      "meaning": "~로 덮여 있다"
+    },
+    {
+      "word": "fog",
+      "meaning": "안개"
+    },
+    {
+      "word": "quiet",
+      "meaning": "조용한, 고요한"
+    },
+    {
+      "word": "excited",
+      "meaning": "들뜬, 신난"
+    },
+    {
+      "word": "careful",
+      "meaning": "조심하는, 주의 깊은"
+    },
+    {
+      "word": "stay",
+      "meaning": "(특정 상태를 계속) 유지하다"
+    },
+    {
+      "word": "calm",
+      "meaning": "침착한"
+    },
+    {
+      "word": "foolish",
+      "meaning": "어리석은, 바보 같은"
+    },
+    {
+      "word": "fool",
+      "meaning": "바보, 멍청이"
+    },
+    {
+      "word": "whisper",
+      "meaning": "속삭이다"
+    },
+    {
+      "word": "away",
+      "meaning": "(거리·시간상으로) ~만큼 떨어져"
+    },
+    {
+      "word": "appear",
+      "meaning": "나타나다"
+    },
+    {
+      "word": "huge",
+      "meaning": "거대한"
+    },
+    {
+      "word": "scared",
+      "meaning": "무서워하는, 겁먹은"
+    },
+    {
+      "word": "breathe",
+      "meaning": "숨을 쉬다"
+    },
+    {
+      "word": "panic",
+      "meaning": "당황하여 어쩔 줄 몰라 하다"
+    },
+    {
+      "word": "turn around",
+      "meaning": "뒤로 돌다"
+    },
+    {
+      "word": "terrified",
+      "meaning": "공포에 질린, 두려움에 떠는"
+    },
+    {
+      "word": "toward",
+      "meaning": "~ 쪽으로, ~을 향하여"
+    },
+    {
+      "word": "moment",
+      "meaning": "잠깐, 순간"
+    },
+    {
+      "word": "silence",
+      "meaning": "고요, 정적"
+    },
+    {
+      "word": "suddenly",
+      "meaning": "갑자기"
+    },
+    {
+      "word": "loud",
+      "meaning": "(소리가) 큰, 시끄러운"
+    },
+    {
+      "word": "roar",
+      "meaning": "(짐승의) 포효"
+    },
+    {
+      "word": "return",
+      "meaning": "돌아오다, 돌아가다"
+    },
+    {
+      "word": "safely",
+      "meaning": "무사히, 안전하게"
+    },
+    {
+      "word": "put ~ in danger",
+      "meaning": "~을 위험에 빠뜨리다"
+    },
+    {
+      "word": "voice",
+      "meaning": "목소리, 음성"
+    },
+    {
+      "word": "mud",
+      "meaning": "진흙"
+    },
+    {
+      "word": "stare",
+      "meaning": "응시하다, 빤히 쳐다보다"
+    },
+    {
+      "word": "for a long time",
+      "meaning": "오랫동안"
+    },
+    {
+      "word": "finally",
+      "meaning": "마침내, 드디어"
+    },
+    {
+      "word": "present",
+      "meaning": "현재, 지금"
+    },
+    {
+      "word": "look around ~",
+      "meaning": "~을 둘러보다"
+    },
+    {
+      "word": "carefully",
+      "meaning": "주의 깊게"
+    },
+    {
+      "word": "except",
+      "meaning": "~을 제외하고, ~만 빼고"
+    },
+    {
+      "word": "confused",
+      "meaning": "혼란스러운"
+    },
+    {
+      "word": "closely",
+      "meaning": "자세히, 면밀히"
+    },
+    {
+      "word": "because of ~",
+      "meaning": "~ 때문에"
+    },
+    {
+      "word": "shocked",
+      "meaning": "충격을 받은"
+    },
+    {
+      "word": "dead",
+      "meaning": "죽은"
+    }
+  ],
+  "english_definitions": [
+    {
+      "word": "change",
+      "definition": "to make someone or something different"
+    },
+    {
+      "word": "change",
+      "definition": "a difference from the way something was before"
+    },
+    {
+      "word": "sign",
+      "definition": "a board with words or pictures that gives information"
+    },
+    {
+      "word": "name",
+      "definition": "to say or choose a particular price, date, time, etc."
+    },
+    {
+      "word": "president",
+      "definition": "the person who leads a country"
+    },
+    {
+      "word": "founder",
+      "definition": "a person who starts a company or organization"
+    },
+    {
+      "word": "possible",
+      "definition": "able to happen or be done"
+    },
+    {
+      "word": "jungle",
+      "definition": "a thick forest in a hot country"
+    },
+    {
+      "word": "lucky",
+      "definition": "having good things happen to you by chance"
+    },
+    {
+      "word": "continue",
+      "definition": "to keep speaking or continue telling a story"
+    },
+    {
+      "word": "instruction",
+      "definition": "something that tells someone what to do"
+    },
+    {
+      "word": "machine",
+      "definition": "a piece of equipment that uses power to do work"
+    },
+    {
+      "word": "move",
+      "definition": "to change position or go to a different place"
+    },
+    {
+      "word": "arrive",
+      "definition": "to reach a place after traveling"
+    },
+    {
+      "word": "explain",
+      "definition": "to make something clear or easy to understand"
+    },
+    {
+      "word": "cause",
+      "definition": "to make something happen"
+    },
+    {
+      "word": "unthinkable",
+      "definition": "too shocking or terrible to imagine"
+    },
+    {
+      "word": "fog",
+      "definition": "a thick cloud near the ground that makes it difficult to see"
+    },
+    {
+      "word": "quiet",
+      "definition": "making little or no noise"
+    },
+    {
+      "word": "careful",
+      "definition": "giving attention to avoid mistakes or danger"
+    },
+    {
+      "word": "calm",
+      "definition": "relaxed and not worried or excited"
+    },
+    {
+      "word": "foolish",
+      "definition": "showing a lack of good judgment"
+    },
+    {
+      "word": "fool",
+      "definition": "a person who behaves in a silly or unwise way"
+    },
+    {
+      "word": "whisper",
+      "definition": "to speak very quietly using a soft voice"
+    },
+    {
+      "word": "appear",
+      "definition": "to come into view or become able to be seen"
+    },
+    {
+      "word": "huge",
+      "definition": "extremely large"
+    },
+    {
+      "word": "scared",
+      "definition": "feeling afraid of someone or something"
+    },
+    {
+      "word": "breathe",
+      "definition": "to take air into the lungs and send it out again"
+    },
+    {
+      "word": "panic",
+      "definition": "to suddenly become so frightened that you cannot think clearly"
+    },
+    {
+      "word": "terrified",
+      "definition": "feeling extremely frightened"
+    },
+    {
+      "word": "moment",
+      "definition": "a very short period of time"
+    },
+    {
+      "word": "silence",
+      "definition": "a time when no sound can be heard"
+    },
+    {
+      "word": "suddenly",
+      "definition": "quickly and unexpectedly"
+    },
+    {
+      "word": "loud",
+      "definition": "making a lot of noise"
+    },
+    {
+      "word": "roar",
+      "definition": "a deep, loud sound made by a large animal"
+    },
+    {
+      "word": "return",
+      "definition": "to go or come back to a place"
+    },
+    {
+      "word": "safely",
+      "definition": "without being hurt or put in danger"
+    },
+    {
+      "word": "voice",
+      "definition": "the sound made when a person speaks"
+    },
+    {
+      "word": "mud",
+      "definition": "soft, wet earth"
+    },
+    {
+      "word": "stare",
+      "definition": "to look at someone or something for a long time"
+    },
+    {
+      "word": "present",
+      "definition": "the time that is happening now"
+    },
+    {
+      "word": "look around ~",
+      "definition": "to look at the things in a place"
+    },
+    {
+      "word": "carefully",
+      "definition": "with attention in order to avoid mistakes"
+    },
+    {
+      "word": "confused",
+      "definition": "unable to understand something clearly"
+    },
+    {
+      "word": "shocked",
+      "definition": "very surprised or upset by something unexpected"
+    },
+    {
+      "word": "dead",
+      "definition": "no longer alive"
+    }
+  ]
+}
