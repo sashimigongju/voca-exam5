@@ -2,10 +2,12 @@ import { useState } from 'react'
 import QuestionColumn from './QuestionColumn'
 import lesson7Data from '../data/middle2Unit7.json'
 import lesson8Data from '../data/middle2Unit8.json'
+import middle1Lesson7Data from '../data/middle1Unit7.json'
+import middle1Lesson8Data from '../data/middle1Unit8.json'
 
-// 영영풀이는 정의를 읽기 쉽게 25문항씩 페이지를 나눕니다.
+// 중1·중2 7·8과 모두 기존 A4 2단 구성으로 50문항까지 한 페이지에 배치합니다.
 const WORDS_PER_PAGE = 50
-const DEFINITIONS_PER_PAGE = 25
+const DEFINITIONS_PER_PAGE = 50
 
 function makeExamTypes(data) {
   return {
@@ -61,6 +63,7 @@ function Middle2Unit7PrintPage({
   answerMode,
   kind,
   unit,
+  grade,
   studentName,
   examDate,
   onStudentNameChange,
@@ -72,7 +75,7 @@ function Middle2Unit7PrintPage({
 
   return (
     <article
-      className={`print-page middle2-7-print-page ${kind === 'definitions' ? 'middle2-7-def-print-page' : ''} ${items.length === 50 ? 'middle2-7-filled-page' : ''} ${unit === 8 && kind === 'definitions' ? 'middle2-8-def-print-page' : ''} ${answerMode ? 'answer-page' : 'exam-page'}`}
+      className={`print-page middle2-7-print-page ${kind === 'definitions' ? 'middle2-7-def-print-page' : ''} ${items.length === 50 ? 'middle2-7-filled-page' : ''} ${grade === 2 && unit === 8 && kind === 'definitions' && items.length === 46 ? 'middle2-8-46-def-page' : ''} ${grade === 1 && unit === 7 && kind === 'definitions' && items.length === 49 ? 'middle1-7-49-def-page' : ''} ${grade === 1 && unit === 8 && kind === 'definitions' && items.length === 38 ? 'middle1-8-38-def-page' : ''} ${answerMode ? 'answer-page' : 'exam-page'}`}
     >
       <header className="sheet-header">
         <div className="sheet-title">{answerMode ? '정답지' : title}</div>
@@ -113,8 +116,11 @@ function Middle2Unit7PrintPage({
   )
 }
 
-function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7 }) {
-  const examTypes = makeExamTypes(unit === 8 ? lesson8Data : lesson7Data)
+function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7, grade = 2 }) {
+  const data = grade === 1
+    ? (unit === 8 ? middle1Lesson8Data : middle1Lesson7Data)
+    : (unit === 8 ? lesson8Data : lesson7Data)
+  const examTypes = makeExamTypes(data)
   const examType = examTypes[kind] ?? examTypes['en-ko']
   const { items: availableItems, label, pageSize } = examType
   const total = availableItems.length
@@ -164,7 +170,7 @@ function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7 }) 
   }
 
   return (
-    <main className="app">
+    <main className={`app ${grade === 1 ? 'middle1-generator' : ''}`}>
       <section className="screen">
         <button className="back-button" type="button" onClick={onBack}>
           ← 시험지 목록으로
@@ -173,16 +179,16 @@ function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7 }) 
         <header className="intro">
           <h1>{title}</h1>
           <p>
-            중2 {unit}과 교재 1~6쪽의 단어로 시험지와 정답지를 만듭니다.
+            중{grade} {unit}과 교재 1~6쪽의 단어로 시험지와 정답지를 만듭니다. (다의어·유의어/반의어 제외)
           </p>
         </header>
 
-        <section className="controls" aria-label={`중2 ${unit}과 시험지 설정`}>
+        <section className="controls" aria-label={`중${grade} ${unit}과 시험지 설정`}>
           <label className="control">
             <span>출제 유형</span>
-            <select value={kind} disabled aria-label="선택한 시험 유형">
-              <option value={kind}>{label} ({total}개)</option>
-            </select>
+            <output className="control-value" aria-label="선택한 시험 유형">
+              {label} ({total}개)
+            </output>
           </label>
 
           <label className="control">
@@ -252,6 +258,7 @@ function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7 }) 
                 answerMode={false}
                 kind={kind}
                 unit={unit}
+                grade={grade}
                 studentName={studentName}
                 examDate={examDate}
                 onStudentNameChange={(event) => setStudentName(event.target.value)}
@@ -269,6 +276,7 @@ function Middle2Unit7ExamGenerator({ onBack, kind = 'en-ko', title, unit = 7 }) 
                 answerMode
                 kind={kind}
                 unit={unit}
+                grade={grade}
                 studentName={studentName}
                 examDate={examDate}
                 onStudentNameChange={(event) => setStudentName(event.target.value)}

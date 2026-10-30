@@ -343,14 +343,15 @@ function App() {
     )
   }
 
-  // 7·8과는 홈 화면에서 영→한 / 영영풀이를 각각 선택합니다.
-  if (['middle2-unit7-en-ko', 'middle2-unit7-definitions', 'middle2-unit8-en-ko', 'middle2-unit8-definitions'].includes(selectedExamId)) {
+  // 중1·중2 7·8과는 홈 화면에서 영→한 / 영영풀이를 각각 선택합니다.
+  if (/^middle[12]-unit[78]-(en-ko|definitions)$/.test(selectedExamId)) {
     return (
       <Middle2Unit7ExamGenerator
         key={selectedExamId}
         onBack={handleBackToCatalog}
         kind={selectedExamId.endsWith('-en-ko') ? 'en-ko' : 'definitions'}
         unit={selectedExamId.includes('unit8') ? 8 : 7}
+        grade={selectedExamId.startsWith('middle1-') ? 1 : 2}
         title={selectedExam.title}
       />
     )

@@ -1,0 +1,514 @@
+{
+  "english_to_korean": [
+    {
+      "word": "agree",
+      "meaning": "동의하다"
+    },
+    {
+      "word": "boring",
+      "meaning": "지루한"
+    },
+    {
+      "word": "actor",
+      "meaning": "배우"
+    },
+    {
+      "word": "famous",
+      "meaning": "유명한"
+    },
+    {
+      "word": "pretty",
+      "meaning": "꽤, 매우"
+    },
+    {
+      "word": "salty",
+      "meaning": "(음식이) 짠"
+    },
+    {
+      "word": "work",
+      "meaning": "작동하다"
+    },
+    {
+      "word": "light",
+      "meaning": "가벼운"
+    },
+    {
+      "word": "over there",
+      "meaning": "저쪽에"
+    },
+    {
+      "word": "helpful",
+      "meaning": "도움이 되는"
+    },
+    {
+      "word": "perfect",
+      "meaning": "완벽한"
+    },
+    {
+      "word": "like",
+      "meaning": "~같은, ~처럼"
+    },
+    {
+      "word": "black hole",
+      "meaning": "블랙홀"
+    },
+    {
+      "word": "difficult",
+      "meaning": "어려운"
+    },
+    {
+      "word": "interesting",
+      "meaning": "흥미로운, 재미있는"
+    },
+    {
+      "word": "be interested in ~",
+      "meaning": "~에 흥미가 있다"
+    },
+    {
+      "word": "thick",
+      "meaning": "두꺼운"
+    },
+    {
+      "word": "heavy",
+      "meaning": "무거운"
+    },
+    {
+      "word": "cheap",
+      "meaning": "싼, 저렴한"
+    },
+    {
+      "word": "lesson",
+      "meaning": "교훈"
+    },
+    {
+      "word": "little",
+      "meaning": "어린"
+    },
+    {
+      "word": "golden",
+      "meaning": "황금빛의"
+    },
+    {
+      "word": "town",
+      "meaning": "소도시, 마을"
+    },
+    {
+      "word": "share",
+      "meaning": "공유하다, 함께 쓰다"
+    },
+    {
+      "word": "social media",
+      "meaning": "소셜 미디어"
+    },
+    {
+      "word": "at first",
+      "meaning": "처음에는"
+    },
+    {
+      "word": "post",
+      "meaning": "~을 게시하다; 게시물, 게시글"
+    },
+    {
+      "word": "everyday",
+      "meaning": "일상적인, 매일의"
+    },
+    {
+      "word": "should",
+      "meaning": "~해야 한다"
+    },
+    {
+      "word": "funny",
+      "meaning": "웃긴, 재미있는"
+    },
+    {
+      "word": "picture",
+      "meaning": "사진"
+    },
+    {
+      "word": "a lot of",
+      "meaning": "많은"
+    },
+    {
+      "word": "follower",
+      "meaning": "추종자, 팬"
+    },
+    {
+      "word": "however",
+      "meaning": "하지만, 그러나"
+    },
+    {
+      "word": "soon",
+      "meaning": "곧, 머지않아"
+    },
+    {
+      "word": "bored",
+      "meaning": "지루해하는"
+    },
+    {
+      "word": "shocking",
+      "meaning": "충격적인"
+    },
+    {
+      "word": "one day",
+      "meaning": "(미래나 과거의) 언젠가, 어느 날"
+    },
+    {
+      "word": "take a walk",
+      "meaning": "산책하다"
+    },
+    {
+      "word": "forest",
+      "meaning": "숲"
+    },
+    {
+      "word": "find",
+      "meaning": "발견하다, 찾다"
+    },
+    {
+      "word": "cottage",
+      "meaning": "오두막집"
+    },
+    {
+      "word": "knock",
+      "meaning": "(문 등을) 두드리다, 노크하다"
+    },
+    {
+      "word": "answer",
+      "meaning": "답, 대답"
+    },
+    {
+      "word": "dark",
+      "meaning": "어두운"
+    },
+    {
+      "word": "inside",
+      "meaning": "안으로, 안에"
+    },
+    {
+      "word": "bowl",
+      "meaning": "그릇"
+    },
+    {
+      "word": "selfie",
+      "meaning": "셀피(스마트폰 등으로 찍은 자신의 사진)"
+    },
+    {
+      "word": "with a smile",
+      "meaning": "미소를 띠고, 미소를 지으며"
+    },
+    {
+      "word": "again and again",
+      "meaning": "몇 번이고, 되풀이해서"
+    },
+    {
+      "word": "break",
+      "meaning": "고장나다, 부서지다; ~을 부수다, 깨다"
+    },
+    {
+      "word": "care",
+      "meaning": "신경 쓰다, 마음 쓰다"
+    },
+    {
+      "word": "shout",
+      "meaning": "소리 지르다, 외치다"
+    },
+    {
+      "word": "upstairs",
+      "meaning": "2층에, 위층으로"
+    },
+    {
+      "word": "tired",
+      "meaning": "피곤한"
+    },
+    {
+      "word": "fall asleep",
+      "meaning": "잠들다"
+    },
+    {
+      "word": "asleep",
+      "meaning": "잠이 든, 자고 있는"
+    },
+    {
+      "word": "about",
+      "meaning": "약, 대략; ~에 대하여"
+    },
+    {
+      "word": "later",
+      "meaning": "후에, 나중에"
+    },
+    {
+      "word": "home",
+      "meaning": "집으로; 집"
+    },
+    {
+      "word": "someone",
+      "meaning": "누군가"
+    },
+    {
+      "word": "cry",
+      "meaning": "외치다"
+    },
+    {
+      "word": "next to ~",
+      "meaning": "~ 옆에"
+    },
+    {
+      "word": "terrible",
+      "meaning": "끔찍한"
+    },
+    {
+      "word": "angrily",
+      "meaning": "화가 나서"
+    },
+    {
+      "word": "jump up",
+      "meaning": "벌떡 일어나다, 뛰어오르다"
+    },
+    {
+      "word": "in surprise",
+      "meaning": "놀라서"
+    },
+    {
+      "word": "break into ~",
+      "meaning": "~에 침입하다"
+    },
+    {
+      "word": "permission",
+      "meaning": "허락"
+    },
+    {
+      "word": "wrong",
+      "meaning": "잘못된"
+    },
+    {
+      "word": "forgive",
+      "meaning": "용서하다"
+    },
+    {
+      "word": "every day",
+      "meaning": "매일"
+    },
+    {
+      "word": "end",
+      "meaning": "끝, 마지막"
+    },
+    {
+      "word": "until",
+      "meaning": "~까지"
+    },
+    {
+      "word": "work",
+      "meaning": "일하다"
+    },
+    {
+      "word": "hard",
+      "meaning": "열심히"
+    },
+    {
+      "word": "last",
+      "meaning": "마지막의"
+    },
+    {
+      "word": "delete",
+      "meaning": "삭제하다"
+    },
+    {
+      "word": "worry",
+      "meaning": "걱정하다"
+    },
+    {
+      "word": "still",
+      "meaning": "아직, 여전히"
+    },
+    {
+      "word": "understand",
+      "meaning": "이해하다"
+    },
+    {
+      "word": "other",
+      "meaning": "다른"
+    },
+    {
+      "word": "already",
+      "meaning": "이미, 벌써"
+    },
+    {
+      "word": "live on",
+      "meaning": "계속 살다, 오래 남다"
+    },
+    {
+      "word": "forever",
+      "meaning": "영원히"
+    },
+    {
+      "word": "from now on",
+      "meaning": "이제부터"
+    },
+    {
+      "word": "think twice",
+      "meaning": "다시 생각하다, 재고하다"
+    },
+    {
+      "word": "before",
+      "meaning": "~하기 전에"
+    },
+    {
+      "word": "press",
+      "meaning": "누르다"
+    }
+  ],
+  "english_definitions": [
+    {
+      "word": "agree",
+      "definition": "to have the same opinion as someone or to say that something is right"
+    },
+    {
+      "word": "boring",
+      "definition": "not fun or interesting, and making you feel tired of it or not interested"
+    },
+    {
+      "word": "salty",
+      "definition": "having too much salt in flavor"
+    },
+    {
+      "word": "work",
+      "definition": "to function or operate correctly"
+    },
+    {
+      "word": "helpful",
+      "definition": "giving support or making it easier for someone to do something"
+    },
+    {
+      "word": "perfect",
+      "definition": "having no mistakes or problems; completely right in every way"
+    },
+    {
+      "word": "interesting",
+      "definition": "making you want to know more about something because it catches your attention"
+    },
+    {
+      "word": "thick",
+      "definition": "having a large distance between two sides or surfaces"
+    },
+    {
+      "word": "cheap",
+      "definition": "costing little money or not expensive"
+    },
+    {
+      "word": "lesson",
+      "definition": "something that you learn from an experience or a class"
+    },
+    {
+      "word": "golden",
+      "definition": "having the color of gold"
+    },
+    {
+      "word": "town",
+      "definition": "a place that is smaller than a city but larger than a village"
+    },
+    {
+      "word": "share",
+      "definition": "to give a part of something to other people or to use something together"
+    },
+    {
+      "word": "social media",
+      "definition": "websites or apps where people share information, pictures, and messages"
+    },
+    {
+      "word": "everyday",
+      "definition": "used or seen every day; common or normal"
+    },
+    {
+      "word": "follower",
+      "definition": "a person who likes or supports another person, group, or page online"
+    },
+    {
+      "word": "shocking",
+      "definition": "making you feel very surprised or upset"
+    },
+    {
+      "word": "forest",
+      "definition": "a large area with many trees and plants"
+    },
+    {
+      "word": "cottage",
+      "definition": "a small simple house, usually in the countryside"
+    },
+    {
+      "word": "knock",
+      "definition": "to hit a door with your hand to get someone’s attention"
+    },
+    {
+      "word": "bowl",
+      "definition": "a round, deep dish used for holding food or liquid"
+    },
+    {
+      "word": "selfie",
+      "definition": "a photograph that you take of yourself with a phone or camera"
+    },
+    {
+      "word": "care",
+      "definition": "to think something is important or to feel interested or worried about it"
+    },
+    {
+      "word": "shout",
+      "definition": "to say something very loudly"
+    },
+    {
+      "word": "upstairs",
+      "definition": "on or going toward a higher floor of a building"
+    },
+    {
+      "word": "tired",
+      "definition": "feeling that you need to rest or sleep"
+    },
+    {
+      "word": "asleep",
+      "definition": "sleeping or in the state of sleep"
+    },
+    {
+      "word": "cry",
+      "definition": "to shout or say something loudly"
+    },
+    {
+      "word": "terrible",
+      "definition": "very bad or unpleasant"
+    },
+    {
+      "word": "permission",
+      "definition": "the act of allowing someone to do something"
+    },
+    {
+      "word": "wrong",
+      "definition": "not correct or true"
+    },
+    {
+      "word": "forgive",
+      "definition": "to stop feeling angry with someone who has done something bad"
+    },
+    {
+      "word": "hard",
+      "definition": "with a lot of effort or energy"
+    },
+    {
+      "word": "last",
+      "definition": "being the final one in a series or coming after all the others"
+    },
+    {
+      "word": "delete",
+      "definition": "to remove something, especially from a computer or phone"
+    },
+    {
+      "word": "worry",
+      "definition": "to feel afraid or nervous because you think something bad might happen"
+    },
+    {
+      "word": "forever",
+      "definition": "for all time; for always"
+    },
+    {
+      "word": "press",
+      "definition": "to push something with your finger or hand"
+    }
+  ]
+}

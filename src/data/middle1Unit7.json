@@ -1,0 +1,538 @@
+{
+  "english_to_korean": [
+    {
+      "word": "in the future",
+      "meaning": "미래에, 장래에"
+    },
+    {
+      "word": "reporter",
+      "meaning": "기자, 리포터"
+    },
+    {
+      "word": "a lot of",
+      "meaning": "많은"
+    },
+    {
+      "word": "be interested in ~",
+      "meaning": "~에 관심이 있다"
+    },
+    {
+      "word": "kind",
+      "meaning": "종류, 유형"
+    },
+    {
+      "word": "delicious",
+      "meaning": "맛있는"
+    },
+    {
+      "word": "famous",
+      "meaning": "유명한"
+    },
+    {
+      "word": "chef",
+      "meaning": "요리사, 셰프"
+    },
+    {
+      "word": "awesome",
+      "meaning": "엄청난, 굉장한"
+    },
+    {
+      "word": "songwriter",
+      "meaning": "작곡가, 작사가"
+    },
+    {
+      "word": "clothes",
+      "meaning": "옷, 의복"
+    },
+    {
+      "word": "cool",
+      "meaning": "멋진"
+    },
+    {
+      "word": "fashion designer",
+      "meaning": "패션 디자이너"
+    },
+    {
+      "word": "someday",
+      "meaning": "언젠가"
+    },
+    {
+      "word": "try",
+      "meaning": "해보다, 시도해보다"
+    },
+    {
+      "word": "fly",
+      "meaning": "조종하다"
+    },
+    {
+      "word": "airplane",
+      "meaning": "비행기"
+    },
+    {
+      "word": "pilot",
+      "meaning": "조종사, 파일럿"
+    },
+    {
+      "word": "engineer",
+      "meaning": "기술자, 엔지니어"
+    },
+    {
+      "word": "sound",
+      "meaning": "~처럼 들리다"
+    },
+    {
+      "word": "then",
+      "meaning": "그다음에, 그리고"
+    },
+    {
+      "word": "director",
+      "meaning": "감독, 책임자"
+    },
+    {
+      "word": "friendship",
+      "meaning": "우정"
+    },
+    {
+      "word": "between",
+      "meaning": "사이에"
+    },
+    {
+      "word": "a lot of",
+      "meaning": "많은"
+    },
+    {
+      "word": "hard",
+      "meaning": "열심히"
+    },
+    {
+      "word": "create",
+      "meaning": "만들다, 창조하다"
+    },
+    {
+      "word": "meet",
+      "meaning": "만나다"
+    },
+    {
+      "word": "some",
+      "meaning": "일부, 몇몇"
+    },
+    {
+      "word": "find",
+      "meaning": "찾다, 발견하다"
+    },
+    {
+      "word": "beautiful",
+      "meaning": "아름다운, 멋진"
+    },
+    {
+      "word": "beach",
+      "meaning": "해변, 바닷가"
+    },
+    {
+      "word": "location",
+      "meaning": "야외 촬영지"
+    },
+    {
+      "word": "manager",
+      "meaning": "관리자"
+    },
+    {
+      "word": "job",
+      "meaning": "일, 직업"
+    },
+    {
+      "word": "perfect",
+      "meaning": "완벽한"
+    },
+    {
+      "word": "place",
+      "meaning": "장소"
+    },
+    {
+      "word": "shoot",
+      "meaning": "촬영하다, 찍다"
+    },
+    {
+      "word": "easy",
+      "meaning": "쉬운, 수월한"
+    },
+    {
+      "word": "travel",
+      "meaning": "여행하다"
+    },
+    {
+      "word": "enjoy",
+      "meaning": "즐기다"
+    },
+    {
+      "word": "challenge",
+      "meaning": "도전"
+    },
+    {
+      "word": "photography",
+      "meaning": "사진술, 촬영술"
+    },
+    {
+      "word": "be in charge of ~",
+      "meaning": "~을 담당하다"
+    },
+    {
+      "word": "together",
+      "meaning": "함께, 같이"
+    },
+    {
+      "word": "capture",
+      "meaning": "포착하다, 담아내다"
+    },
+    {
+      "word": "moment",
+      "meaning": "순간"
+    },
+    {
+      "word": "drone",
+      "meaning": "드론, 무인 항공기"
+    },
+    {
+      "word": "train",
+      "meaning": "훈련하다, 교육하다"
+    },
+    {
+      "word": "take care of ~",
+      "meaning": "~을 돌보다"
+    },
+    {
+      "word": "for a long time",
+      "meaning": "오랫동안"
+    },
+    {
+      "word": "great",
+      "meaning": "훌륭한"
+    },
+    {
+      "word": "actor",
+      "meaning": "배우"
+    },
+    {
+      "word": "sometimes",
+      "meaning": "때때로, 가끔"
+    },
+    {
+      "word": "too",
+      "meaning": "너무"
+    },
+    {
+      "word": "excited",
+      "meaning": "흥분한, 신난"
+    },
+    {
+      "word": "around",
+      "meaning": "주변에"
+    },
+    {
+      "word": "signal",
+      "meaning": "신호"
+    },
+    {
+      "word": "calm",
+      "meaning": "진정시키다"
+    },
+    {
+      "word": "wrangler",
+      "meaning": "조련사, 랭글러"
+    },
+    {
+      "word": "film",
+      "meaning": "영화"
+    },
+    {
+      "word": "editor",
+      "meaning": "편집자"
+    },
+    {
+      "word": "begin",
+      "meaning": "시작하다"
+    },
+    {
+      "word": "shooting",
+      "meaning": "촬영"
+    },
+    {
+      "word": "be over",
+      "meaning": "끝나다"
+    },
+    {
+      "word": "change",
+      "meaning": "바꾸다, 변화시키다"
+    },
+    {
+      "word": "order",
+      "meaning": "순서"
+    },
+    {
+      "word": "scene",
+      "meaning": "장면"
+    },
+    {
+      "word": "delete",
+      "meaning": "삭제하다, 지우다"
+    },
+    {
+      "word": "storytelling",
+      "meaning": "이야기하기"
+    },
+    {
+      "word": "skill",
+      "meaning": "기술, 기량"
+    },
+    {
+      "word": "important",
+      "meaning": "중요한"
+    },
+    {
+      "word": "a lot",
+      "meaning": "많이"
+    },
+    {
+      "word": "Foley artist",
+      "meaning": "폴리 아티스트"
+    },
+    {
+      "word": "effect",
+      "meaning": "효과"
+    },
+    {
+      "word": "studio",
+      "meaning": "작업실, 스튜디오"
+    },
+    {
+      "word": "record",
+      "meaning": "녹음하다, 녹화하다"
+    },
+    {
+      "word": "carefully",
+      "meaning": "주의 깊게, 신중하게"
+    },
+    {
+      "word": "wave",
+      "meaning": "파도"
+    },
+    {
+      "word": "sound",
+      "meaning": "소리; ~하게 들리다"
+    },
+    {
+      "word": "rice",
+      "meaning": "쌀"
+    },
+    {
+      "word": "plastic",
+      "meaning": "플라스틱으로 된"
+    },
+    {
+      "word": "container",
+      "meaning": "그릇, 용기"
+    },
+    {
+      "word": "real",
+      "meaning": "진짜의"
+    }
+  ],
+  "english_definitions": [
+    {
+      "word": "reporter",
+      "definition": "a person who writes or speaks news stories"
+    },
+    {
+      "word": "kind",
+      "definition": "a category of things of the same type or with the same function"
+    },
+    {
+      "word": "delicious",
+      "definition": "having a taste that is very good"
+    },
+    {
+      "word": "famous",
+      "definition": "known by many people"
+    },
+    {
+      "word": "chef",
+      "definition": "a person who cooks food in a restaurant"
+    },
+    {
+      "word": "awesome",
+      "definition": "very great or very good"
+    },
+    {
+      "word": "songwriter",
+      "definition": "a person who writes words or music for songs"
+    },
+    {
+      "word": "clothes",
+      "definition": "things that people wear on their body"
+    },
+    {
+      "word": "fashion designer",
+      "definition": "a person who makes new styles of clothes"
+    },
+    {
+      "word": "fly",
+      "definition": "to control an airplane in the air"
+    },
+    {
+      "word": "airplane",
+      "definition": "a machine that people use to travel in the sky"
+    },
+    {
+      "word": "pilot",
+      "definition": "a person who flies an airplane"
+    },
+    {
+      "word": "engineer",
+      "definition": "a person who designs or builds machines"
+    },
+    {
+      "word": "director",
+      "definition": "a person who controls a movie or a play"
+    },
+    {
+      "word": "friendship",
+      "definition": "a feeling between friends that shows trust"
+    },
+    {
+      "word": "hard",
+      "definition": "with a lot of effort"
+    },
+    {
+      "word": "create",
+      "definition": "to make something new"
+    },
+    {
+      "word": "find",
+      "definition": "to discover or get something that was lost or hidden"
+    },
+    {
+      "word": "beach",
+      "definition": "the land near the sea covered with sand or stones"
+    },
+    {
+      "word": "location",
+      "definition": "a place where a movie is filmed"
+    },
+    {
+      "word": "manager",
+      "definition": "a person who controls the work of other people"
+    },
+    {
+      "word": "shoot",
+      "definition": "to take a picture or a video with a camera"
+    },
+    {
+      "word": "easy",
+      "definition": "not hard to do"
+    },
+    {
+      "word": "travel",
+      "definition": "to go from one place to another, often far"
+    },
+    {
+      "word": "challenge",
+      "definition": "something that is hard to do and needs effort"
+    },
+    {
+      "word": "photography",
+      "definition": "the skill of taking pictures with a camera"
+    },
+    {
+      "word": "be in charge of ~",
+      "definition": "to be responsible for something"
+    },
+    {
+      "word": "capture",
+      "definition": "to catch or record something with a camera"
+    },
+    {
+      "word": "moment",
+      "definition": "a very short time"
+    },
+    {
+      "word": "train",
+      "definition": "to teach a person or an animal skills"
+    },
+    {
+      "word": "take care of ~",
+      "definition": "to look after someone or something"
+    },
+    {
+      "word": "for a long time",
+      "definition": "through a long period of time"
+    },
+    {
+      "word": "actor",
+      "definition": "a person who plays a role in a movie or play"
+    },
+    {
+      "word": "signal",
+      "definition": "a sound, light, or action that gives a message"
+    },
+    {
+      "word": "calm",
+      "definition": "to make someone quiet and relaxed"
+    },
+    {
+      "word": "wrangler",
+      "definition": "a person who takes care of animals"
+    },
+    {
+      "word": "film",
+      "definition": "a story shown in a movie theater"
+    },
+    {
+      "word": "editor",
+      "definition": "a person who prepares text or video for publishing"
+    },
+    {
+      "word": "shooting",
+      "definition": "the act of recording a movie or picture"
+    },
+    {
+      "word": "order",
+      "definition": "the way things are arranged or happen"
+    },
+    {
+      "word": "scene",
+      "definition": "a part of a movie or play"
+    },
+    {
+      "word": "delete",
+      "definition": "to remove writing, pictures, or data"
+    },
+    {
+      "word": "storytelling",
+      "definition": "the act of telling a story"
+    },
+    {
+      "word": "skill",
+      "definition": "the ability to do something well"
+    },
+    {
+      "word": "effect",
+      "definition": "a special change in sound or picture made for movies or plays"
+    },
+    {
+      "word": "record",
+      "definition": "to keep sounds or pictures by using a machine"
+    },
+    {
+      "word": "wave",
+      "definition": "a moving line of water on the surface of the sea"
+    },
+    {
+      "word": "rice",
+      "definition": "the small white seeds that people eat as food"
+    },
+    {
+      "word": "container",
+      "definition": "an object that can hold things inside"
+    }
+  ]
+}

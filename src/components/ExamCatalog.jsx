@@ -1,6 +1,10 @@
 import './ExamCatalog.css'
 
 const featuredIds = [
+  'middle1-unit7-en-ko',
+  'middle1-unit7-definitions',
+  'middle1-unit8-en-ko',
+  'middle1-unit8-definitions',
   'middle2-unit7-en-ko',
   'middle2-unit7-definitions',
   'middle2-unit8-en-ko',
@@ -8,10 +12,14 @@ const featuredIds = [
 ]
 
 const featuredMeta = {
-  'middle2-unit7-en-ko': { unit: '7과', type: '영어 → 한글', count: '66개 어휘', kind: 'words' },
-  'middle2-unit7-definitions': { unit: '7과', type: '영영풀이', count: '51개 영영 정의', kind: 'definitions' },
-  'middle2-unit8-en-ko': { unit: '8과', type: '영어 → 한글', count: '72개 어휘', kind: 'words' },
-  'middle2-unit8-definitions': { unit: '8과', type: '영영풀이', count: '46개 영영 정의', kind: 'definitions' },
+  'middle1-unit7-en-ko': { grade: 1, unit: '7과', type: '영어 → 한글', count: '84개 어휘', kind: 'words' },
+  'middle1-unit7-definitions': { grade: 1, unit: '7과', type: '영영풀이', count: '49개 영영 정의', kind: 'definitions' },
+  'middle1-unit8-en-ko': { grade: 1, unit: '8과', type: '영어 → 한글', count: '89개 어휘', kind: 'words' },
+  'middle1-unit8-definitions': { grade: 1, unit: '8과', type: '영영풀이', count: '38개 영영 정의', kind: 'definitions' },
+  'middle2-unit7-en-ko': { grade: 2, unit: '7과', type: '영어 → 한글', count: '66개 어휘', kind: 'words' },
+  'middle2-unit7-definitions': { grade: 2, unit: '7과', type: '영영풀이', count: '51개 영영 정의', kind: 'definitions' },
+  'middle2-unit8-en-ko': { grade: 2, unit: '8과', type: '영어 → 한글', count: '72개 어휘', kind: 'words' },
+  'middle2-unit8-definitions': { grade: 2, unit: '8과', type: '영영풀이', count: '46개 영영 정의', kind: 'definitions' },
 }
 
 function Icon({ name, size = 24, ...props }) {
@@ -42,7 +50,7 @@ function ExamCard({ exam, onSelectExam }) {
       <span className="home-exam-icon"><Icon name={definition ? 'file' : 'book'} size={27} /></span>
       <span className="home-exam-content">
         <span className="home-exam-tag">{meta.type}</span>
-        <strong>중2 {meta.unit}</strong>
+        <strong>중{meta.grade} {meta.unit}</strong>
         <span className="home-exam-title">{definition ? '영영풀이 시험지' : '영 → 한 시험지'}</span>
         <span className="home-exam-details">동아(윤정미) · {meta.count}</span>
       </span>
@@ -132,7 +140,7 @@ function ExamCatalog({ exams, onSelectExam }) {
         <section className="home-exams-section" id="exam-selection" aria-labelledby="home-exams-heading">
           <div className="home-section-heading">
             <div><div className="home-section-kicker">CHOOSE YOUR EXAM</div><h2 id="home-exams-heading">시험지 선택</h2><p>원하는 단원과 유형을 선택해 단어시험지를 만들어보세요.</p></div>
-            <span className="home-section-count">중2 7·8과 <strong>4가지 유형</strong></span>
+            <span className="home-section-count">중1·중2 7·8과 <strong>8가지 유형</strong></span>
           </div>
           <div className="home-featured-grid">
             {featured.map((exam) => <ExamCard key={exam.id} exam={exam} onSelectExam={onSelectExam} />)}

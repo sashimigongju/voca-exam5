@@ -1546,3 +1546,185 @@ body {
     border-radius: 14px;
   }
 }
+
+.middle1-7-49-def-page .q-row,
+.middle1-7-49-def-page.answer-page .q-row {
+  height: 10.55mm;
+  min-height: 10.55mm;
+}
+
+.middle1-7-49-def-page .q-prompt {
+  font-size: 7.8pt;
+  line-height: 1.09;
+  padding: 0.4mm 0.9mm;
+}
+
+.middle1-7-49-def-page.answer-page .q-prompt {
+  font-size: 8.5pt;
+  line-height: 1.12;
+  padding: 0.6mm 1.2mm;
+}
+
+.middle1-8-38-def-page .q-row,
+.middle1-8-38-def-page.answer-page .q-row {
+  height: 13.85mm;
+  min-height: 13.85mm;
+}
+
+.middle1-8-38-def-page .q-prompt {
+  font-size: 8pt;
+  line-height: 1.12;
+  padding: 0.7mm 1mm;
+}
+
+.middle1-8-38-def-page.answer-page .q-prompt {
+  font-size: 9pt;
+  line-height: 1.12;
+  padding: 0.7mm 1.2mm;
+}
+
+@media screen {
+  .middle1-generator {
+    --mint-main: #78dcc8;
+    --mint-main-hover: #5ecab4;
+    --mint-deep: #12675d;
+    --mint-soft: #eafbf7;
+    --mint-line: #a7e8dd;
+  }
+
+  .middle1-generator > .screen {
+    margin: 8px 0 28px;
+    padding: 28px;
+    border-color: var(--mint-line);
+    border-radius: 22px;
+    background: linear-gradient(145deg, #ffffff 35%, #f5fffc 100%);
+    box-shadow: 0 16px 38px rgba(18, 103, 93, 0.08);
+  }
+
+  .middle1-generator > .screen::before {
+    background: linear-gradient(90deg, #78dcc8, #b2eee2);
+  }
+
+  .middle1-generator .back-button {
+    border-color: var(--mint-line);
+    background: var(--mint-soft);
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .back-button:hover {
+    background: #dff8f1;
+  }
+
+  .middle1-generator .intro::before {
+    display: block;
+    margin-bottom: 9px;
+    color: #369c89;
+    content: "ONLYONE EDU  ·  MIDDLE SCHOOL";
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+  }
+
+  .middle1-generator .intro h1 {
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .intro p {
+    color: #647b76;
+  }
+
+  .middle1-generator .controls {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: end;
+    gap: 14px;
+    padding: 20px;
+    border-color: #d5f0e8;
+    border-radius: 17px;
+    background: rgba(234, 251, 247, 0.72);
+  }
+
+  .middle1-generator .control {
+    min-width: 0;
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .control select,
+  .middle1-generator .control input,
+  .middle1-generator .control-value {
+    width: 100%;
+    min-width: 0;
+    height: 44px;
+    padding: 0 12px;
+    border-color: #c9e8df;
+    border-radius: 10px;
+    background: #ffffff;
+    color: #263f3a;
+  }
+
+  .middle1-generator .control-value {
+    display: flex;
+    align-items: center;
+    font-weight: 650;
+  }
+
+  .middle1-generator .btn {
+    width: 100%;
+    min-height: 44px;
+    border-radius: 10px;
+    font-size: 13px;
+  }
+
+  .middle1-generator .btn:not(.secondary):not(.light) {
+    background: var(--mint-main);
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .btn:not(:disabled):not(.secondary):not(.light):hover {
+    background: var(--mint-main-hover);
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .btn.secondary {
+    background: var(--mint-deep);
+    color: #ffffff;
+  }
+
+  .middle1-generator .btn.light {
+    border-color: var(--mint-line);
+    background: var(--mint-soft);
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .status {
+    border-color: #d5f0e8;
+    background: #f0fcf8;
+    color: var(--mint-deep);
+  }
+
+  .middle1-generator .hint {
+    color: #71847f;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .middle1-generator > .screen {
+    margin-top: 0;
+    padding: 20px 16px;
+    border-radius: 17px;
+  }
+
+  .middle1-generator .controls {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+    padding: 15px;
+  }
+
+  .middle1-generator .control {
+    margin-bottom: 0;
+  }
+
+  .middle1-generator .btn {
+    margin-top: 0;
+  }
+}
